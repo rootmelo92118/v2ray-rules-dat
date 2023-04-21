@@ -45,6 +45,8 @@
   - [**慎用**] Windows 操作系统使用的系统升级域名 [@crazy-max/WindowsSpyBlocker/hosts/update.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/update.txt) 加入到 `geosite:win-update` 类别中
   - [**慎用**] Windows 操作系统附加的隐私跟踪域名 [@crazy-max/WindowsSpyBlocker/hosts/extra.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/extra.txt) 加入到 `geosite:win-extra` 类别中
   - 关于这三个类别的使用方式，请参考下面 [geosite 的 Routing 配置方式](https://github.com/Loyalsoldier/v2ray-rules-dat#geositedat-1)
+- **Add Half Price List of Iran Information Technology Organization**：
+  - According to [@IRConf/Iranian-Half-Price-Traffic-Websites-List](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/blob/main/domains) data
 - **可添加自定义直连、代理和广告域名**：由于上游域名列表更新缓慢或缺失某些域名，所以引入**需要添加的域名**列表。[`hidden 分支`](https://github.com/Loyalsoldier/v2ray-rules-dat/tree/hidden)里的三个文件 `direct.txt`、`proxy.txt` 和 `reject.txt`，分别存放自定义的需要添加的直连、代理、广告域名，最终分别加入到 `geosite:cn`、`geosite:geolocation-!cn` 和 `geosite:category-ads-all` 类别中
 - **可移除自定义直连、代理和广告域名**：由于上游域名列表存在需要被移除的域名，所以引入**需要移除的域名**列表。[`hidden 分支`](https://github.com/Loyalsoldier/v2ray-rules-dat/tree/hidden)里的三个文件 `direct-need-to-remove.txt`、`proxy-need-to-remove.txt` 和 `reject-need-to-remove.txt`，分别存放自定义的需要从 `direct-list`（直连域名列表）、`proxy-list`（代理域名列表）和 `reject-list`（广告域名列表） 移除的域名
 
@@ -93,12 +95,12 @@
 
 **使用方式**：
 
-1. 安装适用于自己操作系统的客户端（推荐 [V2Ray 客户端](https://www.v2fly.org/awesome/tools.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%9B%BE%E5%BD%A2%E5%AE%A2%E6%88%B7%E7%AB%AF)）
+1. 安装适用于自己操作系统的客户端
 2. 下载本项目的 `geoip.dat` 和 `geosite.dat`
 3. 把下载下来的 `geoip.dat` 和 `geosite.dat` 放入到客户端的规则文件目录，替换掉原来的 `geoip.dat` 和 `geosite.dat`
-4. 如果使用的是 V2Ray 客户端，配置可参考下面 👇👇👇
+4. 如果使用的是 V2Ray v4 版本客户端，配置可参考下面 👇👇👇
 
-## 参考配置
+## 参考配置(仅适用于 V2Ray v4 版本)
 
 ### geoip.dat
 
@@ -268,7 +270,24 @@ steamstatic.com.8686c.com @cn
 }
 ```
 
-### 自用 V2Ray 客户端配置（仅供参考，请根据自身需求酌情修改）
+### For Iranian users
+This project includes the half-price list from the Information Technology Organization of Iran. You can configure it on your client device or server in Iran to make it not go through overseas proxy servers.
+It looks like
+```json
+"routing": {
+  "rules": [
+    {
+      "type": "field",
+      "outboundTag": "Direct",
+      "domain": [
+        "geosite:category-ir-half-price"
+      ]
+    }
+  ]
+}
+```
+
+### 自用 V2Ray v4 版本客户端配置（不适用于 V2Ray v5 及更新的版本）
 
 注意事项：
 
@@ -278,7 +297,7 @@ steamstatic.com.8686c.com @cn
 - 最后，不命中任何路由规则的请求和流量，统统走代理
 - `outbounds` 里的第一个大括号内的配置，即为 V2Ray 代理服务的配置。请根据自身需求进行修改，并参照 V2Ray 官网配置文档中的 [配置 > Outbounds > OutboundObject](https://www.v2fly.org/config/outbounds.html#outboundobject) 部分进行补全
 
-```json
+```jsonc
 {
   "log": {
     "loglevel": "warning"
@@ -455,6 +474,7 @@ steamstatic.com.8686c.com @cn
 - [@PeterLowe/adservers](https://pgl.yoyo.org/adservers)
 - [@DanPollock/hosts](https://someonewhocares.org/hosts)
 - [@crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+- [@IRConf/Iranian-Half-Price-Traffic-Websites-List](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/)
 
 ## 项目 Star 数增长趋势
 
