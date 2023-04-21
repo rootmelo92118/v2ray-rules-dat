@@ -151,6 +151,8 @@
 - [**慎用**]`geosite:win-spy`：包含 [@crazy-max/WindowsSpyBlocker/hosts/spy.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt) 文件里的域名，供希望屏蔽 Windows 操作系统隐私跟踪域名的用户使用。
 - [**慎用**]`geosite:win-update`：包含 [@crazy-max/WindowsSpyBlocker/hosts/update.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/update.txt) 文件里的域名，供希望屏蔽 Windows 操作系统自动升级的用户使用。
 - [**慎用**]`geosite:win-extra`：包含 [@crazy-max/WindowsSpyBlocker/hosts/extra.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/extra.txt) 文件里的域名，供希望屏蔽 Windows 操作系统附加隐私跟踪域名的用户使用。
+- `geosite:category-ir-half-price`：Including [@IRConf/Iranian-Half-Price-Traffic-Websites-List/blob/main/domains](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/blob/main/domains) the domain names from this file. To provide Iranian users settings direct connection.
+- `geosite:blocked-by-taiwan`：包含 [@rootmelo92118/blocked-by-taiwan/blob/release/blockedbytaiwan.txt](https://github.com/rootmelo92118/blocked-by-taiwan/blob/release/blockedbytaiwan.txt) 提供台灣使用者進行利用。
 
 > ⚠️ 注意：在 Routing 配置中，类别越靠前（上），优先级越高，所以 `geosite:apple-cn` 和 `geosite:google-cn` 要放置在 `geosite:geolocation-!cn` 前（上）面才能生效。
 
