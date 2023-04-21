@@ -455,14 +455,10 @@ It looks like
 }
 ```
 
-## 使用本项目的项目
-
-- [@Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
-- [@Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules)
-
 ## 致谢
 
 - [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
+- [@Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 - [@v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
 - [@Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom)
 - [@felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
