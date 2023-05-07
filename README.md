@@ -479,4 +479,4 @@ It looks like
 
 ## 项目 Star 数增长趋势
 
-[![Stargazers over time](https://starchart.cc/Loyalsoldier/v2ray-rules-dat.svg)](https://starchart.cc/Loyalsoldier/v2ray-rules-dat)
+[![Stargazers over time](https://starchart.cc/rootmelo92118/v2ray-rules-dat.svg)](https://starchart.cc/rootmelo92118/v2ray-rules-dat)
