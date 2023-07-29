@@ -48,7 +48,7 @@
 - **Add Half Price List of Iran Information Technology Organization**：
   - According to [@IRConf/Iranian-Half-Price-Traffic-Websites-List](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/blob/main/domains) data to `geosite:category-ir-half-price`
 - **加入中華民國台灣地區台灣網路資訊中心RPZ域名列表**：
-  - 根據 [@rootmelo92118/blocked-by-taiwan](https://github.com/rootmelo92118/blocked-by-taiwan/blob/release/blockedbytaiwan.txt) 加入到`geosite:blocked-by-taiwan` 類別中
+  - 根據 [@rootmelo92118/blocked-by-taiwan](https://github.com/rootmelo92118/blocked-by-taiwan/blob/release/twnicRPZ1.0.txt) 加入到`geosite:blocked-by-taiwan` 類別中
 - **加入中華民國內政部警政署165詐騙域名RPZ列表**：
   - 根據 [@FutaGuard/LowTechFilter](https://filter.futa.gg/TW165-domains.txt) 加入到`geosite:blocked-by-taiwan` 類別中
 - **可添加自定义直连、代理和广告域名**：由于上游域名列表更新缓慢或缺失某些域名，所以引入**需要添加的域名**列表。[`hidden 分支`](https://github.com/Loyalsoldier/v2ray-rules-dat/tree/hidden)里的三个文件 `direct.txt`、`proxy.txt` 和 `reject.txt`，分别存放自定义的需要添加的直连、代理、广告域名，最终分别加入到 `geosite:cn`、`geosite:geolocation-!cn` 和 `geosite:category-ads-all` 类别中
