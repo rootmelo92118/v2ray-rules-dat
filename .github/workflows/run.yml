@@ -30,7 +30,8 @@ jobs:
           echo "WIN_UPDATE=https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt" >> $GITHUB_ENV
           echo "WIN_EXTRA=https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt" >> $GITHUB_ENV
           echo "HALF_PRICE_IN_IRAN=https://raw.githubusercontent.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/main/domains" >> $GITHUB_ENV
-          echo "BLOCKED_BY_TAIWAN=https://raw.githubusercontent.com/rootmelo92118/blocked-by-taiwan/release/blockedbytaiwan.txt" >> $GITHUB_ENV
+          echo "BLOCKED_BY_TWNIC=https://raw.githubusercontent.com/rootmelo92118/blocked-by-taiwan/release/twnicRPZ1.0.txt" >> $GITHUB_ENV
+          echo "BLOCKED_BY_165=https://filter.futa.gg/TW165-domains.txt" >> $GITHUB_ENV
           echo "BLOCKED_BY_RUSSIA=https://raw.githubusercontent.com/georgekart/RuBannedList/master/category-banned-ru" >> $GITHUB_ENV
         shell: bash
 
@@ -167,7 +168,8 @@ jobs:
           curl -sSL $WIN_EXTRA | grep "0.0.0.0" | awk '{print $2}' > ./community/data/win-extra
           curl -sSL $WIN_EXTRA | grep "0.0.0.0" | awk '{print $2}' > win-extra.txt
           curl -sSL $HALF_PRICE_IN_IRAN >> ./community/data/category-ir-half-price
-          curl -sSL $BLOCKED_BY_TAIWAN >> ./community/data/blocked-by-taiwan
+          curl -sSL $BLOCKED_BY_TWNIC >> ./community/data/blocked-by-taiwan
+          curl -sSL $BLOCKED_BY_165 >> ./community/data/blocked-by-taiwan
           curl -sSL $BLOCKED_BY_RUSSIA >> ./community/data/blocked-by-russia
 
       - name: Build geosite.dat file
