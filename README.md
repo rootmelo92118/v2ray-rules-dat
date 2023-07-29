@@ -478,6 +478,7 @@ It looks like
 - [@crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
 - [@IRConf/Iranian-Half-Price-Traffic-Websites-List](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/)
 - [@rootmelo92118/blocked-by-taiwan](https://github.com/rootmelo92118/blocked-by-taiwan)
+- [@FutaGuard/LowTechFilter](https://github.com/FutaGuard/LowTechFilter)
 
 ## 项目 Star 数增长趋势
 
