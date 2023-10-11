@@ -33,6 +33,7 @@ jobs:
           echo "BLOCKED_BY_TWNIC=https://raw.githubusercontent.com/rootmelo92118/blocked-by-taiwan/release/twnicRPZ1.0.txt" >> $GITHUB_ENV
           echo "BLOCKED_BY_165=https://filter.futa.gg/TW165-domains.txt" >> $GITHUB_ENV
           echo "BLOCKED_BY_RUSSIA=https://raw.githubusercontent.com/georgekart/RuBannedList/master/category-banned-ru" >> $GITHUB_ENV
+          echo "BLOCKED_BY_FATI=https://www.fullaccesstointernet.cn.eu.org:8443/deploy_resource/censorship/faticensor" >> $GITHUB_ENV
         shell: bash
 
       - name: Checkout the "hidden" branch of this repo
@@ -172,11 +173,12 @@ jobs:
           curl -sSL $BLOCKED_BY_165 >> ./community/data/blocked-by-taiwan
           cat ./community/data/blocked-by-taiwan >> blocked-by-taiwan.txt
           curl -sSL $BLOCKED_BY_RUSSIA >> ./community/data/blocked-by-russia
+          curl -sSL $BLOCKED_BY_FATI >> ./community/data/faticensor
 
       - name: Build geosite.dat file
         run: |
           cd custom || exit 1
-          go run ./ --datapath=../community/data
+          go run ./ --datapath=../community/data --outputdir=./ --exportlists=faticensor
 
       - name: Move and zip files and generate sha256 hash
         run: |
@@ -200,8 +202,9 @@ jobs:
           file_glob: true
           file: ./publish/*
 
-      - name: Git push assets to "release" branch
+      - name: Move file and use git push assets to "release" branch
         run: |
+          install -p faticensor.txt ./publish/
           cd publish || exit 1
           git init
           git config --local user.name "github-actions[bot]"
