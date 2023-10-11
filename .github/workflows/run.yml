@@ -203,7 +203,7 @@ jobs:
           file: ./publish/*
       - name: Move file to publish folder
         run: |
-          install -p ./custom/faticensor.txt ./publish/
+          install -p ./custom/publish/faticensor.txt ./publish/
       - name: Move file and use git push assets to "release" branch
         run: |
           cd publish || exit 1
