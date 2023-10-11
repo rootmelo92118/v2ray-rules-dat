@@ -178,7 +178,7 @@ jobs:
       - name: Build geosite.dat file
         run: |
           cd custom || exit 1
-          go run ./ --datapath=../community/data --outputdir=./ --exportlists=faticensor
+          go run ./ --datapath=../community/data --outputpath=./ --exportlists=faticensor
 
       - name: Move and zip files and generate sha256 hash
         run: |
