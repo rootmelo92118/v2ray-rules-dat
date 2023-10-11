@@ -201,10 +201,11 @@ jobs:
           tag: ${{ env.TAG_NAME }}
           file_glob: true
           file: ./publish/*
-
-      - name: Move file and use git push assets to "release" branch
+      - name: Move file to publish folder
         run: |
           install -p faticensor.txt ./publish/
+      - name: Move file and use git push assets to "release" branch
+        run: |
           cd publish || exit 1
           git init
           git config --local user.name "github-actions[bot]"
