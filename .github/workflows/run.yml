@@ -64,6 +64,11 @@ jobs:
         with:
           go-version-file: ./custom/go.mod
 
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
       - name: Get geoip.dat relative files
         run: |
           wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat
@@ -224,3 +229,23 @@ jobs:
           for file in $(ls); do
             curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
           done
+          
+      - name: Convert FATIcensor to AdGuard format file
+        run: |
+          cd publish || exit 1
+          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/OnlyConvert.py
+          mkdir AdGuard_Rule
+          python3 GenerateAndConvert.py ./faticensor.txt ./AdGuard_Rule
+          
+      - name: Git push assets to "AdGuard" branch
+        run: |
+          cd publish/AdGuard_Rule || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b AdGuard
+          git add *.txt
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin AdGuard
+          rm -rf .git
