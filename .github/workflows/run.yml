@@ -230,21 +230,16 @@ jobs:
             curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
           done
           
-      - name: Convert FATIcensor to AdGuard format file 
+      - name: Convert FATIcensor to AdGuard format file
         run: |
-          cd community || exit 1
-          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvert.py
+          cd publish || exit 1
+          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/OnlyConvert.py
           mkdir AdGuard_Rule
-          python3 GenerateAndConvert.py ./data ./AdGuard_Rule
-
-      - name: Modify the head of FATIcensor
-        run: |
-          cd community/AdGuard_Rule || exit 1
-          sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To The Internet./g' faticensor.py
+          python3 OnlyConvert.py ./faticensor.txt ./AdGuard_Rule
           
       - name: Git push assets to "AdGuard" branch
         run: |
-          cd community/AdGuard_Rule || exit 1
+          cd publish/AdGuard_Rule || exit 1
           git init
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
