@@ -235,7 +235,6 @@ jobs:
           cd community || exit 1
           curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvert.py
           mkdir AdGuard_Rule
-          sed -i 's/outputdir/outputpath/g' GenerateAndConvert.py
           python3 GenerateAndConvert.py ./data ./AdGuard_Rule
 
       - name: Modify the head of FATIcensor
