@@ -235,7 +235,7 @@ jobs:
           cd publish || exit 1
           curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/OnlyConvert.py
           mkdir AdGuard_Rule
-          python3 GenerateAndConvert.py ./faticensor.txt ./AdGuard_Rule
+          python3 OnlyConvert.py ./faticensor.txt ./AdGuard_Rule
           
       - name: Git push assets to "AdGuard" branch
         run: |
