@@ -240,7 +240,7 @@ jobs:
       - name: Modify the head of FATIcensor
         run: |
           cd community/AdGuard_Rule || exit 1
-          sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To The Internet./g' faticensor.py
+          sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To The Internet./g' faticensor.txt
           
       - name: Git push assets to "AdGuard" branch
         run: |
