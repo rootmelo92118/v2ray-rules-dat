@@ -230,7 +230,7 @@ jobs:
             curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
           done
           
-      - name: Convert FATIcensor to AdGuard format file 
+      - name: Generate plaintext and Convert to the rules of AdGuard format
         run: |
           cd community || exit 1
           curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvert.py
