@@ -207,7 +207,7 @@ jobs:
           file_glob: true
           file: ./publish/*
           
-      - name: Move file to publish folder
+      - name: Move FATIcensor to publish folder
         run: |
           install -p ./custom/publish/faticensor.txt ./publish/
           
