@@ -180,7 +180,7 @@ jobs:
           curl -sSL $BLOCKED_BY_RUSSIA >> ./community/data/blocked-by-russia
           curl -sSL $BLOCKED_BY_FATI >> ./community/data/faticensor
 
-      - name: Build geosite.dat file
+      - name: Build geosite.dat file and export FATIcensor
         run: |
           cd custom || exit 1
           go run ./ --datapath=../community/data --exportlists=faticensor
