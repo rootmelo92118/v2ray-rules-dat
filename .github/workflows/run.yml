@@ -211,7 +211,7 @@ jobs:
         run: |
           install -p ./custom/publish/faticensor.txt ./publish/
           
-      - name: Move file and use git push assets to "release" branch
+      - name: Git push assets to "release" branch
         run: |
           cd publish || exit 1
           git init
