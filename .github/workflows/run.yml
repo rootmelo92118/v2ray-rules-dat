@@ -33,7 +33,7 @@ jobs:
           echo "BLOCKED_BY_TWNIC=https://raw.githubusercontent.com/rootmelo92118/blocked-by-taiwan/release/twnicRPZ1.0.txt" >> $GITHUB_ENV
           echo "BLOCKED_BY_165=https://filter.futa.gg/TW165-domains.txt" >> $GITHUB_ENV
           echo "BLOCKED_BY_RUSSIA=https://raw.githubusercontent.com/georgekart/RuBannedList/master/category-banned-ru" >> $GITHUB_ENV
-          echo "BLOCKED_BY_FATI=https://www.fullaccesstointernet.cn.eu.org:8443/deploy_resource/censorship/faticensor" >> $GITHUB_ENV
+          echo "BLOCKED_BY_FATI=https://www.fullaccesstointernet.cn.eu.org:8443/deploy_resource/censorship/domain" >> $GITHUB_ENV
         shell: bash
 
       - name: Checkout the "hidden" branch of this repo
@@ -71,8 +71,8 @@ jobs:
 
       - name: Get geoip.dat relative files
         run: |
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat.sha256sum
+          wget https://github.com/rootmelo92118/geoip-custom/raw/release/geoip.dat
+          wget https://github.com/rootmelo92118/geoip-custom/raw/release/geoip.dat.sha256sum
 
       - name: Generate GFWList domains
         run: |
