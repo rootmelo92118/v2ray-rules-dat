@@ -18,7 +18,7 @@
   - `geoip:telegram`
   - `geoip:twitter`
 - 新增类别
-  - 允許以ASN來調用IP數據，範例 `geoip:as138421`（`GEOIP,AS138421`）來選定 China Unicom。
+  - 允許以ASN來調用IP數據，範例 `geoip:as138421` 來選定 China Unicom。
 > 希望定制 `geoip.dat` 文件？查看仓库 [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)。
 
 ### geosite.dat
