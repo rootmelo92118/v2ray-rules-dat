@@ -252,3 +252,27 @@ jobs:
           git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git push -f -u origin AdGuard
           rm -rf .git
+
+      - name: Generate plaintext and Convert to the rules of clash RULE-SET format
+        run: |
+          cd community || exit 1
+          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvertForClash.py
+          mkdir clash_Rule_Set
+          python3 GenerateAndConvertForClash.py ./data ./clash_Rule_Set
+      - name: Modify the head of FATIcensor
+        run: |
+          cd community/clash_Rule_Set || exit 1
+          sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To Internet./g' faticensor.yaml
+          
+      - name: Git push assets to "clash" branch
+        run: |
+          cd community/clash_Rule_Set || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b clash
+          git add *.yaml
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin clash
+          rm -rf .git
