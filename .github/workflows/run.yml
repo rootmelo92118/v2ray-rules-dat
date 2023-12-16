@@ -260,11 +260,6 @@ jobs:
           mkdir clash_Rule_Set
           python3 GenerateAndConvert.py ./data ./clash_Rule_Set
 
-      - name: Modify the head of FATIcensor
-        run: |
-          cd community/clash_Rule_Set || exit 1
-          sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To Internet./g' faticensor.yaml
-          
       - name: Git push assets to "clash" branch
         run: |
           cd community/clash_Rule_Set || exit 1
