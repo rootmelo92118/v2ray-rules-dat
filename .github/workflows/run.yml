@@ -32,7 +32,6 @@ jobs:
           echo "HALF_PRICE_IN_IRAN=https://raw.githubusercontent.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/main/domains" >> $GITHUB_ENV
           echo "BLOCKED_BY_TAIWAN=https://raw.githubusercontent.com/rootmelo92118/blocked-by-taiwan/release/blocked-by-taiwan.txt" >> $GITHUB_ENV
           echo "BLOCKED_BY_RUSSIA=https://raw.githubusercontent.com/georgekart/RuBannedList/master/category-banned-ru" >> $GITHUB_ENV
-          echo "BLOCKED_BY_FATI=https://www.fullaccesstointernet.cn.eu.org:8443/deploy_resource/censorship/domain" >> $GITHUB_ENV
         shell: bash
 
       - name: Checkout the "hidden" branch of this repo
@@ -157,6 +156,8 @@ jobs:
           cp ./community/data/category-ads-all reject-list.txt
 
       - name: Create `google-cn`、`apple-cn`、`gfw`、`greatfire`、`category-ir-half-price`、`blocked-by-taiwan` lists
+        env:
+          CENSORED_LIST: ${{ secrets.FATI_CENSOR_DOMAIN }}
         run: |
           curl -sSL $GOOGLE_DOMAINS_URL | perl -ne '/^server=\/([^\/]+)\// && print "full:$1\n"' > ./community/data/google-cn
           curl -sSL $GOOGLE_DOMAINS_URL | perl -ne '/^server=\/([^\/]+)\// && print "full:$1\n"' > google-cn.txt
@@ -176,7 +177,7 @@ jobs:
           curl -sSL $BLOCKED_BY_TAIWAN >> ./community/data/blocked-by-taiwan
           cat ./community/data/blocked-by-taiwan >> blocked-by-taiwan.txt
           curl -sSL $BLOCKED_BY_RUSSIA >> ./community/data/blocked-by-russia
-          curl -sSL $BLOCKED_BY_FATI >> ./community/data/faticensor
+          curl -sSL ${CENSORED_LIST} >> ./community/data/faticensor
 
       - name: Build geosite.dat file and export FATIcensor
         run: |
