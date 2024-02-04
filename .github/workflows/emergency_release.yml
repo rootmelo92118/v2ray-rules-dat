@@ -1,9 +1,6 @@
 name: Emergency build V2Ray rules dat files 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - emergency_release
 jobs:
   build:
     runs-on: ubuntu-latest
