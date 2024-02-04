@@ -1,4 +1,4 @@
-name: Build V2Ray rules dat files
+name: Emergency build V2Ray rules dat files 
 on:
   push:
     branches:
