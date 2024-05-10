@@ -29,7 +29,7 @@ def main(source="./data", output="./clash_Rule_Set"):
             exportList = exportList + sourceDir[i]
         else:
             exportList = exportList + sourceDir[i] + ","
-    os.system("go run ./ --outputdir=" + output + " --exportlists=" + exportList)
+    os.system("go run ./ --outputpath=" + output + " --exportlists=" + exportList)
     print("\n\n")
     for i in sourceDir:
         i = i.lower()
