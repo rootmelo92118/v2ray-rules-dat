@@ -232,19 +232,19 @@ jobs:
           
       - name: Generate plaintext and Convert to the rules of AdGuard format
         run: |
-          cd community || exit 1
+          cd custom || exit 1
           curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvert.py
           mkdir AdGuard_Rule
-          python3 GenerateAndConvert.py ./data ./AdGuard_Rule
+          python3 GenerateAndConvert.py ../community/data ./AdGuard_Rule
 
       - name: Modify the head of FATIcensor
         run: |
-          cd community/AdGuard_Rule || exit 1
+          cd custom/AdGuard_Rule || exit 1
           sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To Internet./g' faticensor.txt
           
       - name: Git push assets to "AdGuard" branch
         run: |
-          cd community/AdGuard_Rule || exit 1
+          cd custom/AdGuard_Rule || exit 1
           git init
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -257,18 +257,18 @@ jobs:
 
       - name: Generate plaintext and Convert to the rules of clash RULE-SET format
         run: |
-          cd community || exit 1
+          cd custom || exit 1
           curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvertForClash.py
           mkdir clash_Rule_Set
-          python3 GenerateAndConvertForClash.py ./data ./clash_Rule_Set
+          python3 GenerateAndConvertForClash.py ../community/data ./clash_Rule_Set
       - name: Modify the head of FATIcensor
         run: |
-          cd community/clash_Rule_Set || exit 1
+          cd custom/clash_Rule_Set || exit 1
           sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To Internet./g' faticensor.yaml
           
       - name: Git push assets to "clash" branch
         run: |
-          cd community/clash_Rule_Set || exit 1
+          cd custom/clash_Rule_Set || exit 1
           git init
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
