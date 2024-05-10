@@ -233,7 +233,7 @@ jobs:
       - name: Generate plaintext and Convert to the rules of AdGuard format
         run: |
           cd custom || exit 1
-          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvert.py
+          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/hidden/GenerateAndConvert.py
           mkdir AdGuard_Rule
           python3 GenerateAndConvert.py ../community/data ./AdGuard_Rule
 
@@ -258,7 +258,7 @@ jobs:
       - name: Generate plaintext and Convert to the rules of clash RULE-SET format
         run: |
           cd custom || exit 1
-          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvertForClash.py
+          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-dat/hidden/GenerateAndConvertForClash.py
           mkdir clash_Rule_Set
           python3 GenerateAndConvertForClash.py ../community/data ./clash_Rule_Set
       - name: Modify the head of FATIcensor
