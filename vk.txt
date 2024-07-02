@@ -1,0 +1,27 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/vk
+! domain: 20
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||mvk.com^
+||userapi.com^
+||vk-cdn.me^
+||vk-cdn.net^
+||vk-portal.net^
+||vk.cc^
+||vk.com^
+||vk.design^
+||vk.link^
+||vk.me^
+||vkcache.com^
+||vkgo.app^
+||vklive.app^
+||vkmessenger.com^
+||vkmessenger.app^
+||vkontakte.ru^
+||vkuseraudio.com^
+||vkuserlive.net^
+||vkuservideo.com^
+||vkuservideo.net^

@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gog
+! domain: 2
+! full: 6
+! keyword: 0
+! regexp: 3
+
+
+||gog.com^
+||gog-statics.com^
+|gog.qtlglb.com^
+|gogalaxy.gog-statics.com^
+|menu-static.gog-statics.com^
+|productcard.gog-statics.com^
+|static-login.gog-statics.com^
+|www4-static.gog-statics.com^
+/^cdn-akamai-.+\.gog-services\.com$/
+/^gog-cdn-.+\.footprint\.net$/
+/^images(-\d)?\.gog-statics\.com$/

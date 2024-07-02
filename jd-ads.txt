@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/jd-ads
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ads.union.jd.com^
+||c-nfa.jd.com^
+||cps.360buy.com^
+||jzt.jd.com^
+||stat.m.jd.com^
+||img-x.jd.com^

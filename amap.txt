@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/amap
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||a-map.cn^
+||a-map.co^
+||a-map.link^
+||a-map.vip^
+||acloudrender.com^
+||amap.com^
+||amapauto.com^
+||anav.com^
+||autonavi.com^
+||gaode.com^

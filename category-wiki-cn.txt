@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||fgo.wiki^
+||huijistatic.com^
+||huijiwiki.com^
+||mbalib.com^
+||moegirl.org^
+||moegirl.org.cn^

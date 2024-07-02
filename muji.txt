@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/muji
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||muji.com^
+||muji.eu^
+||muji.net^
+||muji.tw^
+||muji.us^
+||mujikorea.net^
+||muji.com.hk^
+||muji.com.cn^

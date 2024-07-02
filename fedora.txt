@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/fedora
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||getfedora.org^
+||fedoraforum.org^
+||fedorapeople.org^
+||fedoraproject.org^
+||fedoramagazine.org^

@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tencent-dev
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||openmidas.com^
+||qq.design^
+||qqgamedesign.com^
+||tencent.design^
+||tjstats.com^
+||wegamedeveloper.com^
+||weixinbridge.com^
+||weui.io^

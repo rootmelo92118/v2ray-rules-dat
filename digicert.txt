@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/digicert
+! domain: 14
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||digicert-cn.com^
+||digicert-validation.com^
+||digicert.com^
+||digitalcertvalidation.com^
+||freessl.com^
+||geotrust.com^
+||rapidssl.com^
+||thawte.com^
+||thawte.de^
+||thawte.fr^
+||quovadisglobal.com^
+||public-trust.com^
+||dcocsp.cn^
+||digicert.cn^

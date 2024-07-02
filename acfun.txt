@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/acfun
+! domain: 2
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+||acfun.cn^
+||aixifan.com^
+|apilog-web.acfun.cn^

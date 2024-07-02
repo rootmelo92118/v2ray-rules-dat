@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/huobi
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||hbabit.com^
+||hbfile.net^
+||huobi.com^
+||huobi.me^
+||huobi.pro^
+||huobi.sc^
+||huobiasia.vip^
+||huobigroup.com^
+||huobitoken.com^

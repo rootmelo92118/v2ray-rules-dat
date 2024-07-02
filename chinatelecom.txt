@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinatelecom
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||189.cn^
+||chinatelecom-h.com^
+||chinatelecomglobal.com^
+||chntel.com^
+||ctexcel.ca^
+||ctexcel.com^
+||ctexcel.fr^
+||ctexcel.us^
+||chinatelecom.com.cn^
+||ctexcel.com.hk^

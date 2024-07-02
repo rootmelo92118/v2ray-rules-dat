@@ -1,0 +1,39 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/thomsonreuters
+! domain: 32
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||thomsonreuters.ru^
+||reuters.com^
+||elite.com^
+||legaltracker.com^
+||reuters.tv^
+||reutersagency.cn^
+||reut.rs^
+||thomsonreuters.ca^
+||thomsonreuters.cn^
+||tr.com^
+||tmsnrt.rs^
+||thomsonreutersmexico.com^
+||aranzadi.es^
+||thomsonreuters.com^
+||reutersmedia.net^
+||corepublishingsolutions.com^
+||thomsonreuters.in^
+||thomsonreuters.es^
+||thomsonreuters.co.nz^
+||thomsonreuters.co.uk^
+||thomsonreuters.com.sg^
+||thomsonreuters.com.tr^
+||thomsonreuters.com.hk^
+||thomsonreuters.com.my^
+||thomsonreuters.com.pe^
+||sweetandmaxwell.co.uk^
+||thomsonreuters.com.br^
+||thomsonreuters.co.jp^
+||thomsonreuters.co.kr^
+||thomsonreuters.com.au^
+||livrariart.com.br^
+||thomsonreuters.com.ar^

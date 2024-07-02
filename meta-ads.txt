@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/meta-ads
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||graph.whatsapp.com^
+||graph.whatsapp.net^
+||analytics.facebook.com^
+||pixel.facebook.com^
+||graph.instagram.com^
+||graph-fallback.instagram.com^
