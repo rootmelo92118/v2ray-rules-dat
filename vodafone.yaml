@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/vodafone
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,vodafone.com
+  - DOMAIN-SUFFIX,vodafone.de
+  - DOMAIN-SUFFIX,vodafone.it
+  - DOMAIN-SUFFIX,myvodafone.com.au
+  - DOMAIN-SUFFIX,myvodafone.com.ws
+  - DOMAIN-SUFFIX,vodafone.co.uk
+  - DOMAIN-SUFFIX,vodafone.com.au
+  - DOMAIN-SUFFIX,vodafone.com.tr

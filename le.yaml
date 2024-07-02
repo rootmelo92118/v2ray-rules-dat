@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/le
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,le.com
+  - DOMAIN-SUFFIX,lecloud.com
+  - DOMAIN-SUFFIX,lemall.com
+  - DOMAIN-SUFFIX,letv.com
+  - DOMAIN-SUFFIX,letvcdn.com
+  - DOMAIN-SUFFIX,letvimg.com

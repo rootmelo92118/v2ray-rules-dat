@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-hospital-cn
+# domain: 3
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,hospital.pku.edu.cn
+  - DOMAIN,ss.bjmu.edu.cn
+  - DOMAIN-SUFFIX,fuwai.com
+  - DOMAIN-SUFFIX,pkuh6.cn
+  - DOMAIN-SUFFIX,puh3.net.cn

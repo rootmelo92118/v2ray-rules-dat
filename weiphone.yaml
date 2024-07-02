@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/weiphone
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,feng.com
+  - DOMAIN-SUFFIX,fengimg.com
+  - DOMAIN-SUFFIX,wfdata.club

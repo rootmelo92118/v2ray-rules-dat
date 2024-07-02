@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/erolabs
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ero-labs.cloud
+  - DOMAIN-SUFFIX,ero-labs.com
+  - DOMAIN-SUFFIX,ero-labs.net
+  - DOMAIN-SUFFIX,ero-labs.online
+  - DOMAIN-SUFFIX,ero-labs.site
+  - DOMAIN-SUFFIX,erolabs.cloud
+  - DOMAIN-SUFFIX,erolabs.com
+  - DOMAIN-SUFFIX,erolabs.game
+  - DOMAIN-SUFFIX,erolabs.net
+  - DOMAIN-SUFFIX,erolabs.online

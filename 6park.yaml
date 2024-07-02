@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/6park
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,6park.com
+  - DOMAIN-SUFFIX,6parkbbs.com
+  - DOMAIN-SUFFIX,6parknews.com
+  - DOMAIN-SUFFIX,cool18.com

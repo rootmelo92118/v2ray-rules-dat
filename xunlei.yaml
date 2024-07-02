@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xunlei
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,thunderurl.com
+  - DOMAIN-SUFFIX,xunlei.com
+  - DOMAIN-SUFFIX,00cdn.com
+  - DOMAIN-SUFFIX,88cdn.com
+  - DOMAIN-SUFFIX,p2cdn.com
+  - DOMAIN-SUFFIX,thundercdn.com
+  - DOMAIN-SUFFIX,xycloud.com
+  - DOMAIN-SUFFIX,xycdn.com

@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,fgo.wiki
+  - DOMAIN-SUFFIX,huijistatic.com
+  - DOMAIN-SUFFIX,huijiwiki.com
+  - DOMAIN-SUFFIX,mbalib.com
+  - DOMAIN-SUFFIX,moegirl.org
+  - DOMAIN-SUFFIX,moegirl.org.cn

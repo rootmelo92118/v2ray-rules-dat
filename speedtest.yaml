@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/speedtest
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 1 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN-SUFFIX,cellmaps.com
+  - DOMAIN-SUFFIX,ekahau.cloud
+  - DOMAIN-SUFFIX,ekahau.com
+  - DOMAIN-SUFFIX,ookla.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,pingtest.net
+  - DOMAIN-SUFFIX,speedtest.co
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speedtestcustom.com
+  - DOMAIN-SUFFIX,webtest.net

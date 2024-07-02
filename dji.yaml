@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dji
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,dji.com
+  - DOMAIN-SUFFIX,dji.net
+  - DOMAIN-SUFFIX,djicdn.com
+  - DOMAIN-SUFFIX,djiops.com
+  - DOMAIN-SUFFIX,djiservice.org
+  - DOMAIN-SUFFIX,skypixel.com

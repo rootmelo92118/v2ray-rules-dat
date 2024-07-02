@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/meizu
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,flyme.cn
+  - DOMAIN-SUFFIX,meizu.cn
+  - DOMAIN-SUFFIX,meizu.com
+  - DOMAIN-SUFFIX,mzres.com

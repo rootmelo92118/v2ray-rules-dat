@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinatelecom
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,189.cn
+  - DOMAIN-SUFFIX,chinatelecom-h.com
+  - DOMAIN-SUFFIX,chinatelecomglobal.com
+  - DOMAIN-SUFFIX,chntel.com
+  - DOMAIN-SUFFIX,ctexcel.ca
+  - DOMAIN-SUFFIX,ctexcel.com
+  - DOMAIN-SUFFIX,ctexcel.fr
+  - DOMAIN-SUFFIX,ctexcel.us
+  - DOMAIN-SUFFIX,chinatelecom.com.cn
+  - DOMAIN-SUFFIX,ctexcel.com.hk

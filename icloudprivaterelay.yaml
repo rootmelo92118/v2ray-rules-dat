@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/icloudprivaterelay
+# domain: 2
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,mask-h2.icloud.com
+  - DOMAIN-SUFFIX,mask.icloud.com

@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gemfury
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,fury.blog
+  - DOMAIN-SUFFIX,fury.co
+  - DOMAIN-SUFFIX,fury.dev
+  - DOMAIN-SUFFIX,fury.help
+  - DOMAIN-SUFFIX,fury.io
+  - DOMAIN-SUFFIX,gemfury.com

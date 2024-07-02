@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/unionpay
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,95516.com
+  - DOMAIN-SUFFIX,95516.net
+  - DOMAIN-SUFFIX,chinaunionpay.com
+  - DOMAIN-SUFFIX,chinaunionpay.net
+  - DOMAIN-SUFFIX,cup62.cn
+  - DOMAIN-SUFFIX,unionpay.com
+  - DOMAIN-SUFFIX,unionpay.net
+  - DOMAIN-SUFFIX,unionpaysecure.com
+  - DOMAIN-SUFFIX,unionpayintl.cn
+  - DOMAIN-SUFFIX,unionpayintl.com
+  - DOMAIN-SUFFIX,chinaunionpay.com.cn
+  - DOMAIN-SUFFIX,cup.com.cn

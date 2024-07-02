@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/soundofhope
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,bayvoice.net
+  - DOMAIN-SUFFIX,ozvoice.org
+  - DOMAIN-SUFFIX,sohcradio.com
+  - DOMAIN-SUFFIX,sohfrance.org
+  - DOMAIN-SUFFIX,soundofhope.eu
+  - DOMAIN-SUFFIX,soundofhope.kr
+  - DOMAIN-SUFFIX,soundofhope.org
+  - DOMAIN-SUFFIX,wanokokorosoh.com

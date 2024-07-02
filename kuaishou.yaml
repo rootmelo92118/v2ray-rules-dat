@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kuaishou
+# domain: 6
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,gifshow.com
+  - DOMAIN-SUFFIX,ksapisrv.com
+  - DOMAIN-SUFFIX,kuaishou.com
+  - DOMAIN-SUFFIX,yximgs.com
+  - DOMAIN-SUFFIX,kwaizt.com
+  - DOMAIN-SUFFIX,kuaishouzt.com
+  - DOMAIN,log-sdk.gifshow.com
+  - DOMAIN,wlog.kuaishou.com

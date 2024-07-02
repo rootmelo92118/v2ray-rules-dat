@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xd
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ro.com
+  - DOMAIN-SUFFIX,xd.cn
+  - DOMAIN-SUFFIX,xd.com
+  - DOMAIN-SUFFIX,xdcdn.net
+  - DOMAIN-SUFFIX,xindong.com
+  - DOMAIN-SUFFIX,tapimg.com
+  - DOMAIN-SUFFIX,tapimg.net
+  - DOMAIN-SUFFIX,taptap.cn
+  - DOMAIN-SUFFIX,taptap.com
+  - DOMAIN-SUFFIX,taptap.io
+  - DOMAIN-SUFFIX,taptapdada.com

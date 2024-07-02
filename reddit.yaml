@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/reddit
+# domain: 7
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,reddit.map.fastly.net
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,reddithelp.com
+  - DOMAIN-SUFFIX,redditmail.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,reddit.app.link

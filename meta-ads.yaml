@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/meta-ads
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,analytics.facebook.com
+  - DOMAIN-SUFFIX,pixel.facebook.com
+  - DOMAIN-SUFFIX,graph.instagram.com
+  - DOMAIN-SUFFIX,graph-fallback.instagram.com
+  - DOMAIN-SUFFIX,graph.whatsapp.com
+  - DOMAIN-SUFFIX,graph.whatsapp.net
