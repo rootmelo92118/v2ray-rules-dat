@@ -1,15 +1,13 @@
 # 简介
 
-[**V2Ray**](https://github.com/v2fly/v2ray-core) 路由规则文件加强版，可代替 V2Ray 官方 `geoip.dat` 和 `geosite.dat`，适用于 [V2Ray](https://github.com/v2fly/v2ray-core)、[Xray-core](https://github.com/XTLS/Xray-core)、[mihomo](https://github.com/MetaCubeX/mihomo/tree/Meta)、[hysteria](https://github.com/apernet/hysteria)、[Trojan-Go](https://github.com/p4gefau1t/trojan-go)、[leaf](https://github.com/eycorsican/leaf)。使用 GitHub Actions 北京时间每天早上 6 点自动构建，保证规则最新。
+[**V2Ray**](https://github.com/v2fly/v2ray-core) 路由规则文件加强版，可代替 V2Ray 官方 `geoip.dat` 和 `geosite.dat`，兼容 [Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)、[Xray-core](https://github.com/XTLS/Xray-core)、[Trojan-Go](https://github.com/p4gefau1t/trojan-go)、[leaf](https://github.com/eycorsican/leaf) 和 [hysteria](https://github.com/apernet/hysteria)。使用 GitHub Actions 北京时间每天早上 8 点 30 分自动构建，保证规则最新。
 
 ## 规则文件生成方式
 
 ### geoip.dat
 
-- 通过仓库 [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) 生成
-- 默认使用 [MaxMind GeoLite2 Country CSV 数据](https://github.com/Loyalsoldier/geoip/blob/release/GeoLite2-Country-CSV.zip)生成各个国家和地区的 GeoIP 文件。所有可供使用的国家和地区 geoip 类别（如 `geoip:cn`，两位英文字母表示国家或地区），请查看：[https://www.iban.com/country-codes](https://www.iban.com/country-codes)
-- 中国大陆 (`geoip:cn`) IPv4 地址数据融合了 [IPIP.net](https://github.com/17mon/china_ip_list/blob/master/china_ip_list.txt) 和 [@gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip/blob/ip-lists/china.txt)
-- 中国大陆 (`geoip:cn`) IPv6 地址数据融合了 MaxMind GeoLite2 和 [@gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip/blob/ip-lists/china6.txt)
+- 通过仓库 [@rootmelo92118/geoip-custom](https://github.com/rootmelo92118/geoip-custom) 生成
+- 其中全球 IP 地址（IPv4 和 IPv6）来源于 [MaxMind GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/)，`CN`（中国大陆）类别下的 IPv4 地址融合了 [ipip.net](https://github.com/17mon/china_ip_list) 和 [@gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip)，`CN`（中国大陆）类别下的 IPv6 地址融合了 [MaxMind GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/) 和 [@gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip)
 - 新增类别（方便有特殊需求的用户使用）：
   - `geoip:cloudflare`
   - `geoip:cloudfront`
@@ -19,8 +17,9 @@
   - `geoip:netflix`
   - `geoip:telegram`
   - `geoip:twitter`
-
-> 希望定制 `geoip.dat` 文件？需要适用于其他代理软件的 GeoIP 格式文件？查看项目 [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)。
+- 新增类别
+  - 允許以ASN來調用IP數據，例如以 `geoip:as138421` 來選定 China Unicom 自治系統內所有的IP位置。
+> 希望定制 `geoip.dat` 文件？查看仓库 [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)。
 
 ### geosite.dat
 
@@ -43,15 +42,20 @@
   - [**慎用**] Windows 操作系统使用的系统升级域名 [@crazy-max/WindowsSpyBlocker/hosts/update.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/update.txt) 加入到 `geosite:win-update` 类别中
   - [**慎用**] Windows 操作系统附加的隐私跟踪域名 [@crazy-max/WindowsSpyBlocker/hosts/extra.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/extra.txt) 加入到 `geosite:win-extra` 类别中
   - 关于这三个类别的使用方式，请参考下面 [geosite 的 Routing 配置方式](https://github.com/Loyalsoldier/v2ray-rules-dat#geositedat-1)
+- **Add Half Price List of Iran Information Technology Organization**：
+  - According to [@IRConf/Iranian-Half-Price-Traffic-Websites-List](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/blob/main/domains) data to `geosite:category-ir-half-price`
+- **加入中華民國台灣地區台灣網路資訊中心RPZ域名列表**：
+  - 根據 [@rootmelo92118/blocked-by-taiwan](https://github.com/rootmelo92118/blocked-by-taiwan/blob/release/twnicRPZ1.0.txt) 加入到`geosite:blocked-by-taiwan` 類別中
+- **加入中華民國內政部警政署165詐騙域名RPZ列表**：
+  - 根據 [@FutaGuard/LowTechFilter](https://filter.futa.gg/TW165-domains.txt) 加入到`geosite:blocked-by-taiwan` 類別中
 - **可添加自定义直连、代理和广告域名**：由于上游域名列表更新缓慢或缺失某些域名，所以引入**需要添加的域名**列表。[`hidden 分支`](https://github.com/Loyalsoldier/v2ray-rules-dat/tree/hidden)里的三个文件 `direct.txt`、`proxy.txt` 和 `reject.txt`，分别存放自定义的需要添加的直连、代理、广告域名，最终分别加入到 `geosite:cn`、`geosite:geolocation-!cn` 和 `geosite:category-ads-all` 类别中
 - **可移除自定义直连、代理和广告域名**：由于上游域名列表存在需要被移除的域名，所以引入**需要移除的域名**列表。[`hidden 分支`](https://github.com/Loyalsoldier/v2ray-rules-dat/tree/hidden)里的三个文件 `direct-need-to-remove.txt`、`proxy-need-to-remove.txt` 和 `reject-need-to-remove.txt`，分别存放自定义的需要从 `direct-list`（直连域名列表）、`proxy-list`（代理域名列表）和 `reject-list`（广告域名列表） 移除的域名
 
-## 规则文件下载地址
+## 规则文件下载及使用方式
 
-> 如果无法访问域名 `raw.githubusercontent.com`，可以使用第二个地址 `cdn.jsdelivr.net`。
-> 如果无法访问域名 `cdn.jsdelivr.net`，可以将其替换为 `fastly.jsdelivr.net`。
->
-> *.sha256sum 为校验文件。
+**下载地址**：
+
+> 如果无法访问域名 `raw.githubusercontent.com`，可以使用第二个地址（`cdn.jsdelivr.net`），但是内容更新会有 12 小时的延迟。
 
 - **geoip.dat**：
   - [https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat](https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat)
@@ -90,14 +94,20 @@
   - [https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/win-extra.txt](https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/win-extra.txt)
   - [https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/win-extra.txt](https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/win-extra.txt)
 
-## 规则文件使用方式
+**使用方式**：
+
+1. 安装适用于自己操作系统的客户端
+2. 下载本项目的 `geoip.dat` 和 `geosite.dat`
+3. 把下载下来的 `geoip.dat` 和 `geosite.dat` 放入到客户端的规则文件目录，替换掉原来的 `geoip.dat` 和 `geosite.dat`
+4. 如果使用的是 V2Ray v4 版本客户端，配置可参考下面 👇👇👇
+
+## 参考配置(仅适用于 V2Ray v4 版本)
 
 ### geoip.dat
 
-<details>
-  <summary>点击查看在 <b>V2Ray</b> 和 <b>Xray-core</b> 中的使用方法</summary>
-  <br/>
-  <p>需要先下载 <code>geoip.dat</code> 格式文件，并放置在程序目录内。</p>
+跟 V2Ray 官方 `geoip.dat` 配置方式相同。
+
+**Routing 配置方式**：
 
 ```json
 "routing": {
@@ -106,69 +116,30 @@
       "type": "field",
       "outboundTag": "Direct",
       "ip": [
+        "223.5.5.5/32",
+        "119.29.29.29/32",
+        "180.76.76.76/32",
+        "114.114.114.114/32",
         "geoip:cn",
-        "geoip:private",
-        "ext:cn.dat:cn",
-        "ext:private.dat:private",
-        "ext:geoip-only-cn-private.dat:cn",
-        "ext:geoip-only-cn-private.dat:private"
+        "geoip:private"
       ]
     },
     {
       "type": "field",
       "outboundTag": "Proxy",
       "ip": [
+        "1.1.1.1/32",
+        "1.0.0.1/32",
+        "8.8.8.8/32",
+        "8.8.4.4/32",
         "geoip:us",
-        "geoip:jp",
-        "geoip:facebook",
-        "geoip:telegram",
-        "ext:geoip-asn.dat:facebook",
-        "ext:geoip-asn.dat:telegram"
+        "geoip:ca",
+        "geoip:telegram"
       ]
     }
   ]
 }
 ```
-</details>
-
-<details>
-  <summary>点击查看在 <b>mihomo</b> 中的使用方法</summary>
-
-```yaml
-geodata-mode: true
-geox-url:
-  geoip: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat"
-```
-</details>
-
-<details>
-  <summary>点击查看在 <b>hysteria</b> 中的使用方法</summary>
-  <br/>
-  <p>需要先下载 <code>geoip.dat</code> 格式文件，并放置在 hysteria 程序目录内。</p>
-
-```
-direct(geoip:cn)
-proxy(geoip:telegram)
-proxy(geoip:us)
-```
-</details>
-
-<details>
-  <summary>点击查看在 <b>Trojan-Go</b> 中的使用方法</summary>
-  <br/>
-  <p>需要先下载 <code>geoip.dat</code> 格式文件，并放置在 Trojan-Go 程序目录内。</p>
-
-```json
-"router": {
-  "enabled": true,
-  "bypass": ["geoip:cn"],
-  "proxy": ["geoip:telegram", "geoip:us"],
-  "block": ["geoip:jp"],
-  "default_policy": "proxy",
-  "geoip": "./geoip.dat"
-}
-```
-</details>
 
 ### geosite.dat
 
@@ -180,6 +151,8 @@ proxy(geoip:us)
 - [**慎用**]`geosite:win-spy`：包含 [@crazy-max/WindowsSpyBlocker/hosts/spy.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt) 文件里的域名，供希望屏蔽 Windows 操作系统隐私跟踪域名的用户使用。
 - [**慎用**]`geosite:win-update`：包含 [@crazy-max/WindowsSpyBlocker/hosts/update.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/update.txt) 文件里的域名，供希望屏蔽 Windows 操作系统自动升级的用户使用。
 - [**慎用**]`geosite:win-extra`：包含 [@crazy-max/WindowsSpyBlocker/hosts/extra.txt](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/extra.txt) 文件里的域名，供希望屏蔽 Windows 操作系统附加隐私跟踪域名的用户使用。
+- `geosite:category-ir-half-price`：Including [@IRConf/Iranian-Half-Price-Traffic-Websites-List/blob/main/domains](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/blob/main/domains) the domain names from this file. To provide Iranian users settings direct connection.
+- `geosite:blocked-by-taiwan`：包含 [@rootmelo92118/blocked-by-taiwan/blob/release/blockedbytaiwan.txt](https://github.com/rootmelo92118/blocked-by-taiwan/blob/release/blockedbytaiwan.txt) 提供台灣使用者進行利用。
 
 > ⚠️ 注意：在 Routing 配置中，类别越靠前（上），优先级越高，所以 `geosite:apple-cn` 和 `geosite:google-cn` 要放置在 `geosite:geolocation-!cn` 前（上）面才能生效。
 
@@ -296,6 +269,23 @@ steamstatic.com.8686c.com @cn
     {
       "address": "localhost",
       "skipFallback": true
+    }
+  ]
+}
+```
+
+### For Iranian users
+This project includes the half-price list from the Information Technology Organization of Iran. You can configure it on your client device or server in Iran to make it not go through overseas proxy servers.
+It looks like
+```json
+"routing": {
+  "rules": [
+    {
+      "type": "field",
+      "outboundTag": "Direct",
+      "domain": [
+        "geosite:category-ir-half-price"
+      ]
     }
   ]
 }
@@ -472,6 +462,7 @@ steamstatic.com.8686c.com @cn
 ## 致谢
 
 - [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
+- [@Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 - [@v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
 - [@Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom)
 - [@felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
@@ -482,7 +473,10 @@ steamstatic.com.8686c.com @cn
 - [@PeterLowe/adservers](https://pgl.yoyo.org/adservers)
 - [@DanPollock/hosts](https://someonewhocares.org/hosts)
 - [@crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+- [@IRConf/Iranian-Half-Price-Traffic-Websites-List](https://github.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/)
+- [@rootmelo92118/blocked-by-taiwan](https://github.com/rootmelo92118/blocked-by-taiwan)
+- [@FutaGuard/LowTechFilter](https://github.com/FutaGuard/LowTechFilter)
 
 ## 项目 Star 数增长趋势
 
-[![Stargazers over time](https://starchart.cc/Loyalsoldier/v2ray-rules-dat.svg)](https://starchart.cc/Loyalsoldier/v2ray-rules-dat)
+[![Stargazers over time](https://starchart.cc/rootmelo92118/v2ray-rules-dat.svg)](https://starchart.cc/rootmelo92118/v2ray-rules-dat)
