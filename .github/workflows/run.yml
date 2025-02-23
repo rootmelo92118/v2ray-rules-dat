@@ -2,12 +2,13 @@ name: Build V2Ray rules dat files
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *"
+    - cron: "30 0 * * *"
   push:
     branches:
       - master
     paths-ignore:
       - "**/README.md"
+      - "**/emergency_release.yml"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,6 +29,9 @@ jobs:
           echo "WIN_SPY=https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt" >> $GITHUB_ENV
           echo "WIN_UPDATE=https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt" >> $GITHUB_ENV
           echo "WIN_EXTRA=https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt" >> $GITHUB_ENV
+          echo "HALF_PRICE_IN_IRAN=https://raw.githubusercontent.com/IRConf/Iranian-Half-Price-Traffic-Websites-List/main/domains" >> $GITHUB_ENV
+          echo "BLOCKED_BY_TAIWAN=https://raw.githubusercontent.com/rootmelo92118/blocked-by-taiwan/release/blocked-by-taiwan.txt" >> $GITHUB_ENV
+          echo "BLOCKED_BY_RUSSIA=https://raw.githubusercontent.com/georgekart/RuBannedList/master/category-banned-ru" >> $GITHUB_ENV
         shell: bash
 
       - name: Checkout the "hidden" branch of this repo
@@ -57,12 +61,16 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version-file: ./custom/go.mod
-          cache-dependency-path: ./custom/go.sum
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
       - name: Get geoip.dat relative files
         run: |
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat
-          wget https://github.com/Loyalsoldier/geoip/raw/release/geoip.dat.sha256sum
+          wget https://github.com/rootmelo92118/geoip-custom/raw/release/geoip.dat
+          wget https://github.com/rootmelo92118/geoip-custom/raw/release/geoip.dat.sha256sum
 
       - name: Generate GFWList domains
         run: |
@@ -135,7 +143,7 @@ jobs:
           cat temp-geolocation-\!cn.txt | sort --ignore-case -u | perl -ne '/^((?=^.{1,255})[a-zA-Z0-9][-_a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-_a-zA-Z0-9]{0,62})*)/ && print "$1\n"' > ./community/data/geolocation-\!cn
           cat temp-geolocation-\!cn.txt | sort --ignore-case -u | perl -ne 'print if not /^((?=^.{3,255})[a-zA-Z0-9][-_a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-_a-zA-Z0-9]{0,62})+)/' > proxy-tld-list.txt
           cat temp-category-ads-all.txt | sort --ignore-case -u | perl -ne '/^((?=^.{1,255})[a-zA-Z0-9][-_a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-_a-zA-Z0-9]{0,62})*)/ && print "$1\n"' > ./community/data/category-ads-all
-          cat temp-category-ads-all.txt | sort --ignore-case -u | perl -ne 'print if not /^((?=^.{3,255})[a-zA-Z0-9][-_a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-_a-zA-Z0-9]{0,62})+)/' > reject-tld-list.txt
+          cat temp-category-ads-all.txt | sort --ignore-case -u | perl -ne 'print if not /^((?=^.{3,255})[a-zA-Z0-9][-_a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-_a-zA-Z0-9]{0,62})+)/' > reject-tld-list.txt          
 
       - name: Add `full`, `regexp` and `keyword` type of rules back into "cn", "geolocation-!cn" and "category-ads-all" list
         run: |
@@ -146,7 +154,9 @@ jobs:
           cp ./community/data/geolocation-\!cn proxy-list.txt
           cp ./community/data/category-ads-all reject-list.txt
 
-      - name: Create `china-list`、`google-cn`、`apple-cn`、`gfw`、`greatfire` lists
+      - name: Create `china-list`、`google-cn`、`apple-cn`、`gfw`、`category-ir-half-price`、`blocked-by-taiwan` lists
+        env:
+          CENSORED_LIST: ${{ secrets.FATI_CENSOR_DOMAIN }}
         run: |
           curl -sSL $CHINA_DOMAINS_URL | perl -ne '/^server=\/([^\/]+)\// && print "$1\n"' > ./community/data/china-list
           curl -sSL $CHINA_DOMAINS_URL | perl -ne '/^server=\/([^\/]+)\// && print "$1\n"' > china-list.txt
@@ -156,18 +166,22 @@ jobs:
           curl -sSL $APPLE_DOMAINS_URL | perl -ne '/^server=\/([^\/]+)\// && print "full:$1\n"' > apple-cn.txt
           cat ./gfwlist2dnsmasq/temp-gfwlist.txt | perl -ne '/^((?=^.{3,255})[a-zA-Z0-9][-_a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-_a-zA-Z0-9]{0,62})+)/ && print "$1\n"' >> ./community/data/gfw
           cat ./community/data/gfw | sort --ignore-case -u > gfw.txt
-          cat ./community/data/greatfire | sort --ignore-case -u > greatfire.txt
           curl -sSL $WIN_SPY | grep "0.0.0.0" | awk '{print $2}' > ./community/data/win-spy
           curl -sSL $WIN_SPY | grep "0.0.0.0" | awk '{print $2}' > win-spy.txt
           curl -sSL $WIN_UPDATE | grep "0.0.0.0" | awk '{print $2}' > ./community/data/win-update
           curl -sSL $WIN_UPDATE | grep "0.0.0.0" | awk '{print $2}' > win-update.txt
           curl -sSL $WIN_EXTRA | grep "0.0.0.0" | awk '{print $2}' > ./community/data/win-extra
           curl -sSL $WIN_EXTRA | grep "0.0.0.0" | awk '{print $2}' > win-extra.txt
+          curl -sSL $HALF_PRICE_IN_IRAN >> ./community/data/category-ir-half-price
+          curl -sSL $BLOCKED_BY_TAIWAN >> ./community/data/blocked-by-taiwan
+          cat ./community/data/blocked-by-taiwan >> blocked-by-taiwan.txt
+          curl -sSL $BLOCKED_BY_RUSSIA >> ./community/data/blocked-by-russia
+          curl -sSL ${CENSORED_LIST} >> ./community/data/faticensor
 
-      - name: Build geosite.dat file
+      - name: Build geosite.dat file and export FATIcensor
         run: |
           cd custom || exit 1
-          go run ./ --datapath=../community/data
+          go run ./ --datapath=../community/data --exportlists=faticensor
 
       - name: Move and zip files and generate sha256 hash
         run: |
@@ -176,13 +190,13 @@ jobs:
           install -Dp ./custom/publish/geosite.dat ./publish/geosite.dat
           install -p {proxy,direct,reject}-tld-list.txt ./publish/
           install -p {proxy,direct,reject}-list.txt ./publish/
-          install -p {china-list,apple-cn,google-cn,gfw,greatfire,win-spy,win-update,win-extra}.txt ./publish/
+          install -p {china-list,apple-cn,google-cn,gfw,win-spy,win-update,win-extra,blocked-by-taiwan}.txt ./publish/
           cd ./publish || exit 1
           zip rules.zip {proxy,direct,reject}-list.txt geoip.dat geosite.dat
           sha256sum geosite.dat > geosite.dat.sha256sum
           sha256sum rules.zip > rules.zip.sha256sum
 
-      - name: Release and upload assets
+      - name: Release and upload assets  
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
@@ -190,7 +204,11 @@ jobs:
           tag: ${{ env.TAG_NAME }}
           file_glob: true
           file: ./publish/*
-
+          
+      - name: Move FATIcensor to publish folder
+        run: |
+          install -p ./custom/publish/faticensor.txt ./publish/
+          
       - name: Git push assets to "release" branch
         run: |
           cd publish || exit 1
@@ -209,3 +227,54 @@ jobs:
           for file in $(ls); do
             curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
           done
+          
+      - name: Generate plaintext and Convert to the rules of AdGuard format
+        run: |
+          cd custom || exit 1
+          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvert.py
+          mkdir AdGuard_Rule
+          sed -i 's/--outputdir/--outputpath/g' GenerateAndConvert.py
+          python3 GenerateAndConvert.py ../community/data ./AdGuard_Rule
+
+      - name: Modify the head of FATIcensor
+        run: |
+          cd custom/AdGuard_Rule || exit 1
+          sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To Internet./g' faticensor.txt
+          
+      - name: Git push assets to "AdGuard" branch
+        run: |
+          cd custom/AdGuard_Rule || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b AdGuard
+          git add *.txt
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin AdGuard
+          rm -rf .git
+
+      - name: Generate plaintext and Convert to the rules of clash RULE-SET format
+        run: |
+          cd custom || exit 1
+          curl -OL https://raw.githubusercontent.com/rootmelo92118/v2ray-rules-adguard/master/GenerateAndConvertForClash.py
+          mkdir clash_Rule_Set
+          sed -i 's/--outputdir/--outputpath/g' GenerateAndConvertForClash.py
+          python3 GenerateAndConvertForClash.py ../community/data ./clash_Rule_Set
+      - name: Modify the head of FATIcensor
+        run: |
+          cd custom/clash_Rule_Set || exit 1
+          sed -i 's/Source: https:\/\/github.com\/v2fly\/domain-list-community\/blob\/master\/data\/faticensor/It is the censorship list of Full Access To Internet./g' faticensor.yaml
+          
+      - name: Git push assets to "clash" branch
+        run: |
+          cd custom/clash_Rule_Set || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b clash
+          git add *.yaml
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin clash
+          rm -rf .git
