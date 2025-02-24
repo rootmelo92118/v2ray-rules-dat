@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/pikpak
+! domain: 4
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+||mypikpak.com^
+||mypikpak.net^
+||pikpak.me^
+||pikpakdrive.com^
+|o4504926511693824.ingest.sentry.io^

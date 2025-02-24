@@ -1,0 +1,38 @@
+# It is the censorship list of Full Access To Internet.
+! domain: 31
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||jhhr.store^
+||twbuypc.com^
+||azuma57.com^
+||lologd.store^
+||sakg.store^
+||siks.store^
+||yldbx.store^
+||bcwje.store^
+||bbdr.store^
+||hjgk.store^
+||igtr.store^
+||ikss.store^
+||oass.store^
+||iqiq.store^
+||kkrf.store^
+||rdrs.store^
+||1068shop.com^
+||otakuboo.com^
+||otakutwn.com^
+||bpor.club^
+||citwy.life^
+||kiilne.com^
+||mchr.life^
+||qoyi.club^
+||taftqo.life^
+||ugof.shop^
+||waune.com^
+||xlihel.shop^
+||nxnx.store^
+||usmgtcgov.tw^
+||usmgtcg.ning.com^

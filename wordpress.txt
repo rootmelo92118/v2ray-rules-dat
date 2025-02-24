@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wordpress
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||videopress.com^
+||w.org^
+||wordpress.com^
+||wordpress.org^
+||wordpress.tv^
+||wp-themes.com^
+||wp.com^
+||wpvip.com^

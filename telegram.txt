@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/telegram
+! domain: 19
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cdn-telegram.org^
+||comments.app^
+||contest.com^
+||fragment.com^
+||graph.org^
+||quiz.directory^
+||t.me^
+||tdesktop.com^
+||telega.one^
+||telegra.ph^
+||telegram-cdn.org^
+||telegram.dog^
+||telegram.me^
+||telegram.org^
+||telegram.space^
+||telesco.pe^
+||tg.dev^
+||tx.me^
+||usercontent.dev^

@@ -1,0 +1,27 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/globalsign
+! domain: 19
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+||globalsign.es^
+||globalsign-media.com^
+||globalsign.ch^
+||globalsign.cloud^
+||globalsign.nl^
+||globalsign.net^
+||globalsign.be^
+||globalsign.fr^
+||globalsign.eu^
+||globalsign.com.br^
+||globalsign.com.sg^
+||globalsign.com.hk^
+||globalsign.com.au^
+||globalsign.co.uk^
+||alphassl.com^
+||easy-signing.com^
+||globalsign.cn^
+||globalsign.com^
+||globalsigncdn.com^
+|cdn.globalsigncdn.com.cdn.cloudflare.net^

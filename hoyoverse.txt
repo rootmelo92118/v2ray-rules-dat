@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hoyoverse
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||genshinimpact.com^
+||honkaiimpact3.com^
+||honkaistarrail.com^
+||hoyo.link^
+||hoyolab.com^
+||hoyoverse.com^
+||n0vadesktop.com^
+||zenlesszonezero.com^

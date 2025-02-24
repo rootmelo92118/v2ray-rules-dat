@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/haitang
+! domain: 17
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||haitangbook.com^
+||haitbook.com^
+||htlvbooks.com^
+||htnewbooks.com^
+||htwhbook.com^
+||lmbooks.com^
+||lmebooks.com^
+||longmabook.com^
+||longmabookcn.com^
+||lovehtbooks.com^
+||lvhtebook.com^
+||mybookinlm.com^
+||myhtebook.com^
+||myhtebooks.com^
+||myhtlmebook.com^
+||newhtbook.com^
+||urhtbooks.com^

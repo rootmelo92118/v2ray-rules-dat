@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/epicgames
+! domain: 15
+! full: 0
+! keyword: 0
+! regexp: 3
+
+
+||battlebreakers.com^
+||eac-cdn.com^
+||easy.ac^
+||easyanticheat.net^
+||epicgames.com^
+||epicgames.dev^
+||epicgamescdn.com^
+||fortnite.com^
+||paragon.com^
+||playparagon.com^
+||roborecall.com^
+||shadowcomplex.com^
+||spyjinx.com^
+||unrealengine.com^
+||unrealtournament.com^
+/^epicgames-download\d\.akamaized\.net$/
+/^cdn\d-epicgames-\d+\.file\.myqcloud\.com$/
+/^epicgames-download\d-\d+\.file\.myqcloud\.com$/

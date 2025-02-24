@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/deepin
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||deepin.cn^
+||deepin.com^
+||deepin.io^
+||deepin.org^
+||chinauos.com^
+||uniontech.com^

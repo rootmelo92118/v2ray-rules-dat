@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/intel-dev
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||01.org^
+||hyperscan.io^
+||intellinuxgraphics.com^
+||intellinuxgraphics.net^
+||oneapi.com^
+||openvinotoolkit.org^
+||snap-telemetry.io^
+||acpica.com^
+||clearlinux.org^
+||ospray.net^
+||ospray.org^

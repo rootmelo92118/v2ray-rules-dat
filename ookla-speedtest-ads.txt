@@ -1,0 +1,8 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ookla-speedtest-ads
+! domain: 0
+! full: 0
+! keyword: 0
+! regexp: 1
+
+
+/^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$/
