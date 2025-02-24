@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/oracle
+# domain: 18
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,oracle
+  - DOMAIN-SUFFIX,java
+  - DOMAIN-SUFFIX,oracleimg.com
+  - DOMAIN-SUFFIX,oracleinfinity.io
+  - DOMAIN-SUFFIX,covid19rx.org
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,oraclefoundation.org
+  - DOMAIN-SUFFIX,bronto.com
+  - DOMAIN-SUFFIX,covid19-rx.org
+  - DOMAIN-SUFFIX,sun.com
+  - DOMAIN-SUFFIX,virtualbox.org
+  - DOMAIN-SUFFIX,addthis.com
+  - DOMAIN-SUFFIX,addthiscdn.com
+  - DOMAIN-SUFFIX,addthisedge.com
+  - DOMAIN-SUFFIX,ateam-oracle.com
+  - DOMAIN-SUFFIX,java.com
+  - DOMAIN-SUFFIX,java.net

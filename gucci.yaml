@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gucci
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,gucci
+  - DOMAIN-SUFFIX,chimeforchange.org
+  - DOMAIN-SUFFIX,gucci.com
+  - DOMAIN-SUFFIX,guccimuseo.com
+  - DOMAIN-SUFFIX,guccitimeless.com
+  - DOMAIN-SUFFIX,regiongold.com
+  - DOMAIN-SUFFIX,gucci.cn

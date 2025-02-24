@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/theguardian
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,theguardian
+  - DOMAIN-SUFFIX,dev-guardianapis.com
+  - DOMAIN-SUFFIX,dev-theguardian.com
+  - DOMAIN-SUFFIX,gu-web.net
+  - DOMAIN-SUFFIX,guardianapis.com
+  - DOMAIN-SUFFIX,theguardian.com
+  - DOMAIN-SUFFIX,theguardiandns.com
+  - DOMAIN-SUFFIX,guardianapps.co.uk
+  - DOMAIN-SUFFIX,guim.co.uk
+  - DOMAIN-SUFFIX,guimcode.co.uk

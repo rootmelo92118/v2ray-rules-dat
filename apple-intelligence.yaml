@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/apple-intelligence
+# domain: 0
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,apple-relay.mask.apple-dns.net
+  - DOMAIN,apple-relay.apple.com

@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/spotify-ads
+# domain: 0
+# full: 3
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,adeventtracker.spotify.com
+  - DOMAIN,adstudio-assets.scdn.co
+  - DOMAIN,bloodhound.spotify.com

@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hugecore
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,hugecore.net
+  - DOMAIN-SUFFIX,shareintelli.com
+  - DOMAIN-SUFFIX,mojidict.com

@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/familymart
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,famima.vn
+  - DOMAIN-SUFFIX,famifun.com.tw
+  - DOMAIN-SUFFIX,family.co.jp
+  - DOMAIN-SUFFIX,family.com.tw
+  - DOMAIN-SUFFIX,familymart.com.my
+  - DOMAIN-SUFFIX,familymart.com.ph
+  - DOMAIN-SUFFIX,familymart.com.cn

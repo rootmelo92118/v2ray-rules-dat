@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/fengxing
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,fspcdn.com
+  - DOMAIN-SUFFIX,fun.tv
+  - DOMAIN-SUFFIX,funshion.com
+  - DOMAIN-SUFFIX,funshion.net
+  - DOMAIN-SUFFIX,ibidian.com
+  - DOMAIN-SUFFIX,jvcsmart.cn
+  - DOMAIN-SUFFIX,jvcsmart.com.cn

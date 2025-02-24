@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xhamster
+# domain: 8
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,widgets.stripst.com
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhamster.desi
+  - DOMAIN-SUFFIX,xhamster.xxx
+  - DOMAIN-SUFFIX,xhamster18.com
+  - DOMAIN-SUFFIX,xhamster18.desi
+  - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,collector.xhamster.com

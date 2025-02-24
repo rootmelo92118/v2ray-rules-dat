@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/amap
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,a-map.cn
+  - DOMAIN-SUFFIX,a-map.co
+  - DOMAIN-SUFFIX,a-map.link
+  - DOMAIN-SUFFIX,a-map.vip
+  - DOMAIN-SUFFIX,acloudrender.com
+  - DOMAIN-SUFFIX,amap.com
+  - DOMAIN-SUFFIX,amapauto.com
+  - DOMAIN-SUFFIX,anav.com
+  - DOMAIN-SUFFIX,autonavi.com
+  - DOMAIN-SUFFIX,gaode.com

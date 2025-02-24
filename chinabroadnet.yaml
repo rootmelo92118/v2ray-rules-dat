@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinabroadnet
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,chn.cn
+  - DOMAIN-SUFFIX,ahitv.com
+  - DOMAIN-SUFFIX,cqccn.com
+  - DOMAIN-SUFFIX,sc96655.com
+  - DOMAIN-SUFFIX,isxtv.com
+  - DOMAIN-SUFFIX,sdgdwljt.com
+  - DOMAIN-SUFFIX,10099.com.cn
+  - DOMAIN-SUFFIX,gcable.com.cn

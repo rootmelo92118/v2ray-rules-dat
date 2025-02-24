@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yuewen
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,yuewen.com
+  - DOMAIN-SUFFIX,hongxiu.com
+  - DOMAIN-SUFFIX,lrts.me
+  - DOMAIN-SUFFIX,qdmm.com
+  - DOMAIN-SUFFIX,qidian.com
+  - DOMAIN-SUFFIX,readnovel.com
+  - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,webnovel.com
+  - DOMAIN-SUFFIX,xs8.cn
+  - DOMAIN-SUFFIX,xxsy.net

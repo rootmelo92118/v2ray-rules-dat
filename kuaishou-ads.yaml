@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kuaishou-ads
+# domain: 5
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,adbkwai.com
+  - DOMAIN-SUFFIX,adkwai.com
+  - DOMAIN-SUFFIX,adukwai.com
+  - DOMAIN-SUFFIX,e.kuaishou.cn
+  - DOMAIN-SUFFIX,e.kuaishou.com
+  - DOMAIN,log-sdk.gifshow.com
+  - DOMAIN,wlog.kuaishou.com

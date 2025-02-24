@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-collaborate-cn
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,oray.com
+  - DOMAIN-SUFFIX,oray.net
+  - DOMAIN-SUFFIX,orayer.com
+  - DOMAIN-SUFFIX,orayimg.com
+  - DOMAIN-SUFFIX,sunlogin.net
+  - DOMAIN-SUFFIX,todesk.com
+  - DOMAIN-SUFFIX,tower.im
+  - DOMAIN-SUFFIX,tritoninfo.net
+  - DOMAIN-SUFFIX,xiumi.us
+  - DOMAIN-SUFFIX,xiumius.com
+  - DOMAIN-SUFFIX,shimo.im
+  - DOMAIN-SUFFIX,yuque.com

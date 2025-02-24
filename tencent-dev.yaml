@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tencent-dev
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,openmidas.com
+  - DOMAIN-SUFFIX,qq.design
+  - DOMAIN-SUFFIX,qqgamedesign.com
+  - DOMAIN-SUFFIX,tencent-cloud.cn
+  - DOMAIN-SUFFIX,tencent-cloud.com
+  - DOMAIN-SUFFIX,tencent.design
+  - DOMAIN-SUFFIX,tencentcloud.com
+  - DOMAIN-SUFFIX,tjstats.com
+  - DOMAIN-SUFFIX,wegamedeveloper.com
+  - DOMAIN-SUFFIX,weixinbridge.com
+  - DOMAIN-SUFFIX,weui.io
