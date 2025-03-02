@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/google-gemini
+! domain: 10
+! full: 3
+! keyword: 0
+! regexp: 0
+
+
+|ai.google.dev^
+|alkalicore-pa.clients6.google.com^
+|alkalimakersuite-pa.clients6.google.com^
+||deepmind.com^
+||deepmind.google^
+||generativeai.google^
+||geller-pa.googleapis.com^
+||generativelanguage.googleapis.com^
+||proactivebackend-pa.googleapis.com^
+||makersuite.google.com^
+||aistudio.google.com^
+||bard.google.com^
+||gemini.google.com^

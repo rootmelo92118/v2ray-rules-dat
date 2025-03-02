@@ -1,0 +1,8 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/acfun-ads
+! domain: 0
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|apilog-web.acfun.cn^

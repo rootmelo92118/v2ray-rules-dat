@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hellofont
+! domain: 2
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|hellofontpreview.oss-cn-beijing.aliyuncs.com^
+|hellowebfonts.oss-cn-beijing.aliyuncs.com^
+||hellofont.cn^
+||hellowebfont.com^

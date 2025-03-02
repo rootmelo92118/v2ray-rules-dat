@@ -1,0 +1,29 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ft
+! domain: 22
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gisplanning.com^
+||exec-appointments.com^
+||globalriskregulator.com^
+||fdiintelligence.com^
+||financialadvisoriq.com^
+||ft.com^
+||ftadviser.com^
+||ftchinese.com^
+||ignites.com^
+||fundfire.com^
+||thenextweb.com^
+||excedo.com^
+||ftiecla.com^
+||ignitesasia.com^
+||igniteseurope.com^
+||agendaweek.com^
+||mandatewire.com^
+||pensions-expert.com^
+||pwmnet.com^
+||thebanker.com^
+||thebankerdatabase.com^
+||investorschronicle.co.uk^

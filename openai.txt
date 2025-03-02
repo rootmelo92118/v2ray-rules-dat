@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/openai
+! domain: 10
+! full: 7
+! keyword: 0
+! regexp: 1
+
+
+|openaiapi-site.azureedge.net^
+|openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net^
+|openaicomproductionae4b.blob.core.windows.net^
+|production-openaicom-storage.azureedge.net^
+||chatgpt.com^
+||chat.com^
+||oaistatic.com^
+||oaiusercontent.com^
+||openai.com^
+||sora.com^
+||chatgpt.livekit.cloud^
+||host.livekit.cloud^
+||turn.livekit.cloud^
+||openai.com.cdn.cloudflare.net^
+/^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$/
+|o33249.ingest.sentry.io^
+|openaicom.imgix.net^
+|browser-intake-datadoghq.com^

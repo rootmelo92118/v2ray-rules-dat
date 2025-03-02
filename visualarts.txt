@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/visualarts
+! domain: 14
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||kamisama-day.jp^
+||abow.jp^
+||anigema.jp^
+||charlotte-anime.jp^
+||clannad-movie.jp^
+||heaven-burns-red.com^
+||angelbeats.jp^
+||kamisama-maeda-lab.com^
+||visual-arts.jp^
+||litbus-anime.com^
+||koubaibu.jp^
+||rewrite-anime.tv^
+||visualarts.gr.jp^
+||product.co.jp^

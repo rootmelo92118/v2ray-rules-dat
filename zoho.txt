@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zoho
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||zohomerchandise.com^
+||zoho.eu^
+||zoho.in^
+||zohocdn.com^
+||zohomeetups.com^
+||zoho.com^
+||zohopublic.com^
+||zohoschools.com^
+||zohostatic.com^
+||zohostatic.in^
+||zohouniversity.com^
+||zohowebstatic.com^
+||zoho.com.au^

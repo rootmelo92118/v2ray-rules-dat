@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/reddit
+! domain: 11
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|reddit.map.fastly.net^
+||redd.it^
+||reddit.com^
+||redditblog.com^
+||reddithelp.com^
+||redditinc.com^
+||redditmail.com^
+||redditmedia.com^
+||redditspace.com^
+||redditstatic.com^
+||redditstatus.com^
+||reddit.app.link^

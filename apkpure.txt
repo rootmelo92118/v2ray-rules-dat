@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/apkpure
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||apkpure.com^
+||apkpure.net^
+||cdnpure.com^
+||pureapk.com^
+||winudf.com^

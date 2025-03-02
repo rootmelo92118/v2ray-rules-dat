@@ -1,0 +1,9 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/typekit
+! domain: 2
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||typekit.com^
+||typekit.net^

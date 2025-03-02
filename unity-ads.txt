@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/unity-ads
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ads.unitychina.cn^
+||splash-ads.cdn.unity.cn^
+||splash-ads.unitychina.cn^
+||unityads.unity.cn^
+||unityads.unity3d.com^
+||unityads.unitychina.cn^

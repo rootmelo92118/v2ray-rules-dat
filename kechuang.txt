@@ -1,0 +1,9 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kechuang
+! domain: 1
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+||kechuang.org^
+|kc.kexinshe.com^

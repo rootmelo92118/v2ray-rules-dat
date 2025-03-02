@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/rakuten
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||r10s.com^
+||r10s.jp^
+||rakuten-static.com^
+||rakuten.ca^
+||rakuten.com^
+||rakuten.tw^
+||rclon.com^
+||rebates.jp^
+||rakuten.co.jp^
+||rakuten.com.tw^
+||rakuten.ne.jp^

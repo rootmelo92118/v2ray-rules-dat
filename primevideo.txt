@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/primevideo
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||aiv-cdn.net^
+||amazonprimevideos.com^
+||amazonvideo.cc^
+||amazonvideo.com^
+||prime-video.com^
+||primevideo.cc^
+||primevideo.com^
+||primevideo.info^
+||primevideo.org^
+||primevideo.tv^
+||amazonprimevideo.cn^
+||amazonprimevideo.com.cn^

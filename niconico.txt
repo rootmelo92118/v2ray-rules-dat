@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/niconico
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||nico^
+||nicodic.jp^
+||nicomanga.jp^
+||niconico.com^
+||nicoseiga.jp^
+||nicovideo.jp^
+||nimg.jp^
+||simg.jp^

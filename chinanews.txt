@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinanews
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||chinanews.com^
+||ecns.cn^
+||inewsweek.cn^
+||chinanews.com.cn^
+||cns.com.cn^

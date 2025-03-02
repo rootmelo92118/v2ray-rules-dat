@@ -1,0 +1,22 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/netcup
+! domain: 15
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||customercontrolpanel.de^
+||dnsserver1.de^
+||dnsserver2.de^
+||luckysrv.de^
+||netcup.cafe^
+||netcup.com^
+||netcup.de^
+||netcup.eu^
+||netcup.net^
+||netcup-news.de^
+||netcup-sonderangebote.de^
+||netcup-wiki.de^
+||servercontrolpanel.de^
+||supersrv.de^
+||yourvserver.net^

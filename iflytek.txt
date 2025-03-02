@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/iflytek
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||iflytek.com^
+||xunfei.cn^
+||iflyink.com^
+||iflyrec.com^
+||ets100.com^
+||zhixue.com^
+||changyan.com^
+||xunfeixxj.com^

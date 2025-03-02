@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/metart
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||metart.com^
+||metartnetwork.com^
+||metcams.com^
+||naiadsystems.com^
+||nsimg.net^

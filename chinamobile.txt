@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinamobile
+! domain: 16
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||10086.cn^
+||139.com^
+||chinamobile.com^
+||chinamobileltd.com^
+||migucloud.com^
+||migu.cn^
+||cmvideo.cn^
+||miguvideo.com^
+||andfx.cn^
+||andfx.net^
+||cmicrwx.cn^
+||cmpassport.com^
+||fetion-portal.com^
+||fetionpic.com^
+||mmarket.com^
+||mmarket6.com^

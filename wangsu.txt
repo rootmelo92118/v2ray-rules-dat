@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wangsu
+! domain: 14
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||51cdn.com^
+||8686c.com^
+||cdn30.org^
+||chinanetcenter.com^
+||lxdns.com^
+||lxdns.info^
+||lxdns.org^
+||ourdvsss.com^
+||speedws.info^
+||speedws.org^
+||wangsu.com^
+||wscdns.com^
+||wscdns.info^
+||wscdns.org^

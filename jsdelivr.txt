@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/jsdelivr
+! domain: 3
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|cdn.jsdelivr.net^
+||jsdelivr.com^
+||jsdelivr.net^
+||esm.run^

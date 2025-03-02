@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/calgoncarbon
+! domain: 19
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||calgon.fr^
+||calgon.ru^
+||calgon.ie^
+||calgon.it^
+||calgon.com^
+||calgon.at^
+||calgon.de^
+||calgon.es^
+||calgonit.com^
+||calgon.ch^
+||calgoncarbon.com^
+||calgon.nl^
+||calgon.pt^
+||calgon.be^
+||calgon.tv^
+||calgoncarbon-china.com^
+||calgon.co.uk^
+||calgon.com.tr^
+||calgon.cn^

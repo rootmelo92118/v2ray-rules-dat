@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/limelight
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||delvenetworks.com^
+||limelight.com^
+||lldns.net^
+||llnw-trials.com^
+||llnw.com^
+||llnw.net^
+||llnwd.net^
+||llnwi.net^

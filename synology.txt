@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/synology
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gofile.me^
+||quickconnect.to^
+||synology.com^
+||synologydownload.com^
+||synologyupdate.com^
+||quickconnect.cn^
+||synology.cn^

@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/connectivity-check
+! domain: 9
+! full: 3
+! keyword: 0
+! regexp: 0
+
+
+|connectivitycheck.platform.hihonorcloud.com^
+|connectivitycheck.platform.hicloud.com^
+|connect.rom.miui.com^
+||msftconnecttest.com^
+||msftncsi.com^
+||ping.archlinux.org^
+||captive.apple.com^
+||connectivitycheck.gstatic.com^
+||cp.cloudflare.com^
+||network-test.debian.org^
+||detectportal.firefox.com^
+||networkcheck.kde.org^

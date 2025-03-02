@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/comodo
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||comodo.com^
+||comodo.net^
+||comodoca.com^
+||comodoca2.com^
+||comodoca3.com^
+||comodoca4.com^

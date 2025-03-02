@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sci-hub
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||sci-hub.se^
+||sci-hub.ee^
+||sci-hub.st^
+||sci-hub.it.nf^
+||sci-hub.mksa.top^
+||sci.hubg.org^

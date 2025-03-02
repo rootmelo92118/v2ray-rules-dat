@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dingtalk
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ddurl.to^
+||dingding.xin^
+||dingtalk.cn^
+||dingtalk.com^
+||dingtalk.net^
+||dingtalkapps.com^
+||laiwang.com^
+||lwurl.to^

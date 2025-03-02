@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ehentai
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||e-hentai.org^
+||ehgt.org^
+||ehtracker.org^
+||ehwiki.org^
+||exhentai.org^
+||hath.network^
+||hentaiathome.net^
+||hentaiverse.org^

@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/nbcuniversal
+! domain: 17
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dreamworks.com^
+||cnbc.com^
+||cnbcfm.com^
+||msnbc.com^
+||nbc.co^
+||nbc.com^
+||nbcnews.com^
+||nbcolympics.com^
+||nbcsports.com^
+||nbcuni.com^
+||nbcuniversal.com^
+||s-nbcnews.com^
+||peacocktv.com^
+||universalorlando.com^
+||universalpictures.com^
+||universalpicturesinternational.com^
+||universalstudioshollywood.com^

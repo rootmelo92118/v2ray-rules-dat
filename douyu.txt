@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/douyu
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||douyu.com^
+||douyu.tv^
+||douyucdn.cn^
+||douyucdn2.cn^
+||douyuscdn.com^
+||douyutv.com^

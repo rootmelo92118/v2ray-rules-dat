@@ -1,0 +1,36 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ctrip
+! domain: 29
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||c-ctrip.com^
+||colinker.com^
+||ctrip.cn^
+||ctrip.com^
+||ctripbiz.com^
+||ctripteam.com^
+||doticloud.com^
+||easytrip.com^
+||hhtravel.com^
+||izuchebao.com^
+||lvtds.com^
+||shuntu.cn^
+||skysea.com^
+||suanya.cn^
+||suanya.com^
+||tieyou.com^
+||toptown.cn^
+||toursbms.com^
+||vipdlt.com^
+||ctrip.co.id^
+||ctrip.co.kr^
+||ctrip.co.th^
+||ctrip.com.hk^
+||ctrip.my^
+||ctrip.sg^
+||ctripbuy.hk^
+||hhtravel.com.tw^
+||trip.com^
+||tripcdn.com^

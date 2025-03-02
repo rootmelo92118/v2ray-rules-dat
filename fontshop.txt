@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/fontshop
+! domain: 3
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|fontshop-prod-responsive-images.s3.amazonaws.com^
+||fontbook.com^
+||fontshop.com^
+||fstopimages.com^

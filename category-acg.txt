@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-acg
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||colorfulstage.com^
+||lapriere.jp^
+||magicalmirai.com^
+||mikuexpo.com^
+||piapro.net^
+||snowmiku.com^
+||bowlroll.net^
+||crypton.co.jp^

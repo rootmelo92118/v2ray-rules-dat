@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dowjones
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||djreprints.com^
+||dowjones.com^
+||dowjones.io^
+||dowjoneson.com^

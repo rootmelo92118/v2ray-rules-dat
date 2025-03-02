@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/awempire
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||awempire.com^
+||dditsadn.com^
+||dditscdn.com^
+||docleradn.com^
+||doclercdn.com^

@@ -1,0 +1,22 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/smartone
+! domain: 15
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||s-rewards.hk^
+||smartone.com^
+||hkcircleapp.com^
+||homephoneplus.com^
+||ip73.com^
+||s-cashonmobile.com^
+||healthreach.hk^
+||sahabatsetiasmartone.com^
+||barkadahansasmartone.com^
+||smartoneholdings.com^
+||smartonerobotics.com^
+||wise-research.com^
+||smartonesolutions.hk^
+||valuegb.com^
+||smartonesolutions.com.hk^

@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yuewen
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||yuewen.com^
+||hongxiu.com^
+||lrts.me^
+||qdmm.com^
+||qidian.com^
+||readnovel.com^
+||tingbook.com^
+||webnovel.com^
+||xs8.cn^
+||xxsy.net^

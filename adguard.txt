@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/adguard
+! domain: 16
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||adguard.app^
+||adguard.com^
+||adguard.info^
+||adguard.io^
+||adguard.org^
+||adtidy.net^
+||adtidy.org^
+||agrd.eu^
+||agrd.io^
+||adguard-dns.com^
+||adguard-dns.io^
+||adguard-mail.com^
+||mask.me^
+||adguardvpn.com^
+||adguard-vpn.com^
+||adguard-vpn.online^

@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sectigo
+! domain: 17
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||enterprisessl.com^
+||hackerguardian.com^
+||instantssl.com^
+||optimumssl.com^
+||positivessl.com^
+||sectigo.com^
+||trust-provider.com^
+||usertrust.com^
+||aoc.cat^
+||catcert.cat^
+||incommon-rsa.org^
+||netsolssl.com^
+||oemssl.cn^
+||oemssl.cn.cdn.cloudflare.net^
+||sectigochina.com^
+||sectigochina.com.cdn.cloudflare.net^
+||trust-provider.cn^

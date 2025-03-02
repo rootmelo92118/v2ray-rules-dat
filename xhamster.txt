@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xhamster
+! domain: 8
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|widgets.stripst.com^
+||xhamster.com^
+||xhamster.desi^
+||xhamster.xxx^
+||xhamster18.com^
+||xhamster18.desi^
+||xhamsterlive.com^
+||xhcdn.com^
+||collector.xhamster.com^

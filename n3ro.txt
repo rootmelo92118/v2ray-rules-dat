@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/n3ro
+! domain: 3
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||n3ro.lol^
+||n3ro.net^
+||n3ro.wtf^

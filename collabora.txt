@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/collabora
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||collabora.com^
+||collabora.org^
+||collaboraoffice.com^
+||collabora.co.uk^

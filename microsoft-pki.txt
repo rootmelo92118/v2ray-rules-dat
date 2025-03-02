@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/microsoft-pki
+! domain: 1
+! full: 5
+! keyword: 0
+! regexp: 0
+
+
+|crl.microsoft.com^
+|mscrl.microsoft.com^
+|ocsp.microsoft.com^
+|oneocsp.microsoft.com^
+||msocsp.com^
+|www.microsoft.com^
