@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wps
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,wps.cn
+  - DOMAIN-SUFFIX,wps.com
+  - DOMAIN-SUFFIX,wpscdn.cn
+  - DOMAIN-SUFFIX,wpscdn.com
+  - DOMAIN-SUFFIX,kscord.com
+  - DOMAIN-SUFFIX,51dzt.com
+  - DOMAIN-SUFFIX,iciba.com
+  - DOMAIN-SUFFIX,docer.com
+  - DOMAIN-SUFFIX,kdocs.cn
+  - DOMAIN-SUFFIX,wpsmail.net
+  - DOMAIN-SUFFIX,papocket.com
+  - DOMAIN-SUFFIX,wpspdf.cn

@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/deepin
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,deepin.cn
+  - DOMAIN-SUFFIX,deepin.com
+  - DOMAIN-SUFFIX,deepin.io
+  - DOMAIN-SUFFIX,deepin.org
+  - DOMAIN-SUFFIX,chinauos.com
+  - DOMAIN-SUFFIX,uniontech.com

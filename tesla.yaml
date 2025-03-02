@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tesla
+# domain: 11
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,tesla-cdn.thron.com
+  - DOMAIN-SUFFIX,solarcity.com
+  - DOMAIN-SUFFIX,tesla.com
+  - DOMAIN-SUFFIX,tesla.services
+  - DOMAIN-SUFFIX,teslaenergy.services
+  - DOMAIN-SUFFIX,teslamotors.com
+  - DOMAIN-SUFFIX,teslazta.net
+  - DOMAIN-SUFFIX,ts.la
+  - DOMAIN-SUFFIX,tesla.cn
+  - DOMAIN-SUFFIX,tesla.com.cn
+  - DOMAIN-SUFFIX,teslamotors.cn
+  - DOMAIN-SUFFIX,teslamotors.com.cn
+  - DOMAIN,tesla-cdn.thron.cn

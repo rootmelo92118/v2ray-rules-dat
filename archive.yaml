@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/archive
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,archive-it.org
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,archive.ph
+  - DOMAIN-SUFFIX,archive.today
+  - DOMAIN-SUFFIX,openlibrary.org
+  - DOMAIN-SUFFIX,4pcdn.org
+  - DOMAIN-SUFFIX,4plebs.org

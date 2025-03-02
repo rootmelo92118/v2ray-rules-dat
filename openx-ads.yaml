@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/openx-ads
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,openx.net
+  - DOMAIN-SUFFIX,openxadexchange.com
+  - DOMAIN-SUFFIX,openxcdn.net
+  - DOMAIN-SUFFIX,openxenterprise.com
+  - DOMAIN-SUFFIX,openxmarket.asia

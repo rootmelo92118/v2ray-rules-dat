@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/u17
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,u17.com
+  - DOMAIN-SUFFIX,u17i.com
+  - DOMAIN-SUFFIX,u17t.com

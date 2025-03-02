@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ubisoft
+# domain: 4
+# full: 4
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+  - DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
+  - DOMAIN,ubistatic3-a.akamaihd.net
+  - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-SUFFIX,ubisoft.com
+  - DOMAIN-SUFFIX,ubisoftconnect.com
+  - DOMAIN-SUFFIX,uplay.com
+  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

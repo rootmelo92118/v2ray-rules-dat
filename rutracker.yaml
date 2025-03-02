@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/rutracker
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,maintracker.org
+  - DOMAIN-SUFFIX,rutracker.cc
+  - DOMAIN-SUFFIX,rutracker.cr
+  - DOMAIN-SUFFIX,rutracker.me
+  - DOMAIN-SUFFIX,rutracker.nl
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutrecker.net
+  - DOMAIN-SUFFIX,rutrk.org

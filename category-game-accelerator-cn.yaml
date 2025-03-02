@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-game-accelerator-cn
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,leigod.com
+  - DOMAIN-SUFFIX,tmjiasuqi.com
+  - DOMAIN-SUFFIX,xunyou.com
+  - DOMAIN-SUFFIX,bohejiasuqi.com
+  - DOMAIN-SUFFIX,uu.163.com
+  - DOMAIN-SUFFIX,jiasu.bohe.com

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mucinex
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,mucinex.ca
+  - DOMAIN-SUFFIX,mucinex.cn
+  - DOMAIN-SUFFIX,mucinex.com
+  - DOMAIN-SUFFIX,mucinex.net
+  - DOMAIN-SUFFIX,mucinex.tv
+  - DOMAIN-SUFFIX,mucinexprofessional.com
+  - DOMAIN-SUFFIX,mucinex.co.nz
+  - DOMAIN-SUFFIX,mucinex.com.cn

@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sectigo
+# domain: 17
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,enterprisessl.com
+  - DOMAIN-SUFFIX,hackerguardian.com
+  - DOMAIN-SUFFIX,instantssl.com
+  - DOMAIN-SUFFIX,optimumssl.com
+  - DOMAIN-SUFFIX,positivessl.com
+  - DOMAIN-SUFFIX,sectigo.com
+  - DOMAIN-SUFFIX,trust-provider.com
+  - DOMAIN-SUFFIX,usertrust.com
+  - DOMAIN-SUFFIX,aoc.cat
+  - DOMAIN-SUFFIX,catcert.cat
+  - DOMAIN-SUFFIX,incommon-rsa.org
+  - DOMAIN-SUFFIX,netsolssl.com
+  - DOMAIN-SUFFIX,oemssl.cn
+  - DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,sectigochina.com
+  - DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,trust-provider.cn

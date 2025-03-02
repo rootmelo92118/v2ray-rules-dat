@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hooligapps
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,cuntempire.com
+  - DOMAIN-SUFFIX,cuntwars.com
+  - DOMAIN-SUFFIX,dirtyleague.com
+  - DOMAIN-SUFFIX,faptitans.com
+  - DOMAIN-SUFFIX,hooligapps.com
+  - DOMAIN-SUFFIX,slotbitches.com
+  - DOMAIN-SUFFIX,smutstone.com
+  - DOMAIN-SUFFIX,townofsins.com

@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-enterprise-query-platform-cn
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,qcc.com
+  - DOMAIN-SUFFIX,qichacha.com
+  - DOMAIN-SUFFIX,qichamao.com
+  - DOMAIN-SUFFIX,qixin.com
+  - DOMAIN-SUFFIX,qyyjt.cn
+  - DOMAIN-SUFFIX,jindidata.com
+  - DOMAIN-SUFFIX,tianyancha.com
+  - DOMAIN-SUFFIX,x315.com
+  - DOMAIN-SUFFIX,hongdunwang.com.cn
+  - DOMAIN-SUFFIX,aiqicha.baidu.com

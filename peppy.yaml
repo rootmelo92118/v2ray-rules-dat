@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/peppy
+# domain: 1
+# full: 9
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,a.ppy.sh
+  - DOMAIN,assets.ppy.sh
+  - DOMAIN,c.ppy.sh
+  - DOMAIN,osu.ppy.sh
+  - DOMAIN,m1.ppy.sh
+  - DOMAIN,lazer.ppy.sh
+  - DOMAIN,notify.ppy.sh
+  - DOMAIN,sentry.ppy.sh
+  - DOMAIN,spectator.ppy.sh
+  - DOMAIN-SUFFIX,ppy.sh

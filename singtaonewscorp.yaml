@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/singtaonewscorp
+# domain: 18
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,hkheadline.com
+  - DOMAIN-SUFFIX,singtao.com
+  - DOMAIN-SUFFIX,singtaonewscorp.com
+  - DOMAIN-SUFFIX,my-magazine.me
+  - DOMAIN-SUFFIX,singtaola.com
+  - DOMAIN-SUFFIX,singtaousa.com
+  - DOMAIN-SUFFIX,stheadline.com
+  - DOMAIN-SUFFIX,singtaoopo.com
+  - DOMAIN-SUFFIX,headlinejobs.hk
+  - DOMAIN-SUFFIX,sing68.com
+  - DOMAIN-SUFFIX,singtaobooks.com
+  - DOMAIN-SUFFIX,eduplus.hk
+  - DOMAIN-SUFFIX,bastillepost.com
+  - DOMAIN-SUFFIX,easttouch.com.hk
+  - DOMAIN-SUFFIX,pcmarket.com.hk
+  - DOMAIN-SUFFIX,jobmarket.com.hk
+  - DOMAIN-SUFFIX,eastweek.com.hk
+  - DOMAIN-SUFFIX,thestandard.com.hk

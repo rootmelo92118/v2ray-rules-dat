@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/didi
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,didi.cn
+  - DOMAIN-SUFFIX,didialift.com
+  - DOMAIN-SUFFIX,didichuxing.com
+  - DOMAIN-SUFFIX,didistatic.com
+  - DOMAIN-SUFFIX,udache.com
+  - DOMAIN-SUFFIX,xiaojukeji.com
+  - DOMAIN-SUFFIX,diditaxi.com.cn
+  - DOMAIN-SUFFIX,didi-food.com
+  - DOMAIN-SUFFIX,didiaustralia.blog
+  - DOMAIN-SUFFIX,didiglobal.com
+  - DOMAIN-SUFFIX,didimobility.co.jp

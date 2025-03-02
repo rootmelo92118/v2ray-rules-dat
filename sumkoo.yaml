@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sumkoo
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,gongqingyun.cn
+  - DOMAIN-SUFFIX,jzfz.net
+  - DOMAIN-SUFFIX,sumkoo.cn
+  - DOMAIN-SUFFIX,sumkoo.com
+  - DOMAIN-SUFFIX,sumkoo.net
+  - DOMAIN-SUFFIX,veeqi.net
+  - DOMAIN-SUFFIX,wenmingban.com
+  - DOMAIN-SUFFIX,zhiyuanhe.cn
+  - DOMAIN-SUFFIX,zhiyuanyun.com.cn
+  - DOMAIN-SUFFIX,zyhe.com.cn

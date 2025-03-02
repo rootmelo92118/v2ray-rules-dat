@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-ads-ir
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,adivery.com
+  - DOMAIN-SUFFIX,adivery.ir
+  - DOMAIN-SUFFIX,kaprila.com
+  - DOMAIN-SUFFIX,najva.com
+  - DOMAIN-SUFFIX,sabavision.com
+  - DOMAIN-SUFFIX,tapsell.ir
+  - DOMAIN-SUFFIX,yektanet.com

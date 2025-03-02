@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/citic
+# domain: 15
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,citic
+  - DOMAIN-SUFFIX,chinaamc.com
+  - DOMAIN-SUFFIX,citicbank.com
+  - DOMAIN-SUFFIX,citiccapital.com
+  - DOMAIN-SUFFIX,citiciam.com
+  - DOMAIN-SUFFIX,citicifh.com
+  - DOMAIN-SUFFIX,citicsf.com
+  - DOMAIN-SUFFIX,clsa.com
+  - DOMAIN-SUFFIX,csc108.com
+  - DOMAIN-SUFFIX,ecitic.com
+  - DOMAIN-SUFFIX,citic-prudential.com.cn
+  - DOMAIN-SUFFIX,citicprufunds.com.cn
+  - DOMAIN-SUFFIX,citics.com.hk
+  - DOMAIN-SUFFIX,cncbinternational.com
+  - DOMAIN-SUFFIX,csci.hk

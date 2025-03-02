@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/libgen
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,libgen.life
+  - DOMAIN-SUFFIX,libgen.fun
+  - DOMAIN-SUFFIX,library.lol
+  - DOMAIN-SUFFIX,libgen.is
+  - DOMAIN-SUFFIX,libgen.me
+  - DOMAIN-SUFFIX,libgen.rs
+  - DOMAIN-SUFFIX,libgen.st
+  - DOMAIN-SUFFIX,gen.lib.rus.ec

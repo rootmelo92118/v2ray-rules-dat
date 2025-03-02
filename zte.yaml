@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zte
+# domain: 6
+# full: 3
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,bbs.ztedevices.com
+  - DOMAIN,www.ztedevices.com
+  - DOMAIN-SUFFIX,nubia.cn
+  - DOMAIN-SUFFIX,nubia.com
+  - DOMAIN-SUFFIX,redmagic.com
+  - DOMAIN-SUFFIX,ztemall.com
+  - DOMAIN-SUFFIX,ztems.com
+  - DOMAIN-SUFFIX,zte.com.cn
+  - DOMAIN,ztedevices.com

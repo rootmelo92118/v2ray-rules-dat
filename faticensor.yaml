@@ -1,0 +1,39 @@
+# It is the censorship list of Full Access To Internet.
+# domain: 31
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,jhhr.store
+  - DOMAIN-SUFFIX,twbuypc.com
+  - DOMAIN-SUFFIX,azuma57.com
+  - DOMAIN-SUFFIX,lologd.store
+  - DOMAIN-SUFFIX,sakg.store
+  - DOMAIN-SUFFIX,siks.store
+  - DOMAIN-SUFFIX,yldbx.store
+  - DOMAIN-SUFFIX,bcwje.store
+  - DOMAIN-SUFFIX,bbdr.store
+  - DOMAIN-SUFFIX,hjgk.store
+  - DOMAIN-SUFFIX,igtr.store
+  - DOMAIN-SUFFIX,ikss.store
+  - DOMAIN-SUFFIX,oass.store
+  - DOMAIN-SUFFIX,iqiq.store
+  - DOMAIN-SUFFIX,kkrf.store
+  - DOMAIN-SUFFIX,rdrs.store
+  - DOMAIN-SUFFIX,1068shop.com
+  - DOMAIN-SUFFIX,otakuboo.com
+  - DOMAIN-SUFFIX,otakutwn.com
+  - DOMAIN-SUFFIX,bpor.club
+  - DOMAIN-SUFFIX,citwy.life
+  - DOMAIN-SUFFIX,kiilne.com
+  - DOMAIN-SUFFIX,mchr.life
+  - DOMAIN-SUFFIX,qoyi.club
+  - DOMAIN-SUFFIX,taftqo.life
+  - DOMAIN-SUFFIX,ugof.shop
+  - DOMAIN-SUFFIX,waune.com
+  - DOMAIN-SUFFIX,xlihel.shop
+  - DOMAIN-SUFFIX,nxnx.store
+  - DOMAIN-SUFFIX,usmgtcgov.tw
+  - DOMAIN-SUFFIX,usmgtcg.ning.com

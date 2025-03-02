@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/landian
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,lancdn.com
+  - DOMAIN-SUFFIX,landiannews.com
+  - DOMAIN-SUFFIX,landian.vip
+  - DOMAIN-SUFFIX,landian.xyz
+  - DOMAIN-SUFFIX,ourl.co
+  - DOMAIN-SUFFIX,wsoso.com

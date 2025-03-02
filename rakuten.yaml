@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/rakuten
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,r10s.com
+  - DOMAIN-SUFFIX,r10s.jp
+  - DOMAIN-SUFFIX,rakuten-static.com
+  - DOMAIN-SUFFIX,rakuten.ca
+  - DOMAIN-SUFFIX,rakuten.com
+  - DOMAIN-SUFFIX,rakuten.tw
+  - DOMAIN-SUFFIX,rclon.com
+  - DOMAIN-SUFFIX,rebates.jp
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,rakuten.com.tw
+  - DOMAIN-SUFFIX,rakuten.ne.jp

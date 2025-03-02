@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/snap
+# domain: 6
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,impala-media-production.s3.amazonaws.com
+  - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,snap-dev.net
+  - DOMAIN-SUFFIX,snap.com
+  - DOMAIN-SUFFIX,snapchat.com
+  - DOMAIN-SUFFIX,snapkit.co
+  - DOMAIN-SUFFIX,snapads.com

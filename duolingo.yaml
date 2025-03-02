@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/duolingo
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,duolingo.com
+  - DOMAIN-SUFFIX,duolingo.cn
+  - DOMAIN-SUFFIX,ads-api.duolingo.com
+  - DOMAIN-SUFFIX,metrics.duolingo.com
+  - DOMAIN-SUFFIX,analytics.vpc.duolingo.com

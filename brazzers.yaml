@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/brazzers
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,brazzer.com
+  - DOMAIN-SUFFIX,brazzers.com
+  - DOMAIN-SUFFIX,brazzers.xxx
+  - DOMAIN-SUFFIX,brazzersnetwork.com
+  - DOMAIN-SUFFIX,mofos.com
