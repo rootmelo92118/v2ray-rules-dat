@@ -289,11 +289,11 @@ jobs:
           git init
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b clash
+          git checkout -b sing-box
           git add *.yaml
           git commit -m "${{ env.RELEASE_NAME }}"
           git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin clash
+          git push -f -u origin sing-box
           rm -rf .git
 
       - name: Git push assets to "release" branch
