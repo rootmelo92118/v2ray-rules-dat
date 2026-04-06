@@ -57,6 +57,12 @@ jobs:
           repository: cokebar/gfwlist2dnsmasq
           path: gfwlist2dnsmasq
 
+      - name: Checkout rootmelo92118/sing-geosite
+        uses: actions/checkout@v6
+        with:
+          repository: rootmelo92118/sing-geosite
+          path: sing-geosite
+          
       - name: Setup Go
         uses: actions/setup-go@v6
         with:
@@ -209,25 +215,6 @@ jobs:
         run: |
           install -p ./custom/publish/faticensor.txt ./publish/
           
-      - name: Git push assets to "release" branch
-        run: |
-          cd publish || exit 1
-          git init
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b release
-          git add .
-          git commit -m "${{ env.RELEASE_NAME }}"
-          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin release
-
-      - name: Purge jsdelivr CDN
-        run: |
-          cd publish || exit 1
-          for file in $(ls); do
-            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
-          done
-          
       - name: Generate plaintext and Convert to the rules of AdGuard format
         run: |
           cd custom || exit 1
@@ -261,6 +248,7 @@ jobs:
           mkdir clash_Rule_Set
           sed -i 's/--outputdir/--outputpath/g' GenerateAndConvertForClash.py
           python3 GenerateAndConvertForClash.py ../community/data ./clash_Rule_Set
+          
       - name: Modify the head of FATIcensor
         run: |
           cd custom/clash_Rule_Set || exit 1
@@ -278,3 +266,52 @@ jobs:
           git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git push -f -u origin clash
           rm -rf .git
+          
+      - name: Generate sing-box RULE-SET format
+        env:
+          LOCAL_GEOSITE_PATH: ../publish/geosite.dat
+        run: |
+          cd sing-geosite || exit 1
+          go run -v .
+
+      - name: Collect sing-box outputs and make sha256sum
+        run: |
+          mkdir -p sing-output
+          cp -r sing-geosite/rule-set sing-output/
+          cp -r sing-geosite/rule-set-unstable sing-output/
+          sha256sum sing-geosite/geosite.db > sing-geosite/geosite.db.sha256sum
+          sha256sum sing-geosite/geosite-cn.db > sing-geosite/geosite-cn.db.sha256sum
+          cp sing-geosite/geosite* ./publish
+
+      - name: Git push assets to "sing-box" branch
+        run: |
+          cd sing-output || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b clash
+          git add *.yaml
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin clash
+          rm -rf .git
+
+      - name: Git push assets to "release" branch
+        run: |
+          cd publish || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b release
+          git add .
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin release
+
+      - name: Purge jsdelivr CDN
+        run: |
+          cd publish || exit 1
+          for file in $(ls); do
+            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@release/${file}"
+          done
+
