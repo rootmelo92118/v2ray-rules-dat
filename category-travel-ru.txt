@@ -1,0 +1,27 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-travel-ru
+! domain: 13
+! full: 7
+! keyword: 0
+! regexp: 0
+
+
+|bilet.nspk.ru^
+|metro.spb.ru^
+|mos.transport.vtb.ru^
+|podorozhnik.spb.ru^
+|transport.mos.ru^
+|arenda.yandex.ru^
+|taxi.yandex.ru^
+||blablacar.ru^
+||avtovokzaly.ru^
+||ostrovok.ru^
+||gorodpay.ru^
+||rrtp.ru^
+||rzd-bonus.ru^
+||rzd.ru^
+||tutu.ru^
+||avs.io^
+||aviasales.ru^
+||aviasales.com^
+||mosmetro.ru^
+||mosmetro.tech^

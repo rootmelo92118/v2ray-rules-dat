@@ -1,0 +1,27 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/synology
+! domain: 20
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gofile.me^
+||quickconnect.to^
+||synology.com^
+||synologydownload.com^
+||synologyupdate.com^
+||diskstation.me^
+||dscloud.biz^
+||dscloud.me^
+||dscloud.mobi^
+||dsmynas.com^
+||dsmynas.net^
+||dsmynas.org^
+||familyds.com^
+||familyds.net^
+||familyds.org^
+||i234.me^
+||myds.me^
+||synology.me^
+||quickconnect.cn^
+||synology.cn^

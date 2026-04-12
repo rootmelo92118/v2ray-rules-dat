@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ok
+! domain: 3
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|st-ok-pts.cdn-vk.ru^
+|st-ok.cdn-vk.ru^
+||ok.ru^
+||okcdn.ru^
+||mycdn.me^

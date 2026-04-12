@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zscaler
+! domain: 17
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||securecloudtransformation.com^
+||securitypreview.com^
+||threatlabz.com^
+||zdxbeta.net^
+||zdxcloud.net^
+||zpagov.net^
+||zpath.com^
+||zscaler.com^
+||zscaler.jp^
+||zscaler.net^
+||zscalerbeta.net^
+||zscalergov.net^
+||zscalerone.net^
+||zscalershift.com^
+||zscalerthree.net^
+||zscalertwo.net^
+||zscloud.net^

@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/lastfm
+! domain: 1
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|lastfm.freetls.fastly.net^
+|ws.audioscrobbler.com^
+||last.fm^

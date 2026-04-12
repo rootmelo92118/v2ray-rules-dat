@@ -1,0 +1,30 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-entertainment-ru
+! domain: 23
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cdnvideo.ru^
+||cdnvideohub.com^
+||trbcdn.net^
+||kinorium.com^
+||24h.tv^
+||amediateka.ru^
+||beeline.tv^
+||ivi.ru^
+||premier.one^
+||smotreshka.tv^
+||start.ru^
+||tvigle.ru^
+||viju.ru^
+||playfamily.ru^
+||okko.sport^
+||okko.tv^
+||restream-media.net^
+||wink.ru^
+||rutube.ru^
+||rutubelist.ru^
+||rtbcdn.ru^
+||kinopoisk.ru^
+||kinopoisk-ru.clstorage.net^

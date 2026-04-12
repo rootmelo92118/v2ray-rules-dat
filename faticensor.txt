@@ -1,0 +1,60 @@
+# It is the censorship list of Full Access To Internet.
+! domain: 53
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||azuma57.com^
+||1068shop.com^
+||devilcase.net^
+||casezone.net^
+||dcase.store^
+||casezoro.com^
+||buryo.store^
+||goodtoystudio.com^
+||kawapark.com^
+||kikishop7.com^
+||kawakr.com^
+||kawasshop.com^
+||touup.com^
+||kkrf.store^
+||lologd.store^
+||pkda.store^
+||sakg.store^
+||siks.store^
+||yldbx.store^
+||uiuiise.com^
+||bcwje.store^
+||bbdr.store^
+||hjgk.store^
+||igtr.store^
+||ikss.store^
+||oass.store^
+||vvdes.store^
+||iqiq.store^
+||jhhr.store^
+||nxnx.store^
+||rdrs.store^
+||otakuboo.com^
+||otakutwn.com^
+||bpor.club^
+||citwy.life^
+||dhfde.shop^
+||kiilne.com^
+||mchr.life^
+||mytdo.live^
+||qoyi.club^
+||sjhsy.live^
+||sklx.store^
+||taftqo.life^
+||ugof.shop^
+||waune.com^
+||xlihel.shop^
+||taiwancivilgovernment.tw^
+||usmgtcg.org^
+||usmgtcgov.tw^
+||twbuypc.com^
+||pubmatic.com^
+||devilcase.com.tw^
+||usmgtcg.ning.com^

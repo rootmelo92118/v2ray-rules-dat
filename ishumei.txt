@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ishumei
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ishumei.com^
+||fengkongbao.com^
+||fengkongcloud.com^
+||fengkongcloud.cn^
+||portal101.cn^
+||portal102.cn^
+||portal201.cn^
+||portal301.cn^
+||tebiefuza.cloud^
+||tebiefuza.cn^

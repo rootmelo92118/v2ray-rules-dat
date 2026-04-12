@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/vodafone
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||vodafone.com^
+||vodafone.de^
+||vodafone.it^
+||myvodafone.com.au^
+||myvodafone.com.ws^
+||vodafone.co.uk^
+||vodafone.com.au^
+||vodafone.com.tr^

@@ -1,0 +1,43 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-social-media-cn
+! domain: 36
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||okjike.com^
+||zsxq.com^
+||dandan818.com^
+||dandanvoice.com^
+||zhimg.com^
+||maimai.cn^
+||taou.com^
+||okjk.co^
+||coolapk.com^
+||ruguoapp.com^
+||coolapkmarket.net^
+||ivwen.com^
+||meipian.cn^
+||meipian.me^
+||jike.city^
+||jikecdn.com^
+||fanfou.com^
+||tieba.com^
+||coolapkmarket.com^
+||yy.com^
+||yystatic.com^
+||duowan.com^
+||dwstatic.com^
+||douban.com^
+||douban.fm^
+||doubanio.com^
+||gracg.com^
+||procg.cn^
+||hupu.com^
+||hupucdn.com^
+||shihuo.cn^
+||zhihu.com^
+||hoopchina.com.cn^
+||tieba.baidu.com^
+||crash2.zhihu.com^
+||zhihu-web-analytics.zhihu.com^

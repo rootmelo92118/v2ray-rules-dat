@@ -1,0 +1,30 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/huawei-dev
+! domain: 23
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||hiascend.com^
+||teleows.com^
+||bisheng.cn^
+||gneec.com^
+||hiclc.com^
+||gneec3.com^
+||gneec4.com^
+||gneec7.com^
+||harmonyos.com^
+||hikunpeng.cn^
+||devui.design^
+||bishengcompiler.cn^
+||hiascend.cn^
+||hikunpeng.com^
+||saasops.tech^
+||hikunpeng.net^
+||hisilicon.com^
+||owsgo.com^
+||huaweiapaas.com^
+||mindspore.cn^
+||hisilicon.com.cn^
+||hikunpeng.com.cn^
+||gneec.com.cn^
