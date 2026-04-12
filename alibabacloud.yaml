@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/alibabacloud
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,alibabacloud.co.in
+  - DOMAIN-SUFFIX,alibabacloud.com
+  - DOMAIN-SUFFIX,alibabacloud.com.au
+  - DOMAIN-SUFFIX,alibabacloud.com.hk
+  - DOMAIN-SUFFIX,alibabacloud.com.my
+  - DOMAIN-SUFFIX,alibabacloud.com.sg
+  - DOMAIN-SUFFIX,alibabacloud.com.tw
+  - DOMAIN-SUFFIX,alicloud.com

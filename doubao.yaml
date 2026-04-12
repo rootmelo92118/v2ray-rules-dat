@@ -1,0 +1,22 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/doubao
+# domain: 14
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,butterfly-static.cn
+  - DOMAIN-SUFFIX,butterflyai.cn
+  - DOMAIN-SUFFIX,coze.cn
+  - DOMAIN-SUFFIX,coze.site
+  - DOMAIN-SUFFIX,cozebaas.cn
+  - DOMAIN-SUFFIX,cozefn.cn
+  - DOMAIN-SUFFIX,cozeide.cn
+  - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,doubaocdn.com
+  - DOMAIN-SUFFIX,hi-butterfly.cn
+  - DOMAIN-SUFFIX,maoxiangai.com
+  - DOMAIN-SUFFIX,myparallelstory.com
+  - DOMAIN-SUFFIX,picpic-ai.cn
+  - DOMAIN-SUFFIX,pixeldance.com

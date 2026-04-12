@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xiaoheihe
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,1xhh.cn
+  - DOMAIN-SUFFIX,accxiaoheihe.com
+  - DOMAIN-SUFFIX,chat.top
+  - DOMAIN-SUFFIX,debugmode.cn
+  - DOMAIN-SUFFIX,max-c.com
+  - DOMAIN-SUFFIX,maxadmin.cn
+  - DOMAIN-SUFFIX,maxjia.com
+  - DOMAIN-SUFFIX,xiaoheihe.cn

@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/straitsx
+# domain: 1
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,d3r7nsslvs6aaf.cloudfront.net
+  - DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+  - DOMAIN-SUFFIX,straitsx.com

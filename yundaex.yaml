@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yundaex
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ydsys.cn
+  - DOMAIN-SUFFIX,yundaex.cn
+  - DOMAIN-SUFFIX,yundaex.com
+  - DOMAIN-SUFFIX,yundasys.com
+  - DOMAIN-SUFFIX,yunda56.com
+  - DOMAIN-SUFFIX,yundalog.com
+  - DOMAIN-SUFFIX,yundaltl.com
+  - DOMAIN-SUFFIX,udalogistic.com
+  - DOMAIN-SUFFIX,udalogistic.cn

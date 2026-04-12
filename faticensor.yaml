@@ -1,0 +1,61 @@
+# It is the censorship list of Full Access To Internet.
+# domain: 53
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,azuma57.com
+  - DOMAIN-SUFFIX,1068shop.com
+  - DOMAIN-SUFFIX,devilcase.net
+  - DOMAIN-SUFFIX,casezone.net
+  - DOMAIN-SUFFIX,dcase.store
+  - DOMAIN-SUFFIX,casezoro.com
+  - DOMAIN-SUFFIX,buryo.store
+  - DOMAIN-SUFFIX,goodtoystudio.com
+  - DOMAIN-SUFFIX,kawapark.com
+  - DOMAIN-SUFFIX,kikishop7.com
+  - DOMAIN-SUFFIX,kawakr.com
+  - DOMAIN-SUFFIX,kawasshop.com
+  - DOMAIN-SUFFIX,touup.com
+  - DOMAIN-SUFFIX,kkrf.store
+  - DOMAIN-SUFFIX,lologd.store
+  - DOMAIN-SUFFIX,pkda.store
+  - DOMAIN-SUFFIX,sakg.store
+  - DOMAIN-SUFFIX,siks.store
+  - DOMAIN-SUFFIX,yldbx.store
+  - DOMAIN-SUFFIX,uiuiise.com
+  - DOMAIN-SUFFIX,bcwje.store
+  - DOMAIN-SUFFIX,bbdr.store
+  - DOMAIN-SUFFIX,hjgk.store
+  - DOMAIN-SUFFIX,igtr.store
+  - DOMAIN-SUFFIX,ikss.store
+  - DOMAIN-SUFFIX,oass.store
+  - DOMAIN-SUFFIX,vvdes.store
+  - DOMAIN-SUFFIX,iqiq.store
+  - DOMAIN-SUFFIX,jhhr.store
+  - DOMAIN-SUFFIX,nxnx.store
+  - DOMAIN-SUFFIX,rdrs.store
+  - DOMAIN-SUFFIX,otakuboo.com
+  - DOMAIN-SUFFIX,otakutwn.com
+  - DOMAIN-SUFFIX,bpor.club
+  - DOMAIN-SUFFIX,citwy.life
+  - DOMAIN-SUFFIX,dhfde.shop
+  - DOMAIN-SUFFIX,kiilne.com
+  - DOMAIN-SUFFIX,mchr.life
+  - DOMAIN-SUFFIX,mytdo.live
+  - DOMAIN-SUFFIX,qoyi.club
+  - DOMAIN-SUFFIX,sjhsy.live
+  - DOMAIN-SUFFIX,sklx.store
+  - DOMAIN-SUFFIX,taftqo.life
+  - DOMAIN-SUFFIX,ugof.shop
+  - DOMAIN-SUFFIX,waune.com
+  - DOMAIN-SUFFIX,xlihel.shop
+  - DOMAIN-SUFFIX,taiwancivilgovernment.tw
+  - DOMAIN-SUFFIX,usmgtcg.org
+  - DOMAIN-SUFFIX,usmgtcgov.tw
+  - DOMAIN-SUFFIX,twbuypc.com
+  - DOMAIN-SUFFIX,pubmatic.com
+  - DOMAIN-SUFFIX,devilcase.com.tw
+  - DOMAIN-SUFFIX,usmgtcg.ning.com

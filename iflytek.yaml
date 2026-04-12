@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/iflytek
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,iflyink.com
+  - DOMAIN-SUFFIX,iflyrec.com
+  - DOMAIN-SUFFIX,iflysec.com
+  - DOMAIN-SUFFIX,iflytek.com
+  - DOMAIN-SUFFIX,xfyun.cn
+  - DOMAIN-SUFFIX,xunfei.cn
+  - DOMAIN-SUFFIX,ets100.com
+  - DOMAIN-SUFFIX,zhixue.com
+  - DOMAIN-SUFFIX,changyan.com
+  - DOMAIN-SUFFIX,xunfeixxj.com

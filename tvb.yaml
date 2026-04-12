@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tvb
+# domain: 13
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,tvbweekly.com
+  - DOMAIN-SUFFIX,bigbigshop.com
+  - DOMAIN-SUFFIX,encoretvb.com
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-SUFFIX,tvbanywhere.com
+  - DOMAIN-SUFFIX,tvbusa.com
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,tvb.com.au
+  - DOMAIN-SUFFIX,tvbanywhere.com.sg
+  - DOMAIN-SUFFIX,tvbeventpower.com.hk
+  - DOMAIN-SUFFIX,bigbigchannel.com.hk
+  - DOMAIN-SUFFIX,tvmedia.net.au
+  - DOMAIN-SUFFIX,tvbc.com.cn

@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ok
+# domain: 3
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,st-ok-pts.cdn-vk.ru
+  - DOMAIN,st-ok.cdn-vk.ru
+  - DOMAIN-SUFFIX,ok.ru
+  - DOMAIN-SUFFIX,okcdn.ru
+  - DOMAIN-SUFFIX,mycdn.me

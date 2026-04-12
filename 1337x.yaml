@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/1337x
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,1337x.to
+  - DOMAIN-SUFFIX,1337x.gd
+  - DOMAIN-SUFFIX,1337x.is
+  - DOMAIN-SUFFIX,1337x.st
+  - DOMAIN-SUFFIX,1337x.tw
+  - DOMAIN-SUFFIX,1337xto.to
+  - DOMAIN-SUFFIX,1337xx.to
+  - DOMAIN-SUFFIX,x1337x.eu
+  - DOMAIN-SUFFIX,x1337x.se
+  - DOMAIN-SUFFIX,x1337x.ws
