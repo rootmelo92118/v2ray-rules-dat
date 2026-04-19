@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-android-app-download
+! domain: 10
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|apkmirror.disqus.com^
+||uptodown.com^
+||utdstc.com^
+||apkcombo.com^
+||apkmirror.com^
+||apkpure.com^
+||apkpure.net^
+||apkpures.xyz^
+||cdnpure.com^
+||pureapk.com^
+||winudf.com^

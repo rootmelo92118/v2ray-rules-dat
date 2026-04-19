@@ -1,0 +1,43 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-scholar-uk
+! domain: 35
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|imperial.insendi.com^
+||oxfordpoliticstrove.com^
+||oxfordmedicine.com^
+||cambridgeschoolshakespeare.com^
+||cambridgedigital.net^
+||cambridgemaths.org^
+||universitypressscholarship.com^
+||ouplaw.com^
+||ukwhoswho.com^
+||imperialbusiness.school^
+||sipriyearbook.org^
+||oxfordwesternmusic.com^
+||oxfordfirstsource.com^
+||oxfordscholarlyeditions.com^
+||amamanualofstyle.com^
+||epigeum.com^
+||oxfordhandbooks.com^
+||omscr.com^
+||oxfordaasc.com^
+||veryshortintroductions.com^
+||oxfordscholarship.com^
+||oup.com^
+||oxfordartonline.com^
+||oxfordlawtrove.com^
+||oxfordclinicalpsych.com^
+||oxforddnb.com^
+||blackstonespoliceservice.com^
+||oed.com^
+||oxfordbibliographies.com^
+||cambridge.org^
+||oxfordmusiconline.com^
+||ac.uk^
+||oxfordre.com^
+||oxfordreference.com^
+||anb.org^
+||dlib.eastview.com^

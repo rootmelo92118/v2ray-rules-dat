@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xvideos
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||xv-ru.com^
+||xvideos-ar.com^
+||xvideos-cdn.com^
+||xvideos-india.com^
+||xvideos.com^

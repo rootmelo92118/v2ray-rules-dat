@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kinopub
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 1
+
+
+||kino.pub^
+||kinopub.online^
+||kpdl.link^
+||ahc.ovh^
+||gfw.ovh^
+||mos-gorsud.co^
+||cdn-service.space^
+||cdn2cdn.com^
+||cdn2site.com^
+||pushbr.com^
+||smarttvcdn.online^
+/(\w+)-static-[0-9]+\.cdntogo\.net$/

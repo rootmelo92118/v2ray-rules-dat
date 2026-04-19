@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/teamviewer
+! domain: 3
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|client-teamviewer-com.trafficmanager.net^
+|teamviewer.com.cdn.cloudflare.net^
+||teamviewer.com^
+||teamviewer.us^
+||teamviewer.cn^

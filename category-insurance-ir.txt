@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-insurance-ir
+! domain: 19
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||iraninsurance.ir^
+||tins.ir^
+||alborzinsurance.ir^
+||bimeonline.com^
+||dana-insurance.com^
+||dayins.com^
+||hafezinsurance.ir^
+||karafarin-insurance.ir^
+||bimehasia.com^
+||bimeh.com^
+||novininsurance.com^
+||mellatinsurance.com^
+||omid-insurance.ir^
+||parsianinsurance.ir^
+||razi-insurance.ir^
+||risc.ir^
+||sinainsurance.com^
+||tamin.ir^
+||ihio.gov.ir^

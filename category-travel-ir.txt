@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-travel-ir
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||alibaba.ir^
+||flightio.com^
+||mrbilit.com^
+||tap30.services^
+||tap33.me^
+||tapsi.cab^
+||tapsi.ir^

@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cheetahmobile
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cmcm.com^
+||cmcmcdn.com^
+||liebao.cn^
+||duba.com^
+||duba.net^
+||ijinshan.com^

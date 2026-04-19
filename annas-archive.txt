@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/annas-archive
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||annas-archive.gd^
+||annas-archive.gl^
+||annas-archive.in^
+||annas-archive.li^
+||annas-archive.org^
+||annas-archive.pk^
+||annas-archive.pm^
+||annas-archive.se^

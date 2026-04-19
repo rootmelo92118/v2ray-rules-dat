@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/longbridge
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||longbridge.cloud^
+||longbridge.com^
+||longbridge.global^
+||longbridge.hk^
+||longbridge.sg^
+||longbridgeapp.com^
+||longportapp.com^
+||lbctrl.com^
+||lbkrs.com^
+||wbrks.com^

@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hpe
+! domain: 15
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|hpefonts.s3.amazonaws.com^
+||hewlett-packard.co^
+||hewlett-packard.jp^
+||hewlett-packard.asia^
+||hewlett-packard.ch^
+||hpecyber.com^
+||hpe.com^
+||greenlakehybridcloud.com^
+||hewlettpackard.enterprises^
+||greenlakeaas.com^
+||hewlett-packard.mobi^
+||hewlett-packard.co.il^
+||hewlett-packard.com.sg^
+||hewlett-packard.com.mx^
+||hewlett-packard.co.uk^
+||hewlett-packard.com.cn^

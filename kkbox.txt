@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kkbox
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||kfs.io^
+||kk.stream^
+||kkbox.com^
+||kktix.com^
+||kktv.me^
+||kkbox.com.tw^
+||kktv.com.tw^

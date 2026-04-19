@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/unionpay
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||95516.com^
+||95516.net^
+||chinaunionpay.com^
+||chinaunionpay.net^
+||cup62.cn^
+||unionpay.com^
+||unionpay.net^
+||unionpaysecure.com^
+||unionpayintl.cn^
+||unionpayintl.com^
+||chinaunionpay.com.cn^
+||cup.com.cn^
