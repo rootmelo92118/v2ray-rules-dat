@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zhangtao
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,mob.com
+  - DOMAIN-SUFFIX,sharesdk.cn
+  - DOMAIN-SUFFIX,accuratead.cn
+  - DOMAIN-SUFFIX,dutils.com
+  - DOMAIN-SUFFIX,hiaiabc.com
+  - DOMAIN-SUFFIX,mobsdks.com
+  - DOMAIN-SUFFIX,yksdks.com

@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/futu
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,futufin.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futuhkapp.com
+  - DOMAIN-SUFFIX,futuhn.com
+  - DOMAIN-SUFFIX,futuholdings.com
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,moomooequity.com
+  - DOMAIN-SUFFIX,moomootrustee.com
+  - DOMAIN-SUFFIX,futuesop.com
+  - DOMAIN-SUFFIX,futuniuniu.com
+  - DOMAIN-SUFFIX,futunn.com
+  - DOMAIN-SUFFIX,futustatic.com

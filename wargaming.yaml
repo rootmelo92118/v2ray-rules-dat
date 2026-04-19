@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wargaming
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,masteroforion.com
+  - DOMAIN-SUFFIX,wargaming.com
+  - DOMAIN-SUFFIX,wargaming.net
+  - DOMAIN-SUFFIX,wgcdn.co
+  - DOMAIN-SUFFIX,wgcrowd.io
+  - DOMAIN-SUFFIX,worldoftanks.com
+  - DOMAIN-SUFFIX,worldoftanks.eu
+  - DOMAIN-SUFFIX,worldofwarplanes.com
+  - DOMAIN-SUFFIX,worldofwarships.com
+  - DOMAIN-SUFFIX,wotblitz.com
+  - DOMAIN-SUFFIX,wowsblitz.com

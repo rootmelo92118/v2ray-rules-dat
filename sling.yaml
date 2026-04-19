@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sling
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,dishworld.com
+  - DOMAIN-SUFFIX,slinginternational.com
+  - DOMAIN-SUFFIX,sling.com
+  - DOMAIN-SUFFIX,movenetworks.com
+  - DOMAIN-SUFFIX,movetv.com

@@ -1,0 +1,32 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-food-cn
+# domain: 24
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,100.me
+  - DOMAIN-SUFFIX,lkcoffee.com
+  - DOMAIN-SUFFIX,heytea.com
+  - DOMAIN-SUFFIX,anlaiye.com
+  - DOMAIN-SUFFIX,lppz.com
+  - DOMAIN-SUFFIX,imcoming.com
+  - DOMAIN-SUFFIX,imcome.net
+  - DOMAIN-SUFFIX,meican.com
+  - DOMAIN-SUFFIX,meicanstatic.com
+  - DOMAIN-SUFFIX,517lppz.com
+  - DOMAIN-SUFFIX,yyds.co
+  - DOMAIN-SUFFIX,haidilao.com
+  - DOMAIN-SUFFIX,ddfresh.net
+  - DOMAIN-SUFFIX,ddcorp.net
+  - DOMAIN-SUFFIX,3songshu.com
+  - DOMAIN-SUFFIX,ddimg.mobi
+  - DOMAIN-SUFFIX,ddmaicai.net
+  - DOMAIN-SUFFIX,ddmc.mobi
+  - DOMAIN-SUFFIX,dduser.mobi
+  - DOMAIN-SUFFIX,ddxq.mobi
+  - DOMAIN-SUFFIX,imaicai.mobi
+  - DOMAIN-SUFFIX,lppzimg.com
+  - DOMAIN-SUFFIX,luckincoffeecdn.com
+  - DOMAIN-SUFFIX,anlaiye.com.cn

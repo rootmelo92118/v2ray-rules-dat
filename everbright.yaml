@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/everbright
+# domain: 15
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ebtrust.com
+  - DOMAIN-SUFFIX,ebfortune.com
+  - DOMAIN-SUFFIX,eb-ind.com
+  - DOMAIN-SUFFIX,ebasset.com
+  - DOMAIN-SUFFIX,ebchina.com
+  - DOMAIN-SUFFIX,ebchinaintl.com
+  - DOMAIN-SUFFIX,ceblease.com
+  - DOMAIN-SUFFIX,ebfcn.com
+  - DOMAIN-SUFFIX,sunlife-everbright.com
+  - DOMAIN-SUFFIX,cebbank.com
+  - DOMAIN-SUFFIX,ebscn-am.com
+  - DOMAIN-SUFFIX,ebscn.com
+  - DOMAIN-SUFFIX,everbright.com
+  - DOMAIN-SUFFIX,secec.com
+  - DOMAIN-SUFFIX,ebf.com.cn

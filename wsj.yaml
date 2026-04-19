@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wsj
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,careerjournal.com
+  - DOMAIN-SUFFIX,collegejournal.com
+  - DOMAIN-SUFFIX,opinionjournal.com
+  - DOMAIN-SUFFIX,realestatejournal.com
+  - DOMAIN-SUFFIX,startupjournal.com
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,wsj.jobs
+  - DOMAIN-SUFFIX,wsj.net
+  - DOMAIN-SUFFIX,wsjmediakit.com
+  - DOMAIN-SUFFIX,wsjplus.com
+  - DOMAIN-SUFFIX,wsjshop.com
+  - DOMAIN-SUFFIX,wsjwine.com
