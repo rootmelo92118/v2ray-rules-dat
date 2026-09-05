@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/oreilly
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||oreil.ly^
+||oreilly.com^
+||oreilly.review^
+||oreillystatic.com^
+||orl.ly^
+||oreilly.com.cn^

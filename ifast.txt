@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ifast
+! domain: 14
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ifastgp.com^
+||fundsupermart.com^
+||ifastcorp.com^
+||ifastgb.com^
+||fsmone.com^
+||ifastnetwork.com^
+||ifasttv.com^
+||fsmone.com.hk^
+||fsmone.com.my^
+||ifastcapital.com.my^
+||ifastfinancial.com.hk^
+||ifastfinancial.co.in^
+||ifastgp.com.hk^
+||ifastps.com.cn^

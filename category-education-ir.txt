@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-education-ir
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||faradars.org^
+||git.ir^
+||learnby.ir^
+||maktabkhooneh.org^
+||newdars.com^
+||toplearn.com^
+||melotar.com^
+||done.ir^
+||iranlms.org^
+||webinarplus.online^

@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/technogym
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||letsmoveforabetterworld.com^
+||technogym.bg^
+||technogym.ch^
+||technogym.com^
+||technogym.ru^
+||technogym.su^
+||wellnessinstitute.com^
+||technogym.com.br^

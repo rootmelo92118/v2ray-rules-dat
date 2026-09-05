@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cnn
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cnn.com^
+||cnn.io^
+||cnn.it^
+||cnnarabic.com^
+||cnnlabs.com^
+||cnnmoney.ch^
+||cnnmoney.com^
+||cnnmoneystream.com^
+||cnnpolitics.com^

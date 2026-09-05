@@ -1,0 +1,34 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/samsung
+! domain: 27
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||samsung^
+||xn--cg4bki^
+||galaxyappstore.com^
+||galaxymobile.jp^
+||game-platform.net^
+||knoxemm.com^
+||ospserver.net^
+||samsung.com^
+||samsungapps.com^
+||samsungcloud.com^
+||samsungconsent.com^
+||samsungdm.com^
+||samsunggalaxyfriends.com^
+||samsunghealth.com^
+||samsungiotcloud.com^
+||samsungiots.com^
+||samsungknox.com^
+||samsungosp.com^
+||samsungqbe.com^
+||samsungrs.com^
+||smartthings.com^
+||samsung.com.cn^
+||samsungadhub.com^
+||samsungads.com^
+||samsungcloudcn.com^
+||samsungeshop.com.cn^
+||samsunghealthcn.com^

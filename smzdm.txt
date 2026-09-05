@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/smzdm
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||smzdm.com^
+||smzdmimg.com^
+||zdmimg.com^
+||zhidemai.com^

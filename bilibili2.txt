@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bilibili2
+! domain: 3
+! full: 0
+! keyword: 0
+! regexp: 1
+
+
+||bili2.cc^
+||bili888.com^
+||bili999.com^
+/(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$/

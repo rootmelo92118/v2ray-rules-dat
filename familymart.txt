@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/familymart
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||famima.vn^
+||famifun.com.tw^
+||family.co.jp^
+||family.com.tw^
+||familymart.com.my^
+||familymart.com.ph^
+||familymart.com.cn^

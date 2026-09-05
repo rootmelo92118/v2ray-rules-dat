@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wikimedia
+! domain: 18
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||mediawiki.org^
+||wikibooks.org^
+||wikidata.org^
+||wikimediafoundation.org^
+||wikimedia.org^
+||wikinews.org^
+||wikipedia.org^
+||wikiquote.org^
+||wikisource.org^
+||wikiversity.org^
+||wikivoyage.org^
+||wiktionary.org^
+||wmfusercontent.org^
+||w.wiki^
+||toolforge.org^
+||wikimediacloud.org^
+||wmcloud.org^
+||wmflabs.org^

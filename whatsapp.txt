@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/whatsapp
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||wa.me^
+||whatsapp-plus.info^
+||whatsapp-plus.me^
+||whatsapp-plus.net^
+||whatsapp.cc^
+||whatsapp.com^
+||whatsapp.info^
+||whatsapp.net^
+||whatsapp.org^
+||whatsapp.tv^
+||whatsappbrand.com^
+||graph.whatsapp.com^
+||graph.whatsapp.net^

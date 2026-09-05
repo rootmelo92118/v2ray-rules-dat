@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/drweb
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||drweb.by^
+||drweb.cn^
+||drweb.com^
+||drweb.fr^
+||drweb.kz^
+||drweb.ru^
+||drweb.uz^
+||drweb-av.de^
+||drweb-av.es^
+||drweb-av.it^
+||drweb-av.pl^
+||drweb.co.jp^

@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cuhk
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cuhk.hk^
+||xn--mxtq18a.hk^
+||xn--mxtq18a.xn--j6w193g^
+||xn--fiqs8s1byzqyvl.hk^
+||xn--fiqs8s1byzqyvl.xn--j6w193g^
+||xn--pssu7cv61ahwcb1p2yk.hk^
+||xn--pssu7cv61ahwcb1p2yk.xn--j6w193g^
+||cuhk.edu.hk^

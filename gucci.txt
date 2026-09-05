@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gucci
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gucci^
+||chimeforchange.org^
+||gucci.com^
+||guccimuseo.com^
+||guccitimeless.com^
+||regiongold.com^
+||gucci.cn^

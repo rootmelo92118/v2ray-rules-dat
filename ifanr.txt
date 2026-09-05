@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ifanr
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||coolbuy.com^
+||ifanr.cn^
+||ifanr.com^
+||ifanr.in^
+||ifanrusercontent.com^
+||ifanrx.com^
+||minapp.com^

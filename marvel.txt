@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/marvel
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||marvel.com^
+||marvel10thanniversary.com^
+||marveldimensionofheroes.com^
+||marvelparty.net^
+||marvelpinball.com^
+||marvelsdoubleagent.com^
+||marvelspotlightplays.com^
+||marvelsuperheroseptember.com^
+||marvelsuperwar.com^
+||themarvelexperiencetour.com^

@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zte
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||nubia.cn^
+||nubia.com^
+||redmagic.com^
+||ztedevices.com^
+||ztemall.com^
+||ztems.com^
+||zte.com.cn^

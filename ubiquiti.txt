@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ubiquiti
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||amplifi.com^
+||frontrow.com^
+||ubncloud.com^
+||ui.com^
+||uisp.com^
+||wifiman.com^
+||amplifi.com.cn^
+||frontrow.com.cn^
+||ubnt.com^
+||ubnt.com.cn^
+||ui.com.cn^
+||uum.com.cn^
+||uwn.com^

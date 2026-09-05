@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/rutracker
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||maintracker.org^
+||rutracker.cc^
+||rutracker.cr^
+||rutracker.me^
+||rutracker.net^
+||rutracker.nl^
+||rutracker.org^
+||rutracker.wiki^
+||rutrk.org^

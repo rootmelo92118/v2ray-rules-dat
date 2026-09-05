@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/movefree
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||keepmovingwithmovefree.com^
+||move-free.net^
+||movefrees.com^
+||movefreeoffers.com^
+||movefreerewards.com^
+||schiffvitamins.com^
+||movefree.cn^

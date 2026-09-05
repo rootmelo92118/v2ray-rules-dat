@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/slack
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||slack-core.com^
+||slack-edge.com^
+||slack-files.com^
+||slack-imgs.com^
+||slack-msgs.com^
+||slack-redir.net^
+||slack.com^
+||slackb.com^
+||slackcertified.com^
+||slackdemo.com^
+||slackhq.com^

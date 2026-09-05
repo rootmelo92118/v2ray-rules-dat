@@ -1,0 +1,34 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/x
+! domain: 27
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||twitpic.com^
+||grokipedia.com^
+||pscp.tv^
+||t.co^
+||tellapart.com^
+||tweetdeck.com^
+||twimg.com^
+||twittercommunity.com^
+||x.com^
+||twitter.com^
+||periscope.tv^
+||twitterinc.com^
+||twitter.biz^
+||twitter.jp^
+||cms-twdigitalassets.com^
+||twitteroauth.com^
+||twitterstat.us^
+||twtrdns.net^
+||twttr.com^
+||twttr.net^
+||twvid.com^
+||vine.co^
+||x.ai^
+||grok.com^
+||twitterflightschool.com^
+||twitter.map.fastly.net^
+||ads-twitter.com^

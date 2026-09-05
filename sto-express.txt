@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sto-express
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||sto-express.cn^
+||sto-express.com^
+||sto.cn^
+||stointl.com^
+||stosolution.com^
+||sto-express.com.cn^
