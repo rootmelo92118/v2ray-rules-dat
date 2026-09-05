@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/nytimes
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,nyt.com
+  - DOMAIN-SUFFIX,nyt.net
+  - DOMAIN-SUFFIX,nytchina.com
+  - DOMAIN-SUFFIX,nytcn.me
+  - DOMAIN-SUFFIX,nytco.com
+  - DOMAIN-SUFFIX,nyti.ms
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,nytstyle.com
+  - DOMAIN-SUFFIX,timestalks.com

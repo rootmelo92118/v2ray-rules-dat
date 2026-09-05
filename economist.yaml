@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/economist
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,economist.com
+  - DOMAIN-SUFFIX,economistgroup.com
+  - DOMAIN-SUFFIX,economistgroupcareers.com
+  - DOMAIN-SUFFIX,eiu.com

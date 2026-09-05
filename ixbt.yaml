@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ixbt
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ixbt.com
+  - DOMAIN-SUFFIX,ixbt.games
+  - DOMAIN-SUFFIX,ixbt.pro
+  - DOMAIN-SUFFIX,ixbt.ru
+  - DOMAIN-SUFFIX,ixbt.market
+  - DOMAIN-SUFFIX,ixbt.media
+  - DOMAIN-SUFFIX,ixbt.shop
+  - DOMAIN-SUFFIX,ixbt.site
+  - DOMAIN-SUFFIX,ixbt.video

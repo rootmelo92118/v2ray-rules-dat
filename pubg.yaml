@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/pubg
+# domain: 3
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,pubg1.battleye.com
+  - DOMAIN-SUFFIX,kraftonde.com
+  - DOMAIN-SUFFIX,playbattlegrounds.com
+  - DOMAIN-SUFFIX,pubg.com

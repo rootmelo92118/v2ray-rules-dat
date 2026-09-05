@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ishumei
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ishumei.com
+  - DOMAIN-SUFFIX,fengkongbao.com
+  - DOMAIN-SUFFIX,fengkongcloud.com
+  - DOMAIN-SUFFIX,fengkongcloud.cn
+  - DOMAIN-SUFFIX,portal101.cn
+  - DOMAIN-SUFFIX,portal102.cn
+  - DOMAIN-SUFFIX,portal201.cn
+  - DOMAIN-SUFFIX,portal301.cn
+  - DOMAIN-SUFFIX,tebiefuza.cloud
+  - DOMAIN-SUFFIX,tebiefuza.cn

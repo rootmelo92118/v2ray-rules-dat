@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/vixengroup
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,blacked.com
+  - DOMAIN-SUFFIX,blackedraw.com
+  - DOMAIN-SUFFIX,deeper.com
+  - DOMAIN-SUFFIX,milfy.com
+  - DOMAIN-SUFFIX,slayed.com
+  - DOMAIN-SUFFIX,tushy.com
+  - DOMAIN-SUFFIX,tushyraw.com
+  - DOMAIN-SUFFIX,vixen.com
+  - DOMAIN-SUFFIX,vixengroup.com

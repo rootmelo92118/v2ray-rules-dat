@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/nodeseek
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,22112211.xyz
+  - DOMAIN-SUFFIX,deepflood.com
+  - DOMAIN-SUFFIX,nodeget.com
+  - DOMAIN-SUFFIX,nodeimage.com
+  - DOMAIN-SUFFIX,nodequality.com
+  - DOMAIN-SUFFIX,nodeseek.com

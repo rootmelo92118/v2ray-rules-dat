@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/phoenix
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,fengcx.com
+  - DOMAIN-SUFFIX,ifeng.com
+  - DOMAIN-SUFFIX,ifengimg.com
+  - DOMAIN-SUFFIX,phoenixcenter.cn
+  - DOMAIN-SUFFIX,fengedu.com
+  - DOMAIN-SUFFIX,ifengweekly.com

@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/pixiv
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,booth.pm
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,pixiv.help
+  - DOMAIN-SUFFIX,pixiv.me
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pixiv.org
+  - DOMAIN-SUFFIX,pixiv-recommend.net
+  - DOMAIN-SUFFIX,pixivision.net
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,pixiv.co.jp
+  - DOMAIN-SUFFIX,ads-pixiv.net

@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xueqiu
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,aiganggu.com
+  - DOMAIN-SUFFIX,danjuanfunds.com
+  - DOMAIN-SUFFIX,imedao.com
+  - DOMAIN-SUFFIX,snowballsecurities.com
+  - DOMAIN-SUFFIX,xueqiu.com

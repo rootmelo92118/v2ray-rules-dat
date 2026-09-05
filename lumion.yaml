@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/lumion
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,lumion-la.com
+  - DOMAIN-SUFFIX,lumion.com
+  - DOMAIN-SUFFIX,lumion3d.net
+  - DOMAIN-SUFFIX,lumiontech.net
+  - DOMAIN-SUFFIX,mylumion.com
+  - DOMAIN-SUFFIX,lumion3d.com.my

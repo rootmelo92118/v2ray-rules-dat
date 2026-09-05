@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/clips4sale
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,c4slive.com
+  - DOMAIN-SUFFIX,clips4sale.com
+  - DOMAIN-SUFFIX,videos4sale.com

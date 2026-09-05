@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/youquan
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,aitcfw.com
+  - DOMAIN-SUFFIX,aizgtc.com
+  - DOMAIN-SUFFIX,hangzhouyq.cn
+  - DOMAIN-SUFFIX,hangzhouyq.com
+  - DOMAIN-SUFFIX,zgxytc.com
+  - DOMAIN-SUFFIX,zgzsa.com
+  - DOMAIN-SUFFIX,zhonshian.cn
+  - DOMAIN-SUFFIX,zhonshian.com
+  - DOMAIN-SUFFIX,zjzsa.com
+  - DOMAIN-SUFFIX,zhonshian.com.cn

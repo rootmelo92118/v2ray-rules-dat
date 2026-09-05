@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sb
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,dns.sb
+  - DOMAIN-SUFFIX,ip.gs
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,loli.net
+  - DOMAIN-SUFFIX,sb.sb
+  - DOMAIN-SUFFIX,sm.ms
+  - DOMAIN-SUFFIX,u.nu
+  - DOMAIN-SUFFIX,www.sb

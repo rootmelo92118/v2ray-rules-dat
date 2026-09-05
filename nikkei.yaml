@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/nikkei
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,nikkei.com
+  - DOMAIN-SUFFIX,nikkei.jp
+  - DOMAIN-SUFFIX,nikkei4946.com
+  - DOMAIN-SUFFIX,nikkei-cnbc.co.jp
+  - DOMAIN-SUFFIX,nikkei.co.jp
+  - DOMAIN-SUFFIX,nikkeibp.co.jp

@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/meitu
+# domain: 13
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,meitu.com
+  - DOMAIN-SUFFIX,meitudata.com
+  - DOMAIN-SUFFIX,meitustat.com
+  - DOMAIN-SUFFIX,designkit.cn
+  - DOMAIN-SUFFIX,kaipai.com
+  - DOMAIN-SUFFIX,meipai.com
+  - DOMAIN-SUFFIX,meituxiuxiu.com
+  - DOMAIN-SUFFIX,meiyan.com
+  - DOMAIN-SUFFIX,miraclevision.com
+  - DOMAIN-SUFFIX,roboneo.com
+  - DOMAIN-SUFFIX,whee.com
+  - DOMAIN-SUFFIX,wink.cn
+  - DOMAIN-SUFFIX,zcool.com.cn

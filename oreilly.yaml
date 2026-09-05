@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/oreilly
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,oreil.ly
+  - DOMAIN-SUFFIX,oreilly.com
+  - DOMAIN-SUFFIX,oreilly.review
+  - DOMAIN-SUFFIX,oreillystatic.com
+  - DOMAIN-SUFFIX,orl.ly
+  - DOMAIN-SUFFIX,oreilly.com.cn

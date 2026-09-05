@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yuanbei
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,i2oo.cn
+  - DOMAIN-SUFFIX,laoban100.com
+  - DOMAIN-SUFFIX,shengyi.ai
+  - DOMAIN-SUFFIX,shengyizhuanjia.com
+  - DOMAIN-SUFFIX,yuanbei.biz

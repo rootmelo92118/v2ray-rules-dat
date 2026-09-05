@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/aljazeera
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ajplus.net
+  - DOMAIN-SUFFIX,aljazeera.com
+  - DOMAIN-SUFFIX,aljazeera.net
+  - DOMAIN-SUFFIX,palestineremix.com
+  - DOMAIN-SUFFIX,sarajevopodopsadom.com
+  - DOMAIN-SUFFIX,srebrenica360.com
+  - DOMAIN-SUFFIX,syhacked.com

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/golang
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,go-lang.com
+  - DOMAIN-SUFFIX,go-lang.net
+  - DOMAIN-SUFFIX,go-lang.org
+  - DOMAIN-SUFFIX,go.dev
+  - DOMAIN-SUFFIX,godoc.org
+  - DOMAIN-SUFFIX,golang.com
+  - DOMAIN-SUFFIX,golang.net
+  - DOMAIN-SUFFIX,golang.org

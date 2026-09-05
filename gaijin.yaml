@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gaijin
+# domain: 13
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,acesofthunder.net
+  - DOMAIN-SUFFIX,activematter.game
+  - DOMAIN-SUFFIX,artstorm.com
+  - DOMAIN-SUFFIX,crossout.net
+  - DOMAIN-SUFFIX,crsed.net
+  - DOMAIN-SUFFIX,cubicodyssey.game
+  - DOMAIN-SUFFIX,enlisted.net
+  - DOMAIN-SUFFIX,gaijin.net
+  - DOMAIN-SUFFIX,gaijinent.com
+  - DOMAIN-SUFFIX,modernwarships.com
+  - DOMAIN-SUFFIX,star-conflict.com
+  - DOMAIN-SUFFIX,warthunder.com
+  - DOMAIN-SUFFIX,wtmobile.com

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/seasun
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,seasungames.cn
+  - DOMAIN-SUFFIX,seasungames.com
+  - DOMAIN-SUFFIX,seasunwbl.com
+  - DOMAIN-SUFFIX,xishanju.com
+  - DOMAIN-SUFFIX,xoyo.com
+  - DOMAIN-SUFFIX,xoyocdn.com
+  - DOMAIN-SUFFIX,cbjq.com
+  - DOMAIN-SUFFIX,testplus.cn

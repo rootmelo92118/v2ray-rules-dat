@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/huobi
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,htx.com
+  - DOMAIN-SUFFIX,hbabit.com
+  - DOMAIN-SUFFIX,hbfile.net
+  - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,huobi.me
+  - DOMAIN-SUFFIX,huobi.pro
+  - DOMAIN-SUFFIX,huobi.sc
+  - DOMAIN-SUFFIX,huobiasia.vip
+  - DOMAIN-SUFFIX,huobigroup.com
+  - DOMAIN-SUFFIX,huobitoken.com
