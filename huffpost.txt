@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/huffpost
+! domain: 18
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||huffingtonpost.jp^
+||huffingtonpost.kr^
+||huffpostmaghreb.com^
+||huffingtonpost.com^
+||huffpostbrasil.com^
+||huffpostarabi.com^
+||huffingtonpost.de^
+||huffingtonpost.es^
+||huffpost.com^
+||huffingtonpost.in^
+||huffingtonpost.gr^
+||huffingtonpost.it^
+||huffingtonpost.ca^
+||huffingtonpost.fr^
+||huffingtonpost.co.uk^
+||huffingtonpost.com.mx^
+||huffingtonpost.com.au^
+||huffingtonpost.co.za^

@@ -1,0 +1,53 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mindgeek-porn
+! domain: 46
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||youporn.com^
+||pornhub.com^
+||porniq.com^
+||pornmd.com^
+||seancody.com^
+||thumbzilla.com^
+||twistys.com^
+||webcams.tv^
+||whynotbi.com^
+||gaytube.com^
+||phncdn.com^
+||phprcdn.com^
+||porngub.com^
+||pornhub-deutsch.net^
+||pornhubapparel.com^
+||youporngay.com^
+||pornhub.org^
+||pornhubpremium.com^
+||tube8.com^
+||tube8.fr^
+||extremetube.com^
+||keezmovies.com^
+||men.com^
+||babes.com^
+||brazzers.com^
+||youpornru.com^
+||yopornshop.com^
+||ypncdn.com^
+||mydirtyhobby.com^
+||mdhcdn.com^
+||realitykings.com^
+||rk.com^
+||livehdcams.com^
+||redtube.com^
+||redtubepremium.com^
+||rdtcdn.com^
+||nutaku.net^
+||brazzer.com^
+||youpornpremium.com^
+||brazzers.xxx^
+||brazzersnetwork.com^
+||mofos.com^
+||digitalplayground.com^
+||digitalplaygroundnetwork.com^
+||nutaku.com^
+||redtube.com.br^

@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bestv
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||bbtv.cn^
+||bestvcdn.cn^
+||bestvcdn.com^
+||bestvcdn.net^
+||smgbb.cn^
+||bestv.com.cn^
+||bestvcdn.com.cn^

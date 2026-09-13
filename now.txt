@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/now
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||now.com^
+||nowe.com^
+||nowe.hk^
+||now-tv.com^
+||now-ashare.com^
+||now.com.hk^

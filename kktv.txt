@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kktv
+! domain: 3
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||kktv.me^
+||kktv.com.tw^
+||theater-kktv.cdn.hinet.net^

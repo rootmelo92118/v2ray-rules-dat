@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cavporn
+! domain: 2
+! full: 0
+! keyword: 0
+! regexp: 1
+
+
+||cavporn.com^
+||cavporn.github.io^
+/(^|\.)cav1(0[2-9]|1[0-9])\.com$/

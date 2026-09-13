@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/braveux
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||braventures.com^
+||braveux.com^
+||compass.is^
+||fightforux.com^
+||forthebadge.com^
+||stockagainstphotography.com^

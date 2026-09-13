@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mvideo
+! domain: 2
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|mvideo.edna.io^
+||acmvid.com^
+||mvideo.ru^

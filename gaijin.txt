@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gaijin
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||acesofthunder.net^
+||activematter.game^
+||artstorm.com^
+||crossout.net^
+||crsed.net^
+||cubicodyssey.game^
+||enlisted.net^
+||gaijin.net^
+||gaijinent.com^
+||modernwarships.com^
+||star-conflict.com^
+||warthunder.com^
+||wtmobile.com^

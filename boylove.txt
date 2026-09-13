@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/boylove
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||boylove.cc^
+||boylove.live^
+||boylove1.cc^
+||boyloves.cc^
+||fuhouse.club^

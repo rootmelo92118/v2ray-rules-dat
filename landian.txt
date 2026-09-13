@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/landian
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||landian.news^
+||lancdn.com^
+||landiannews.com^
+||landian.vip^
+||landian.xyz^
+||ourl.co^
+||wsoso.com^

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/uc
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||open-uc.cn^
+||uc-engine.cn^
+||uc.cn^
+||uc123.com^
+||ucfly.com^
+||ucweb.com^
+||uczzd.cn^
+||ads.uc.cn^
+||adslot.uc.cn^

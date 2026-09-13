@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/okx
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||okex.com^
+||okx-dns.com^
+||okx-dns1.com^
+||okx-dns2.com^
+||okx.ac^
+||okx.cab^
+||okx.com^
+||xlayer.tech^
+||okx.com.cdn.cloudflare.net^
+||oklink.com^

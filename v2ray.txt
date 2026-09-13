@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/v2ray
+! domain: 3
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||v2ray.com^
+||v2ray.cool^
+||v2fly.org^

@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xtom
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||v.ps^
+||vps.hosting^
+||xtom.au^
+||xtom.com^
+||xtom.de^
+||xtom.ee^
+||xtom.hk^
+||xtom.jp^
+||xtom.nl^
+||xtom.sg^
+||xtom.social^
+||xtom.us^

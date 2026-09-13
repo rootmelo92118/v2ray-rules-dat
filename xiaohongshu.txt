@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xiaohongshu
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||redelight.cn^
+||xhscdn.com^
+||xhscdn.net^
+||xhslink.com^
+||xhsrcdn.com^
+||xiaohongshu.com^
+||askdiandian.com^
+||diandianlife.top^
+||rednote.com^
+||rednote.com.my^
+||rednotecdn.com^

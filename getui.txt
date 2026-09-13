@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/getui
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gepush.com^
+||getui.cn^
+||getui.com^
+||getui.net^
+||igehuo.com^
+||igetui.com^
+||igexin.com^

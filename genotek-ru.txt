@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/genotek-ru
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||genetic-technologies.am^
+||genotek.am^
+||genotek.es^
+||genotek.eu^
+||genotek.health^
+||genotek.ru^
+||eligens.cl^
+||eligens.io^
+||eligens.com.br^

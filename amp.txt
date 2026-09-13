@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/amp
+! domain: 4
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|amp.akamaized.net^
+||amp.dev^
+||ampproject.com^
+||ampproject.net^
+||ampproject.org^
+|cdn.ampproject.org^

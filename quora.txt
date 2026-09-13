@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/quora
+! domain: 5
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|www.quora.com.cdn.cloudflare.net^
+||qr.ae^
+||quora.com^
+||quoracdn.net^
+||poe.com^
+||poecdn.net^

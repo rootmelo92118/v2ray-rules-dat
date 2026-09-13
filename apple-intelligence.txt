@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/apple-intelligence
+! domain: 0
+! full: 5
+! keyword: 0
+! regexp: 0
+
+
+|apple-relay.apple.com^
+|apple-relay.cloudflare.com^
+|apple-relay.fastly-edge.com^
+|apple-relay.mask.apple-dns.net^
+|gspe1-ssl.ls.apple.com^

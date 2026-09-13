@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/petrochina
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||95504.net^
+||95504test.com^
+||cnpc.com.cn^
+||petrochina.com.cn^

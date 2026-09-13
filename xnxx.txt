@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xnxx
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||xnxx-cdn.com^
+||xnxx.com^
+||xnxx.net^
+||xnxx.tv^
+||xnxx3.com^

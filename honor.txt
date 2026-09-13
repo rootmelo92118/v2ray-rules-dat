@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/honor
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||hihonor.cn^
+||hihonor.com^
+||hihonorcdn.com^
+||hihonorcloud.com^
+||honor.cn^
+||honor.com^
+||honorfile.com^
+||honor.com.cn^

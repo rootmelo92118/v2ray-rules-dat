@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hupun
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||hupun.com^
+||newniu.com^
+||wanliniu.com^
+||hupun.com.cn^
+||kata.com.cn^

@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wenshushu
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||wenshushu.cn^
+||wenshushu.com^
+||wenxiaozhan.cn^
+||wenxiaozhan.com^
+||wenxiaozhan.net^
+||wss.cc^
+||wss.email^
+||wss.ink^
+||wss.pet^
+||wss.show^
+||wss.zone^
+||wss1.cn^

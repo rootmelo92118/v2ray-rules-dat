@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/creativecommons
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ccstatic.org^
+||creativecommons.org^
+||creativecommons.engineering^
+||licensebuttons.net^

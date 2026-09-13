@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/netcraze
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||crazedns.ru^
+||netcraze.club^
+||netcraze.link^
+||netcraze.pro^
+||netcraze.ru^

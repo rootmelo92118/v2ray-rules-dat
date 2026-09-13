@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bytedance-ai-!cn
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||coze.com^
+||marscode.com^
+||trae.ai^
+||cici.com^
+||ciciai.com^
+||ciciaicdn.com^
+||dola.com^

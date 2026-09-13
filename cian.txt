@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cian
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cian.ru^
+||cian.site^
+||ciangroup.ru^
+||dmir.ru^
+||poudobnee.com^
+||xn--80aaafbpzn5blfby1p.xn--p1ai^
+||xn--80aaeib8abrryx4k.xn--p1ai^

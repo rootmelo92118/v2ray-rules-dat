@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dola
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cici.com^
+||ciciai.com^
+||ciciaicdn.com^
+||dola.com^
