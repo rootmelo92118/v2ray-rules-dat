@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gigabyte
+# domain: 4
+# full: 3
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,gigabyte2.azureedge.net
+  - DOMAIN,sa78gs.wpc.edgecastcdn.net
+  - DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
+  - DOMAIN-SUFFIX,aorus.com
+  - DOMAIN-SUFFIX,gigabyte.com
+  - DOMAIN-SUFFIX,aoruszone.cn
+  - DOMAIN-SUFFIX,gigabyte.cn

@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kyodonews
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,47gyosei.jp
+  - DOMAIN-SUFFIX,47news.jp
+  - DOMAIN-SUFFIX,kyodo-d.info
+  - DOMAIN-SUFFIX,kyodo-d.jp
+  - DOMAIN-SUFFIX,kyodoimages.jp
+  - DOMAIN-SUFFIX,kyodonews.jp
+  - DOMAIN-SUFFIX,kyodonews.net
+  - DOMAIN-SUFFIX,newsmart.jp
+  - DOMAIN-SUFFIX,nna.jp

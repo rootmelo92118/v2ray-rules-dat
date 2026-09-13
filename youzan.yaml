@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/youzan
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,daogou.ai
+  - DOMAIN-SUFFIX,koudaitong.com
+  - DOMAIN-SUFFIX,quntuantuan.cn
+  - DOMAIN-SUFFIX,xinlingshou.com
+  - DOMAIN-SUFFIX,youzan.com
+  - DOMAIN-SUFFIX,youzanyun.com
+  - DOMAIN-SUFFIX,yzcdn.cn

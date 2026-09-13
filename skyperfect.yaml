@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/skyperfect
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,skyperfectjsat.space
+  - DOMAIN-SUFFIX,sptvbroadcast.com
+  - DOMAIN-SUFFIX,spcc-sp.com
+  - DOMAIN-SUFFIX,hominis.media
+  - DOMAIN-SUFFIX,jsati.com
+  - DOMAIN-SUFFIX,jsatmobile.com
+  - DOMAIN-SUFFIX,skyperfectv.co.jp

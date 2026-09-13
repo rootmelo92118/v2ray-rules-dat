@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/getui
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,gepush.com
+  - DOMAIN-SUFFIX,getui.cn
+  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,getui.net
+  - DOMAIN-SUFFIX,igehuo.com
+  - DOMAIN-SUFFIX,igetui.com
+  - DOMAIN-SUFFIX,igexin.com

@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kurogames
+# domain: 13
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
+  - DOMAIN-SUFFIX,wutheringwaves.cn
+  - DOMAIN-SUFFIX,kurogame-service.com
+  - DOMAIN-SUFFIX,kurogame.net
+  - DOMAIN-SUFFIX,kurogames-ads.com
+  - DOMAIN-SUFFIX,kurogames.net
+  - DOMAIN-SUFFIX,aki-game.net
+  - DOMAIN-SUFFIX,aki-game2.net

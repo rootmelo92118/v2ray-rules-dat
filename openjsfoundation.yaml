@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/openjsfoundation
+# domain: 11
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,amp.akamaized.net
+  - DOMAIN-SUFFIX,openjsf.org
+  - DOMAIN-SUFFIX,amp.dev
+  - DOMAIN-SUFFIX,ampproject.com
+  - DOMAIN-SUFFIX,ampproject.net
+  - DOMAIN-SUFFIX,ampproject.org
+  - DOMAIN-SUFFIX,electronjs.org
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,jquerymobile.com
+  - DOMAIN-SUFFIX,jqueryui.com
+  - DOMAIN-SUFFIX,mochajs.org
+  - DOMAIN-SUFFIX,nodejs.org
+  - DOMAIN,cdn.ampproject.org

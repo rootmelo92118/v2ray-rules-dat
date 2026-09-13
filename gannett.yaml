@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gannett
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,gannett-cdn.com
+  - DOMAIN-SUFFIX,gannett.com
+  - DOMAIN-SUFFIX,gannettdigital.com
+  - DOMAIN-SUFFIX,usatoday.com
+  - DOMAIN-SUFFIX,usatodaynetworkservice.com

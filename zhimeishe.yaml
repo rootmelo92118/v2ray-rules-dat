@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zhimeishe
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,168sex.top
+  - DOMAIN-SUFFIX,a7sex.com
+  - DOMAIN-SUFFIX,ctotires.com
+  - DOMAIN-SUFFIX,ferryclean.com
+  - DOMAIN-SUFFIX,zhimeishe888.com

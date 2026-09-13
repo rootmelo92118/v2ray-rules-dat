@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/nic-ru
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,nichost.ru
+  - DOMAIN-SUFFIX,nic.ru
+  - DOMAIN-SUFFIX,r01.ru
+  - DOMAIN-SUFFIX,sweb.ru

@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wenshushu
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,wenshushu.cn
+  - DOMAIN-SUFFIX,wenshushu.com
+  - DOMAIN-SUFFIX,wenxiaozhan.cn
+  - DOMAIN-SUFFIX,wenxiaozhan.com
+  - DOMAIN-SUFFIX,wenxiaozhan.net
+  - DOMAIN-SUFFIX,wss.cc
+  - DOMAIN-SUFFIX,wss.email
+  - DOMAIN-SUFFIX,wss.ink
+  - DOMAIN-SUFFIX,wss.pet
+  - DOMAIN-SUFFIX,wss.show
+  - DOMAIN-SUFFIX,wss.zone
+  - DOMAIN-SUFFIX,wss1.cn

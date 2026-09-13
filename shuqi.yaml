@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/shuqi
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,11222.cn
+  - DOMAIN-SUFFIX,aliwx.net
+  - DOMAIN-SUFFIX,ishuqi.com
+  - DOMAIN-SUFFIX,newstjk.com
+  - DOMAIN-SUFFIX,shuqi.com
+  - DOMAIN-SUFFIX,shuqiapi.com
+  - DOMAIN-SUFFIX,shuqiread.com
+  - DOMAIN-SUFFIX,shuqireader.com
+  - DOMAIN-SUFFIX,shuqistat.com
+  - DOMAIN-SUFFIX,sqreader.com
+  - DOMAIN-SUFFIX,aliwx.com.cn

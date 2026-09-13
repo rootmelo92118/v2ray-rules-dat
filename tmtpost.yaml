@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tmtpost
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,tmtpost.com
+  - DOMAIN-SUFFIX,chaindd.com
+  - DOMAIN-SUFFIX,72whys.com
+  - DOMAIN-SUFFIX,checkzeit.com
+  - DOMAIN-SUFFIX,tivitv.com
+  - DOMAIN-SUFFIX,tmtsmartlife.com
+  - DOMAIN-SUFFIX,tmtsmartrun.com
+  - DOMAIN-SUFFIX,tigeek.net.cn

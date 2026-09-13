@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/thetimes
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,thetimes.ie
+  - DOMAIN-SUFFIX,timesmembership.com
+  - DOMAIN-SUFFIX,driving.co.uk
+  - DOMAIN-SUFFIX,mytimesplus.co.uk
+  - DOMAIN-SUFFIX,sportswomanoftheyear.co.uk
+  - DOMAIN-SUFFIX,sportswomenoftheyear.co.uk
+  - DOMAIN-SUFFIX,the-tls.co.uk
+  - DOMAIN-SUFFIX,thesundaytimes.co.uk
+  - DOMAIN-SUFFIX,thetimes.co.uk

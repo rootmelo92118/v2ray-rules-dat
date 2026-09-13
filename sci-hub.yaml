@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sci-hub
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,sci-hub.se
+  - DOMAIN-SUFFIX,sci-hub.ee
+  - DOMAIN-SUFFIX,sci-hub.st
+  - DOMAIN-SUFFIX,sci-hub.it.nf
+  - DOMAIN-SUFFIX,sci-hub.mksa.top
+  - DOMAIN-SUFFIX,sci.hubg.org
