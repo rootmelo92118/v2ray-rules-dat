@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/roku
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||fandango.com^
+||mgo.com^
+||mgo-images.com^
+||ravm.tv^
+||roku.com^
+||rokutime.com^

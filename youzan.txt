@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/youzan
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||daogou.ai^
+||koudaitong.com^
+||quntuantuan.cn^
+||xinlingshou.com^
+||youzan.com^
+||youzanyun.com^
+||yzcdn.cn^

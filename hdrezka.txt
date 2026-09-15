@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hdrezka
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||hdrezka-home.tv^
+||hdrezka.ac^
+||hdrezka.ag^
+||hdrezka.cm^
+||hdrezka.co^
+||hdrezka.me^
+||hdrezka.org^
+||hdrezka.site^
+||rezka.ag^
+||hdrzk.org^
+||stream.voidboost.cc^

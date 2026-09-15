@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kodik
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||kodik-storage.com^
+||kodik.biz^
+||kodik.cc^
+||kodik.info^
+||kodikplayer.com^

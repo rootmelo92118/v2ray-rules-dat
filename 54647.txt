@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/54647
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||54647.global^
+||54647.io^
+||54647.online^
+||54647.org^

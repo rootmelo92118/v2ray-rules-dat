@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-proxy-tunnels
+! domain: 16
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||pinggy.io^
+||pinggy.link^
+||tailscale.com^
+||tailscale.io^
+||ts.net^
+||equinox.io^
+||ngrok-agent.com^
+||ngrok-free.app^
+||ngrok-free.dev^
+||ngrok-free.pizza^
+||ngrok.app^
+||ngrok.com^
+||ngrok.dev^
+||ngrok.io^
+||ngrok.pizza^
+||ngrok.pro^

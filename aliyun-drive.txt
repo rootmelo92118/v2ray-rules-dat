@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/aliyun-drive
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||alicloudccp.com^
+||alipan.com^
+||aliyundrive.cloud^
+||aliyundrive.com^
+||aliyundrive.net^
+||yunpan.aliyun.com^

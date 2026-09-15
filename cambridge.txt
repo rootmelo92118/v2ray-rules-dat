@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cambridge
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cambridge.org^
+||cambridgeschoolshakespeare.com^
+||cambridgedigital.net^
+||cambridgemaths.org^
+||cam.ac.uk^
+||dlib.eastview.com^

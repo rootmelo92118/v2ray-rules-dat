@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dongchedi
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dcarapi.com^
+||dcarimg.com^
+||dcarlive.com^
+||dcarstatic.com^
+||dcarvod.com^
+||dcdapp.com^
+||dongchedi.com^
+||dongchediapp.com^
