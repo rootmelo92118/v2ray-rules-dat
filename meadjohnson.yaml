@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/meadjohnson
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,meadjohnson.com
+  - DOMAIN-SUFFIX,meadjohnson.net
+  - DOMAIN-SUFFIX,meadjohnson.com.hk
+  - DOMAIN-SUFFIX,meadjohnson.com.tw
+  - DOMAIN-SUFFIX,enfinitas.com.cn
+  - DOMAIN-SUFFIX,meadjohnson.com.cn

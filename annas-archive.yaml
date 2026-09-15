@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/annas-archive
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,annas-archive.gd
+  - DOMAIN-SUFFIX,annas-archive.gl
+  - DOMAIN-SUFFIX,annas-archive.in
+  - DOMAIN-SUFFIX,annas-archive.li
+  - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,annas-archive.pk
+  - DOMAIN-SUFFIX,annas-archive.pm
+  - DOMAIN-SUFFIX,annas-archive.se

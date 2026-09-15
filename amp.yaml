@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/amp
+# domain: 4
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,amp.akamaized.net
+  - DOMAIN-SUFFIX,amp.dev
+  - DOMAIN-SUFFIX,ampproject.com
+  - DOMAIN-SUFFIX,ampproject.net
+  - DOMAIN-SUFFIX,ampproject.org
+  - DOMAIN,cdn.ampproject.org

@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/springer
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,apress.com
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,springerlink.com
+  - DOMAIN-SUFFIX,springernature.com
+  - DOMAIN-SUFFIX,wkap.nl

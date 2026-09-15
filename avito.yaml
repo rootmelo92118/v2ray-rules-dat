@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/avito
+# domain: 2
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,avito.ru
+  - DOMAIN-SUFFIX,avito.st
+  - DOMAIN,stats.avito.ru

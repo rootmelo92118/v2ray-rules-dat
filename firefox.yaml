@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/firefox
+# domain: 5
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,mozilla-ohttp.fastly-edge.com
+  - DOMAIN,mozilla.map.fastly.net
+  - DOMAIN-SUFFIX,extendfirefox.com
+  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,firefox.hu
+  - DOMAIN-SUFFIX,firefoxtweetmachine.com
+  - DOMAIN-SUFFIX,firefoxusercontent.com

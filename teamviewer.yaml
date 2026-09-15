@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/teamviewer
+# domain: 3
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,client-teamviewer-com.trafficmanager.net
+  - DOMAIN,teamviewer.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,teamviewer.com
+  - DOMAIN-SUFFIX,teamviewer.us
+  - DOMAIN-SUFFIX,teamviewer.cn

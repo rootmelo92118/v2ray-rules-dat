@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xtom
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,v.ps
+  - DOMAIN-SUFFIX,vps.hosting
+  - DOMAIN-SUFFIX,xtom.au
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,xtom.de
+  - DOMAIN-SUFFIX,xtom.ee
+  - DOMAIN-SUFFIX,xtom.hk
+  - DOMAIN-SUFFIX,xtom.jp
+  - DOMAIN-SUFFIX,xtom.nl
+  - DOMAIN-SUFFIX,xtom.sg
+  - DOMAIN-SUFFIX,xtom.social
+  - DOMAIN-SUFFIX,xtom.us
