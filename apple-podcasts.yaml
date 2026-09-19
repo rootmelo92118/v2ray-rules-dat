@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/apple-podcasts
+# domain: 2
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,applepodcasts.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
+  - DOMAIN,podcasts.apple.com

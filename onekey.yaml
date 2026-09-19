@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/onekey
+# domain: 3
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,onekey.zendesk.com
+  - DOMAIN-SUFFIX,onekey-asset.com
+  - DOMAIN-SUFFIX,onekey.so
+  - DOMAIN-SUFFIX,onekeycn.com
