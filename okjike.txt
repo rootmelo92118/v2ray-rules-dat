@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/okjike
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||jike.city^
+||jikecdn.com^
+||okjike.com^
+||okjk.co^
+||ruguoapp.com^

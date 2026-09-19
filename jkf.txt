@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/jkf
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||jkf.net^
+||jkface.net^
+||jkforum.net^
+||jr24h.com^
+||jvid.com^

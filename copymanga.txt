@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/copymanga
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||2025copy.com^
+||copy-manga.com^
+||copy20.com^
+||copy2000.online^
+||mangacopy.com^
+||mangafuna.xyz^
+||mangafunb.fun^

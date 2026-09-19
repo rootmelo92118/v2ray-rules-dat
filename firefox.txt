@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/firefox
+! domain: 5
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|mozilla-ohttp.fastly-edge.com^
+|mozilla.map.fastly.net^
+||extendfirefox.com^
+||firefox.com^
+||firefox.hu^
+||firefoxtweetmachine.com^
+||firefoxusercontent.com^

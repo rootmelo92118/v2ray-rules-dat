@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-network-security-cn
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cnmstl.net^
+||fofa.so^
+||t00ls.cc^
+||t00ls.net^
+||tools.team^

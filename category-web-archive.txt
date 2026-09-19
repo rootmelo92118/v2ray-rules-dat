@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-web-archive
+! domain: 18
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||eotarchive.org^
+||ghostarchive.org^
+||megalodon.jp^
+||mementoweb.org^
+||perma.cc^
+||webcitation.org^
+||archive.today^
+||archive.fo^
+||archive.is^
+||archive.li^
+||archive.md^
+||archive.ph^
+||archive.vn^
+||archive-it.org^
+||archive.org^
+||openlibrary.org^
+||4pcdn.org^
+||4plebs.org^

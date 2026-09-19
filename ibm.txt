@@ -1,0 +1,27 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ibm
+! domain: 20
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ibm^
+||weatherchannel^
+||weather^
+||appdomain.cloud^
+||bluemix.com^
+||bluemix.net^
+||ibm.com^
+||ibm.eu^
+||ibm.net^
+||ibm.us^
+||s-bluemix.net^
+||s81c.com^
+||consul.io^
+||hashicorp.com^
+||nomadproject.io^
+||packer.io^
+||terraform.io^
+||vagrantcloud.com^
+||vagrantup.com^
+||vaultproject.io^

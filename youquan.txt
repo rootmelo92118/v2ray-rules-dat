@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/youquan
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||aitcfw.com^
+||aizgtc.com^
+||hangzhouyq.cn^
+||hangzhouyq.com^
+||zgxytc.com^
+||zgzsa.com^
+||zhonshian.cn^
+||zhonshian.com^
+||zjzsa.com^
+||zhonshian.com.cn^

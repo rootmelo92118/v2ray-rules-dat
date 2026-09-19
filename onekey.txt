@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/onekey
+! domain: 3
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|onekey.zendesk.com^
+||onekey-asset.com^
+||onekey.so^
+||onekeycn.com^

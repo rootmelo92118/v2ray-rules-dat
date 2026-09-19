@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/unity
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||unity.com^
+||unity3d.com^
+||analytics.cloud.unity3d.com^
+||config.uca.cloud.unity3d.com^
+||cdp.cloud.unity3d.com^
+||prd-lender.cdp.internal.unity3d.com^
+||iads.unity3d.com^
+||perf.cloud.unity3d.com^
+||perf-events.cloud.unity3d.com^
+||unityads.unity3d.com^
