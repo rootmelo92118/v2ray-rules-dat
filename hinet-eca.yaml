@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hinet-eca
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,eca.hinet.net
+  - DOMAIN-SUFFIX,pki.hinet.net
+  - DOMAIN-SUFFIX,publicca.hinet.net
+  - DOMAIN-SUFFIX,tls.hinet.net
+  - DOMAIN-SUFFIX,gtlsca.nat.gov.tw

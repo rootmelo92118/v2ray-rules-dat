@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/imperialcollege
+# domain: 3
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,imperial.insendi.com
+  - DOMAIN-SUFFIX,imperialbusiness.school
+  - DOMAIN-SUFFIX,ic.ac.uk
+  - DOMAIN-SUFFIX,imperial.ac.uk

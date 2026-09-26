@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wbgames
+# domain: 4
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,datarouter.apps.netherrealm.com
+  - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+  - DOMAIN-SUFFIX,warnerbrosgames.com
+  - DOMAIN-SUFFIX,wbagora.com
+  - DOMAIN-SUFFIX,wbgames.com
+  - DOMAIN-SUFFIX,wbinsights.com

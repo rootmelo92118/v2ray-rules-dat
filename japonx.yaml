@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/japonx
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,x18r.co
+  - DOMAIN-SUFFIX,x18r.com
+  - DOMAIN-SUFFIX,z18r.co
+  - DOMAIN-SUFFIX,z18r.com

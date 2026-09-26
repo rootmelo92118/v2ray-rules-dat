@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/marvel
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,marvel.com
+  - DOMAIN-SUFFIX,marvel10thanniversary.com
+  - DOMAIN-SUFFIX,marveldimensionofheroes.com
+  - DOMAIN-SUFFIX,marvelparty.net
+  - DOMAIN-SUFFIX,marvelpinball.com
+  - DOMAIN-SUFFIX,marvelsdoubleagent.com
+  - DOMAIN-SUFFIX,marvelspotlightplays.com
+  - DOMAIN-SUFFIX,marvelsuperheroseptember.com
+  - DOMAIN-SUFFIX,marvelsuperwar.com
+  - DOMAIN-SUFFIX,themarvelexperiencetour.com

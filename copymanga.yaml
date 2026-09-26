@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/copymanga
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,2025copy.com
+  - DOMAIN-SUFFIX,copy-manga.com
+  - DOMAIN-SUFFIX,copy20.com
+  - DOMAIN-SUFFIX,copy2000.online
+  - DOMAIN-SUFFIX,mangacopy.com
+  - DOMAIN-SUFFIX,mangafuna.xyz
+  - DOMAIN-SUFFIX,mangafunb.fun
