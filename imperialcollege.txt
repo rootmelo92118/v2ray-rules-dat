@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/imperialcollege
+! domain: 3
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|imperial.insendi.com^
+||imperialbusiness.school^
+||ic.ac.uk^
+||imperial.ac.uk^

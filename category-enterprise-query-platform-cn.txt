@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-enterprise-query-platform-cn
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||qichamao.com^
+||qyyjt.cn^
+||x315.com^
+||xcc.cn^
+||xinchacha.com^
+||qcc.com^
+||qichacha.com^
+||qixin.com^
+||jindidata.com^
+||tianyancha.com^
+||aiqicha.cn^
+||aiqicha.com^
+||aiqicha.baidu.com^

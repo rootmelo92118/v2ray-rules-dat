@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mainichi
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||machigoto.jp^
+||mainichi-athletepartners.jp^
+||mainichi.jp^
+||mainichibooks.com^
+||meijinsen.jp^
+||mirailab.tech^
+||mottainai.info^
+||newsgawakaru.com^
+||weekly-economist.com^
+||sponichi.co.jp^

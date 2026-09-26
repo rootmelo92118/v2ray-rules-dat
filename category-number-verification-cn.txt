@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-number-verification-cn
+! domain: 1
+! full: 5
+! keyword: 0
+! regexp: 1
+
+
+|id6.me^
+|opencloud.wostore.cn^
+|hs.wosms.cn^
+|enrichgw.10010.com^
+|hap.10010.com^
+||cmpassport.com^
+/^nis.+\.10010\.com$/

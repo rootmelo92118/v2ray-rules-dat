@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/f-droid
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||f-dro1d.org^
+||f-droid.com^
+||f-droid.org^
+||fdroid.org^

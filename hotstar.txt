@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hotstar
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 1
+
+
+||hotstar.com^
+||hotstar-cdn.net^
+||hotstar-labs.com^
+||hotstarext.com^
+||hsprepack.akamaized.net^
+/^hses[1-7]?\.akamaized\.net$/

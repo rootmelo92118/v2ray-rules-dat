@@ -1,0 +1,31 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/jetbrains
+! domain: 24
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||datalore.io^
+||intellij.com^
+||intellij.net^
+||intellij.org^
+||jb.gg^
+||jetbrains.cloud^
+||jetbrains.com^
+||jetbrains.dev^
+||jetbrains.net^
+||jetbrains.org^
+||jetbrains.ru^
+||jetbrains.space^
+||jetbrains.team^
+||kotl.in^
+||kotlinconf.com^
+||kotlinlang.org^
+||ktor.io^
+||myjetbrains.com^
+||talkingkotlin.com^
+||youtrack.cloud^
+||grazie.ai^
+||jetbrains.ai^
+||jetbrains.com.cn^
+||cdn.jetbrains.com^

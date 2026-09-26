@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/greatfire
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||applecensorship.com^
+||freebrowser.org^
+||freewechat.com^
+||freeweibo.com^
+||freezhihu.org^
+||googlecensorship.org^
+||greatfire.org^
+||greatfirevpn.com^
+||pao-pao.net^
+||wikiunblocked.org^

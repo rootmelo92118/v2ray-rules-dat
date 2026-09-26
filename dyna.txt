@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dyna
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dynacw.com^
+||dynacw.co.jp^
+||dynacw.com.cn^
+||dynacw.com.hk^
+||dynacw.com.tw^
