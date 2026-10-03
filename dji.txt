@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dji
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dji.com^
+||dji.ink^
+||dji.net^
+||djicdn.com^
+||djigate.com^
+||djiits.com^
+||djiops.com^
+||djiservice.org^
+||skypixel.com^
+||robomaster.com^

@@ -1,0 +1,9 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/fans66
+! domain: 2
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||fans66.tw^
+||fansking.tw^

@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dlsite
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||chobit.cc^
+||ci-en.jp^
+||ci-en.net^
+||dlaf.jp^
+||dlsite.com^
+||dlsite.jp^
+||dlsitestudio.com^
+||nijiyome.jp^
+||triokini.com^
+||dlsite.com.tw^

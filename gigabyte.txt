@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gigabyte
+! domain: 4
+! full: 3
+! keyword: 0
+! regexp: 0
+
+
+|gigabyte2.azureedge.net^
+|sa78gs.wpc.edgecastcdn.net^
+|sni1dcb6gl.wpc.edgecastcdn.net^
+||aorus.com^
+||gigabyte.com^
+||aoruszone.cn^
+||gigabyte.cn^

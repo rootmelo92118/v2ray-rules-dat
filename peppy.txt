@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/peppy
+! domain: 1
+! full: 9
+! keyword: 0
+! regexp: 0
+
+
+|a.ppy.sh^
+|assets.ppy.sh^
+|c.ppy.sh^
+|osu.ppy.sh^
+|m1.ppy.sh^
+|lazer.ppy.sh^
+|notify.ppy.sh^
+|sentry.ppy.sh^
+|spectator.ppy.sh^
+||ppy.sh^

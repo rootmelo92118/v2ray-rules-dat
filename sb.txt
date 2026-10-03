@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sb
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dns.sb^
+||ip.gs^
+||ip.sb^
+||loli.net^
+||sb.sb^
+||sm.ms^
+||u.nu^
+||www.sb^

@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-social-media-ir
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||bale.ai^
+||eitaa.com^
+||eitaa.ir^
+||gap.im^
+||gaplication.com^
+||mizito.ir^
+||niniban.com^
+||ninisite.com^
+||rubika.ir^
+||splus.ir^
+||virasty.com^

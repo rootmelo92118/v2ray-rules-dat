@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-ads-ir
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||adivery.com^
+||adivery.ir^
+||kaprila.com^
+||najva.com^
+||sabavision.com^
+||tapsell.ir^
+||yektanet.com^

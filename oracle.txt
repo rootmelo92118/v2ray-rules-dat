@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/oracle
+! domain: 19
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||oracle^
+||java^
+||oraclefoundation.org^
+||sun.com^
+||covid19rx.org^
+||custhelp.com^
+||oracle.com^
+||oraclecloud.com^
+||bronto.com^
+||oracleimg.com^
+||oracleinfinity.io^
+||covid19-rx.org^
+||virtualbox.org^
+||addthis.com^
+||addthiscdn.com^
+||addthisedge.com^
+||ateam-oracle.com^
+||java.com^
+||java.net^

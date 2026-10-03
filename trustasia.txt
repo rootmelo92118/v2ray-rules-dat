@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/trustasia
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||51ssl.cn^
+||51ssl.com^
+||geossl.cn^
+||litessl.cn^
+||litessl.com^
+||myssl-uri.com^
+||myssl.com^
+||trustasia.cn^
+||trustasia.com^
+||trustasia.net^
+||trustasia.com.cn^

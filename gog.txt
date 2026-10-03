@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gog
+! domain: 5
+! full: 3
+! keyword: 0
+! regexp: 0
+
+
+|gog-cdn-lumen.secure2.footprint.net^
+|gog-cdn.akamaized.net^
+||gog.com^
+||gog-services.com^
+||gog-statics.com^
+||gogalaxy.com^
+|gog.qtlglb.com^
+||insights-collector.gog.com^

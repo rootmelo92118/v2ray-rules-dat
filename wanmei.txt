@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wanmei
+! domain: 14
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||laohu.com^
+||pwrd.com^
+||wanmei.com^
+||wmsj.cn^
+||wmupd.com^
+||allhistory.com^
+||chengjiaxiangqin.cn^
+||perfectlingo.com^
+||pwcinema.com^
+||pwesports.cn^
+||111.com^
+||88.com^
+||88y.cn^
+||email.cn^
