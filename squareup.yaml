@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/squareup
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,cash.app
+  - DOMAIN-SUFFIX,cashbycashapp.com
+  - DOMAIN-SUFFIX,gosq.co
+  - DOMAIN-SUFFIX,gosq.com
+  - DOMAIN-SUFFIX,issquaredown.com
+  - DOMAIN-SUFFIX,issquareup.com
+  - DOMAIN-SUFFIX,mkt.com
+  - DOMAIN-SUFFIX,sellercommunity.com
+  - DOMAIN-SUFFIX,squarecapital.com
+  - DOMAIN-SUFFIX,squarecdn.com
+  - DOMAIN-SUFFIX,squarecloudservices.com
+  - DOMAIN-SUFFIX,squareup.com

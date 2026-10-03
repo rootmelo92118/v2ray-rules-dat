@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-social-media-ir
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,bale.ai
+  - DOMAIN-SUFFIX,eitaa.com
+  - DOMAIN-SUFFIX,eitaa.ir
+  - DOMAIN-SUFFIX,gap.im
+  - DOMAIN-SUFFIX,gaplication.com
+  - DOMAIN-SUFFIX,mizito.ir
+  - DOMAIN-SUFFIX,niniban.com
+  - DOMAIN-SUFFIX,ninisite.com
+  - DOMAIN-SUFFIX,rubika.ir
+  - DOMAIN-SUFFIX,splus.ir
+  - DOMAIN-SUFFIX,virasty.com

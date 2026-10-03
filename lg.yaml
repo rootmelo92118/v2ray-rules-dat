@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/lg
+# domain: 9
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,lgelectronics.122.2o7.net
+  - DOMAIN-SUFFIX,lg.com
+  - DOMAIN-SUFFIX,lgappstv.com
+  - DOMAIN-SUFFIX,lge.com
+  - DOMAIN-SUFFIX,lgecareers.com
+  - DOMAIN-SUFFIX,lghvac.com
+  - DOMAIN-SUFFIX,lghvacstory.com
+  - DOMAIN-SUFFIX,lgrecyclingprogram.com
+  - DOMAIN-SUFFIX,lgsalesportal.com
+  - DOMAIN-SUFFIX,lge.co.kr

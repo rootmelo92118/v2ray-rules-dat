@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/n26
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,n26.com
+  - DOMAIN-SUFFIX,number26.de
+  - DOMAIN-SUFFIX,tech26.de

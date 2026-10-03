@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/giffgaff
+# domain: 2
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,giffgaff.com
+  - DOMAIN-SUFFIX,giffgaff.design

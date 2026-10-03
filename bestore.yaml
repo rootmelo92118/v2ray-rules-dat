@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bestore
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,517lppz.com
+  - DOMAIN-SUFFIX,lppz.com
+  - DOMAIN-SUFFIX,lppzimg.com

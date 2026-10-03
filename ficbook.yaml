@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ficbook
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,fanfictionero.com
+  - DOMAIN-SUFFIX,fic.fan
+  - DOMAIN-SUFFIX,ficador.com
+  - DOMAIN-SUFFIX,ficbook.net
+  - DOMAIN-SUFFIX,ficmania.com
+  - DOMAIN-SUFFIX,teinon.net

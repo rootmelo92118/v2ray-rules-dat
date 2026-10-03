@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/jkf
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,jkf.net
+  - DOMAIN-SUFFIX,jkface.net
+  - DOMAIN-SUFFIX,jkforum.net
+  - DOMAIN-SUFFIX,jr24h.com
+  - DOMAIN-SUFFIX,jvid.com

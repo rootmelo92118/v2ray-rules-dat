@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/manorama
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,malayalamanorama.com
+  - DOMAIN-SUFFIX,manorama.com
+  - DOMAIN-SUFFIX,manoramanews.com
+  - DOMAIN-SUFFIX,manoramaonline.com
+  - DOMAIN-SUFFIX,manoramayearbook.in
+  - DOMAIN-SUFFIX,onmanorama.com
+  - DOMAIN-SUFFIX,radiomango.fm
+  - DOMAIN-SUFFIX,theman.in
+  - DOMAIN-SUFFIX,theweek.in
+  - DOMAIN-SUFFIX,vanitaonline.com
+  - DOMAIN-SUFFIX,vanitha.in
+  - DOMAIN-SUFFIX,vanithaveedu.com

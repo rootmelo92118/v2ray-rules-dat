@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bootstrap
+# domain: 2
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,getbootstrap.com

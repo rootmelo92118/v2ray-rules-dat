@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hku
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,hku.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
+  - DOMAIN-SUFFIX,hku.edu.hk

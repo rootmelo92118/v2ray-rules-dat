@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/quora
+# domain: 5
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,www.quora.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,qr.ae
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,quoracdn.net
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,poecdn.net

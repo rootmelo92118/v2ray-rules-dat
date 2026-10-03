@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/growingio
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,datayi.cn
+  - DOMAIN-SUFFIX,gio.ren
+  - DOMAIN-SUFFIX,giocdn.com
+  - DOMAIN-SUFFIX,growin.cn
+  - DOMAIN-SUFFIX,growingio.cn
+  - DOMAIN-SUFFIX,growingio.com

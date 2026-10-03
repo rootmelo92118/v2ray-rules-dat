@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/qianxin
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,95015.com
+  - DOMAIN-SUFFIX,qianxin.com
+  - DOMAIN-SUFFIX,qianxincdn.com
+  - DOMAIN-SUFFIX,seclab.online
+  - DOMAIN-SUFFIX,tianshucup.com
+  - DOMAIN-SUFFIX,ceati.org.cn
+  - DOMAIN-SUFFIX,datacon.org.cn

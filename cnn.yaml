@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cnn
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
+  - DOMAIN-SUFFIX,cnnmoney.com
+  - DOMAIN-SUFFIX,cnnmoneystream.com
+  - DOMAIN-SUFFIX,cnnpolitics.com

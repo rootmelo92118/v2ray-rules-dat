@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/taihe
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,91q.com
+  - DOMAIN-SUFFIX,dmhmusic.com
+  - DOMAIN-SUFFIX,showstart.com
+  - DOMAIN-SUFFIX,taihe.com
+  - DOMAIN-SUFFIX,taihemusic.cn
+  - DOMAIN-SUFFIX,th-music.com

@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cheetahmobile
+# domain: 11
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,cheetahfun.com
+  - DOMAIN-SUFFIX,cmcm.com
+  - DOMAIN-SUFFIX,cmcmcdn.com
+  - DOMAIN-SUFFIX,liebao.cn
+  - DOMAIN-SUFFIX,zhhainiao.com
+  - DOMAIN-SUFFIX,drivergenius.com
+  - DOMAIN-SUFFIX,duba.com
+  - DOMAIN-SUFFIX,duba.net
+  - DOMAIN-SUFFIX,ijinshan.com
+  - DOMAIN-SUFFIX,keniu.com
+  - DOMAIN-SUFFIX,yuanqidesk.com
