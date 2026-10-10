@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tongcheng
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,40017.cn
+  - DOMAIN-SUFFIX,17u.cn
+  - DOMAIN-SUFFIX,17u.net
+  - DOMAIN-SUFFIX,17usoft.com
+  - DOMAIN-SUFFIX,17usoft.net
+  - DOMAIN-SUFFIX,elong.com
+  - DOMAIN-SUFFIX,elongstatic.com
+  - DOMAIN-SUFFIX,ly.com

@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sky
+# domain: 13
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,sky
+  - DOMAIN-SUFFIX,sky.com
+  - DOMAIN-SUFFIX,skyassets.com
+  - DOMAIN-SUFFIX,skymansion.net
+  - DOMAIN-SUFFIX,skyoceanrescue.com
+  - DOMAIN-SUFFIX,skyoceanrescue.de
+  - DOMAIN-SUFFIX,skyoceanrescue.it
+  - DOMAIN-SUFFIX,skysports.com
+  - DOMAIN-SUFFIX,skysports.fr
+  - DOMAIN-SUFFIX,skysports.ie
+  - DOMAIN-SUFFIX,skysportsonline.com
+  - DOMAIN-SUFFIX,skysportsracing.com
+  - DOMAIN-SUFFIX,cn-cdn1.skymansion.net

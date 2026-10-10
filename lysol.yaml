@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/lysol
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,lysol.ca
+  - DOMAIN-SUFFIX,lysol.cl
+  - DOMAIN-SUFFIX,lysol.com
+  - DOMAIN-SUFFIX,lysol.net
+  - DOMAIN-SUFFIX,lizol.co.in
+  - DOMAIN-SUFFIX,lysol.co.cr
+  - DOMAIN-SUFFIX,lysol.com.mx
+  - DOMAIN-SUFFIX,lysol.cn
+  - DOMAIN-SUFFIX,lysol.com.cn

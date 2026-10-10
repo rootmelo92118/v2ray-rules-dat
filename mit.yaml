@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mit
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,mit
+  - DOMAIN-SUFFIX,mit.edu
+  - DOMAIN-SUFFIX,mit.net
+  - DOMAIN-SUFFIX,mitpressjournals.org

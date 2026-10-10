@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yuanfudao
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,banmaaike.com
+  - DOMAIN-SUFFIX,xiaoyuankousuan.com
+  - DOMAIN-SUFFIX,ybccode.com
+  - DOMAIN-SUFFIX,yuanfudao.com
+  - DOMAIN-SUFFIX,yuansouti.com
+  - DOMAIN-SUFFIX,yuantiku.com
+  - DOMAIN-SUFFIX,fbstatic.cn
+  - DOMAIN-SUFFIX,fenbi.com
+  - DOMAIN-SUFFIX,fenbike.cn
+  - DOMAIN-SUFFIX,fenbike.com
+  - DOMAIN-SUFFIX,fenbilantian.cn
+  - DOMAIN-SUFFIX,fenbilantian.com

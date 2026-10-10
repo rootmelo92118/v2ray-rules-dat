@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/thesun
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,dreamteamfc.com
+  - DOMAIN-SUFFIX,page3.com
+  - DOMAIN-SUFFIX,talksport.com
+  - DOMAIN-SUFFIX,thesun.ie
+  - DOMAIN-SUFFIX,sunbingo.co.uk
+  - DOMAIN-SUFFIX,thescottishsun.co.uk
+  - DOMAIN-SUFFIX,thesun.co.uk

@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-acg
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,bestdori.com
+  - DOMAIN-SUFFIX,colorfulstage.com
+  - DOMAIN-SUFFIX,lapriere.jp
+  - DOMAIN-SUFFIX,magicalmirai.com
+  - DOMAIN-SUFFIX,mikuexpo.com
+  - DOMAIN-SUFFIX,piapro.net
+  - DOMAIN-SUFFIX,snowmiku.com
+  - DOMAIN-SUFFIX,bowlroll.net
+  - DOMAIN-SUFFIX,crypton.co.jp

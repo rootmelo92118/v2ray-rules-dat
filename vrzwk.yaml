@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/vrzwk
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,vrzwk.cn
+  - DOMAIN-SUFFIX,vrzwk.com
+  - DOMAIN-SUFFIX,vrzwk.net
+  - DOMAIN-SUFFIX,vrzwk.top

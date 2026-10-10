@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sberbank
+# domain: 17
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,bps-sberbank.by
+  - DOMAIN-SUFFIX,sber-bank.by
+  - DOMAIN-SUFFIX,sber.ru
+  - DOMAIN-SUFFIX,sberbank.com
+  - DOMAIN-SUFFIX,sberbank.ru
+  - DOMAIN-SUFFIX,sbrf.ru
+  - DOMAIN-SUFFIX,yookassa.ru
+  - DOMAIN-SUFFIX,yoomoney.ru
+  - DOMAIN-SUFFIX,cplsb.ru
+  - DOMAIN-SUFFIX,sberspasibo.ru
+  - DOMAIN-SUFFIX,spasibo.digital
+  - DOMAIN-SUFFIX,spasibo.market
+  - DOMAIN-SUFFIX,spasibobonus.ru
+  - DOMAIN-SUFFIX,spasibosb.ru
+  - DOMAIN-SUFFIX,spasibosberbank.ru
+  - DOMAIN-SUFFIX,ads.sber.ru
+  - DOMAIN-SUFFIX,clickstream.sberbank.ru
+  - DOMAIN,visor.sberbank.ru
