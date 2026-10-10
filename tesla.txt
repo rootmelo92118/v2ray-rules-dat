@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tesla
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||solarcity.com^
+||tesla.com^
+||tesla.services^
+||teslaenergy.services^
+||teslamotors.com^
+||teslazta.net^
+||ts.la^
+||tesla.cn^
+||tesla.com.cn^
+||teslamotors.cn^
+||teslamotors.com.cn^

@@ -1,0 +1,9 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/github1s
+! domain: 2
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||github1s.com^
+||sourcegraph.com^

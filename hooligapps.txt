@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hooligapps
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cuntempire.com^
+||cuntwars.com^
+||dirtyleague.com^
+||faptitans.com^
+||hooligapps.com^
+||slotbitches.com^
+||smutstone.com^
+||townofsins.com^

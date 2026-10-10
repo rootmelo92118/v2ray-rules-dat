@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/meitu
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||meitu.com^
+||meitudata.com^
+||meitustat.com^
+||designkit.cn^
+||kaipai.com^
+||meipai.com^
+||meituxiuxiu.com^
+||meiyan.com^
+||miraclevision.com^
+||roboneo.com^
+||whee.com^
+||wink.cn^
+||zcool.com.cn^

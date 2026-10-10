@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hinet
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||emome.net^
+||hinet.net^
+||xuite.net^
+||cht.com.tw^
+||chtf.org.tw^
+||gtlsca.nat.gov.tw^

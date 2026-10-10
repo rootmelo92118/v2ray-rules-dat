@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dwion
+! domain: 14
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||fastcdn.com^
+||tlgslb.cn^
+||bbbcdns.com^
+||dlgslb.cn^
+||dlgslb.net^
+||dwion.com^
+||flxdns.cn^
+||acadn.cn^
+||acadn.com^
+||flxdns.com^
+||globalcdn.cn^
+||mcadn.cn^
+||tlgslb.com^
+||fastcdn.com.cn^

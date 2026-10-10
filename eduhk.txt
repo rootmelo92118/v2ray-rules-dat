@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/eduhk
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||eduhk.hk^
+||xn--wcv22d.hk^
+||xn--wcv22d.xn--j6w193g^
+||xn--wcvs22d1m.hk^
+||xn--wcvs22d1m.xn--j6w193g^
+||xn--pssu7cv61af1tcs59bnvd.hk^
+||xn--pssu7cv61af1tcs59bnvd.xn--j6w193g^
+||eduhk.edu.hk^

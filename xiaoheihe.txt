@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xiaoheihe
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||1xhh.cn^
+||accxiaoheihe.com^
+||chat.top^
+||debugmode.cn^
+||max-c.com^
+||maxadmin.cn^
+||maxjia.com^
+||xiaoheihe.cn^

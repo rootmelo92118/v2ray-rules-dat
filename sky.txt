@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sky
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||sky^
+||sky.com^
+||skyassets.com^
+||skymansion.net^
+||skyoceanrescue.com^
+||skyoceanrescue.de^
+||skyoceanrescue.it^
+||skysports.com^
+||skysports.fr^
+||skysports.ie^
+||skysportsonline.com^
+||skysportsracing.com^
+||cn-cdn1.skymansion.net^

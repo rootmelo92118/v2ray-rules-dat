@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gamersky
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gamersky.com^
+||click.gamersky.com^
+||ja.gamersky.com^
+||ja1.gamersky.com^
+||ja2.gamersky.com^
+||wmbd.gamersky.com^

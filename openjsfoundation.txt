@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/openjsfoundation
+! domain: 11
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|amp.akamaized.net^
+||openjsf.org^
+||amp.dev^
+||ampproject.com^
+||ampproject.net^
+||ampproject.org^
+||electronjs.org^
+||jquery.com^
+||jquerymobile.com^
+||jqueryui.com^
+||mochajs.org^
+||nodejs.org^
+|cdn.ampproject.org^

@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/rossiyasegodnya
+! domain: 17
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||1prime.ru^
+||sputnikimages.com^
+||rossiyasegodnya.com^
+||xn--c1acbl2abdlkab1og.xn--p1ai^
+||arctic.ru^
+||baltnews.com^
+||baltnews.lt^
+||inosmi.ru^
+||pressria.ru^
+||ukraina.ru^
+||ria.ru^
+||radiosputnik.ru^
+||sputnikglobe.com^
+||jinrieluosi.cn^
+||sputnikmediabank.com^
+||sputniknews.com^
+||tok.media^

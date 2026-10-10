@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/brazzers
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||brazzer.com^
+||brazzers.com^
+||brazzers.xxx^
+||brazzersnetwork.com^
+||mofos.com^

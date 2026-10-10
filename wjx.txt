@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wjx
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||sojump.com^
+||wjx.cn^
+||wjx.com^
+||wjx.top^

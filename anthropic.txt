@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/anthropic
+! domain: 8
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|servd-anthropic-website.b-cdn.net^
+||anthropic.com^
+||clau.de^
+||claude.ai^
+||claude.com^
+||claude.dev^
+||claudemcpclient.com^
+||claudemcpcontent.com^
+||claudeusercontent.com^

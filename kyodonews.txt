@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kyodonews
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||47gyosei.jp^
+||47news.jp^
+||kyodo-d.info^
+||kyodo-d.jp^
+||kyodoimages.jp^
+||kyodonews.jp^
+||kyodonews.net^
+||newsmart.jp^
+||nna.jp^

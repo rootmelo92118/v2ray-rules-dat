@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-telemetry
+! domain: 2
+! full: 6
+! keyword: 0
+! regexp: 0
+
+
+||cafe.github.com^
+||collector.github.com^
+|copilot-telemetry-service.githubusercontent.com^
+|copilot-telemetry.githubusercontent.com^
+|copilot-telemetry-service.githubusercontent.com^
+|copilot-telemetry.githubusercontent.com^
+|incoming.telemetry.mozilla.org^
+|incoming-telemetry.thunderbird.net^

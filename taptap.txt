@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/taptap
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||tapapks.com^
+||tapimg.com^
+||tapimg.net^
+||taptap.cn^
+||taptap.com^
+||taptapdada.com^
+||taptap.io^
