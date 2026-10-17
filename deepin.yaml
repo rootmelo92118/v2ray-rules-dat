@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/deepin
+# domain: 15
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,91changxie.com
+  - DOMAIN-SUFFIX,deepin.com
+  - DOMAIN-SUFFIX,sndu.cn
+  - DOMAIN-SUFFIX,51changxie.com
+  - DOMAIN-SUFFIX,51jianxie.cn
+  - DOMAIN-SUFFIX,deepin.cn
+  - DOMAIN-SUFFIX,changxie.com
+  - DOMAIN-SUFFIX,chinauos.com
+  - DOMAIN-SUFFIX,linglong.space
+  - DOMAIN-SUFFIX,uniontech.cn
+  - DOMAIN-SUFFIX,uniontech.com
+  - DOMAIN-SUFFIX,deepin.org.cn
+  - DOMAIN-SUFFIX,linyaps.org.cn
+  - DOMAIN-SUFFIX,deepin.io
+  - DOMAIN-SUFFIX,deepin.org

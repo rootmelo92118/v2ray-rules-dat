@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-ai-ru
+# domain: 12
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,aiesa.ru
+  - DOMAIN-SUFFIX,copymonkey.app
+  - DOMAIN-SUFFIX,gerwin.io
+  - DOMAIN-SUFFIX,giga.chat
+  - DOMAIN-SUFFIX,gptunnel.ru
+  - DOMAIN-SUFFIX,polza.ai
+  - DOMAIN-SUFFIX,robotext.io
+  - DOMAIN-SUFFIX,rugpt.io
+  - DOMAIN-SUFFIX,tokenator.top
+  - DOMAIN-SUFFIX,alice.yandex.net
+  - DOMAIN-SUFFIX,alice.yandex.ru
+  - DOMAIN-SUFFIX,alicepro.yandex.ru

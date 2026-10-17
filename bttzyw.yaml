@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bttzyw
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,btt804.com
+  - DOMAIN-SUFFIX,btt904.com
+  - DOMAIN-SUFFIX,bttzyw.com
+  - DOMAIN-SUFFIX,bttzyw.net

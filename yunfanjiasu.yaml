@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yunfanjiasu
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,yfcache.com
+  - DOMAIN-SUFFIX,yfcalc.com
+  - DOMAIN-SUFFIX,yfcdn.net
+  - DOMAIN-SUFFIX,yfcloud.com
+  - DOMAIN-SUFFIX,yfdts.net
+  - DOMAIN-SUFFIX,yfp2p.net
+  - DOMAIN-SUFFIX,yfscdn.net
+  - DOMAIN-SUFFIX,yunfancdn.com

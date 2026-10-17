@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/google-trust-services
+# domain: 1
+# full: 11
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,publicca.googleapis.com
+  - DOMAIN,preprod-publicca.googleapis.com
+  - DOMAIN,clients1.google.com
+  - DOMAIN,pki.google.com
+  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN,pki-goog.l.google.com
+  - DOMAIN,c.pki.goog
+  - DOMAIN,i.pki.goog
+  - DOMAIN,o.pki.goog
+  - DOMAIN,crl.pki.goog
+  - DOMAIN,crls.pki.goog
+  - DOMAIN,ocsp.pki.goog

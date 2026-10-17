@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-mobile-repair
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,androidfilehost.com
+  - DOMAIN-SUFFIX,unlocktool.net
+  - DOMAIN-SUFFIX,borneo.world
+  - DOMAIN-SUFFIX,borneoasia.com
+  - DOMAIN-SUFFIX,borneoschematic.com
+  - DOMAIN-SUFFIX,bosharso.net
+  - DOMAIN-SUFFIX,hostborneo.org
+  - DOMAIN-SUFFIX,easy-jtag.com
+  - DOMAIN-SUFFIX,z3x-team.com

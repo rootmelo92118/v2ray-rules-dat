@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-forums-ru
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,dtf.ru
+  - DOMAIN-SUFFIX,opennet.dev
+  - DOMAIN-SUFFIX,opennet.ru
+  - DOMAIN-SUFFIX,prodota.ru
+  - DOMAIN-SUFFIX,pikabu.ru
+  - DOMAIN-SUFFIX,tischenko.su
+  - DOMAIN-SUFFIX,vc.ru
+  - DOMAIN-SUFFIX,yapfiles.ru
+  - DOMAIN-SUFFIX,yaplakal.com
+  - DOMAIN-SUFFIX,yap.ru
