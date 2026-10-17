@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/onedrive
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||1drv.com^
+||1drv.ms^
+||livefilestore.com^
+||onedrive.co^
+||onedrive.com^
+||onedrive.eu^
+||onedrive.net^
+||onedrive.org^
+||onedrive.co.uk^
+||onedrive.live.com^
+||storage.live.com^

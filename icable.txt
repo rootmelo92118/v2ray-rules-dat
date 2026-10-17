@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/icable
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||i-cablecomm.com^
+||fantv.hk^
+||hkopentv.com^
+||hoy.tv^
+||i-cable.com^
+||cabletv.com.hk^

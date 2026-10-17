@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/nexitally
+! domain: 3
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||nexitally.com^
+||nexitallysafe.com^
+||nexitcore.com^

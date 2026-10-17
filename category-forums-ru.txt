@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-forums-ru
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dtf.ru^
+||opennet.dev^
+||opennet.ru^
+||prodota.ru^
+||pikabu.ru^
+||tischenko.su^
+||vc.ru^
+||yapfiles.ru^
+||yaplakal.com^
+||yap.ru^

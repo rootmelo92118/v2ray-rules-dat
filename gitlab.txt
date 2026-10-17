@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gitlab
+! domain: 4
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|gitlab-assets.oss-cn-hongkong.aliyuncs.com^
+||gitlab.com^
+||gitlab.io^
+||gitlab.net^
+||gitlab-static.net^

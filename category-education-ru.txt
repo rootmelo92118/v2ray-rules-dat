@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-education-ru
+! domain: 19
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||altaiobr04.ru^
+||obr03.ru^
+||kartaslov.ru^
+||chelyabinsk-sgo-edu-74.ru^
+||melfm.ru^
+||pishi-pravilno.ru^
+||pravilno-pishem.ru^
+||tak-pravilno.com^
+||kakpishem.ru^
+||gramotei.online^
+||mel.fm^
+||setevoygorodkrasnodar.ru^
+||sgo-egov66.ru^
+||ulyanovsk-sgo-cit73.ru^
+||sgo12.ru^
+||sgo171.ru^
+||sgo41.ru^
+||sgoedu74.ru^
+||sgo.tvobr.ru^

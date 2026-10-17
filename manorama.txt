@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/manorama
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||malayalamanorama.com^
+||manorama.com^
+||manoramanews.com^
+||manoramaonline.com^
+||manoramayearbook.in^
+||onmanorama.com^
+||radiomango.fm^
+||theman.in^
+||theweek.in^
+||vanitaonline.com^
+||vanitha.in^
+||vanithaveedu.com^

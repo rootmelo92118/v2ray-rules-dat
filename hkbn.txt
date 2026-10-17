@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hkbn
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||csifund.org^
+||hkbn.net^
+||hkbnes.net^
+||jos.com^
+||hkbn.com.hk^
+||speedtest.com.hk^
