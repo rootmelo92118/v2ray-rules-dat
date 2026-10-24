@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ku6
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ku6.com
+  - DOMAIN-SUFFIX,ku6cdn.com
+  - DOMAIN-SUFFIX,ku6img.com

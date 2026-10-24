@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zuoyebang
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,zuoyebang.cc
+  - DOMAIN-SUFFIX,zuoyebang.com
+  - DOMAIN-SUFFIX,zybang.com
+  - DOMAIN-SUFFIX,kuaiduizuoye.com
+  - DOMAIN-SUFFIX,syh.zybang.com

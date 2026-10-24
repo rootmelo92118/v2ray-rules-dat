@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/moji
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,airnut.com
+  - DOMAIN-SUFFIX,moji.com
+  - DOMAIN-SUFFIX,moji001.com
+  - DOMAIN-SUFFIX,moji002.com
+  - DOMAIN-SUFFIX,mojicdn.com
+  - DOMAIN-SUFFIX,mojichina.com
+  - DOMAIN-SUFFIX,ad.api.moji.com
