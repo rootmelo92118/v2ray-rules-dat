@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sumkoo
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gongqingyun.cn^
+||jzfz.net^
+||sumkoo.cn^
+||sumkoo.com^
+||sumkoo.net^
+||veeqi.net^
+||wenmingban.com^
+||zhiyuanhe.cn^
+||zhiyuanyun.com.cn^
+||zyhe.com.cn^

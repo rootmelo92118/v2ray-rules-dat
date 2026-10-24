@@ -1,0 +1,23 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-wiki-cn
+! domain: 16
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||huijiwiki.com^
+||mcmod.cn^
+||jikipedia.com^
+||mbalib.com^
+||sec-wiki.com^
+||shidianbaike.com^
+||fgo.wiki^
+||chaz.fun^
+||allhistory.com^
+||huijistatic.com^
+||moegirl.org^
+||zdic.net^
+||pwsannong.com^
+||qiuwenbaike.cn^
+||qiuwen.wiki^
+||moegirl.org.cn^

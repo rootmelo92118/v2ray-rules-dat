@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/wholefoodsmarket
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||wfm.com^
+||wholecitiesfoundation.org^
+||wholefoods.com^
+||wholefoodsmarket.com^
+||wholekidsfoundation.org^
+||wholeplanetfoundation.org^
+||wholefoodsmarket.co.uk^

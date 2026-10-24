@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/didi
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||didi.cn^
+||didialift.com^
+||didichuxing.com^
+||didistatic.com^
+||udache.com^
+||xiaojukeji.com^
+||diditaxi.com.cn^
+||hongyibo.com.cn^
+||didi-food.com^
+||didiaustralia.blog^
+||didiglobal.com^
+||didimobility.co.jp^

@@ -1,0 +1,9 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tokyo-sports
+! domain: 2
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||tospo-keiba.jp^
+||tokyo-sports.co.jp^

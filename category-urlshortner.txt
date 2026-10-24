@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-urlshortner
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||tinyurl.com^
+||bit.ly^
+||bitly.com^
+||bitly.is^
+||shorturl.at^

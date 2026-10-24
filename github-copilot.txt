@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/github-copilot
+! domain: 1
+! full: 5
+! keyword: 0
+! regexp: 0
+
+
+|copilot-proxy.githubusercontent.com^
+|copilot-workspace.githubnext.com^
+|copilotprodattachments.blob.core.windows.net^
+||githubcopilot.com^
+|copilot-telemetry-service.githubusercontent.com^
+|copilot-telemetry.githubusercontent.com^

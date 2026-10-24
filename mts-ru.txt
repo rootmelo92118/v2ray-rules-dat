@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mts-ru
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||mts-ws.net^
+||mts.ru^
+||mymts.ru^
+||dbo-dengi.online^
+||mtsbank.ru^
+||mtsdengi.ru^
+||tvoyodbo.online^
+||kion.ru^
+||mtsmedia.ru^
+||on-media.ru^
+||mts-link.ru^
+||a.mts.ru^
+||obs.mts.ru^
