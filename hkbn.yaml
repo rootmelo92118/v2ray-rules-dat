@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hkbn
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,csifund.org
+  - DOMAIN-SUFFIX,hkbn.net
+  - DOMAIN-SUFFIX,hkbnes.net
+  - DOMAIN-SUFFIX,jos.com
+  - DOMAIN-SUFFIX,hkbn.com.hk
+  - DOMAIN-SUFFIX,speedtest.com.hk

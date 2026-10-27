@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ehentai
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,ehgt.org
+  - DOMAIN-SUFFIX,ehtracker.org
+  - DOMAIN-SUFFIX,ehwiki.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,hath.network
+  - DOMAIN-SUFFIX,hentaiathome.net
+  - DOMAIN-SUFFIX,hentaiverse.org

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dazn
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,dazn.com
+  - DOMAIN-SUFFIX,dazn-api.com
+  - DOMAIN-SUFFIX,dazndn.com
+  - DOMAIN-SUFFIX,daznfeeds.com
+  - DOMAIN-SUFFIX,daznplayer.com
+  - DOMAIN-SUFFIX,daznservices.com
+  - DOMAIN-SUFFIX,indazn.com
+  - DOMAIN-SUFFIX,indaznlab.com

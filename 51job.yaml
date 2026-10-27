@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/51job
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,51job.com
+  - DOMAIN-SUFFIX,51jobcdn.com
+  - DOMAIN-SUFFIX,yingjiesheng.com
+  - DOMAIN-SUFFIX,yingjiesheng.net
+  - DOMAIN-SUFFIX,zhiding.com.cn

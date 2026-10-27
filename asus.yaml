@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/asus
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-SUFFIX,asuscloud.com
+  - DOMAIN-SUFFIX,asuswebstorage.com
+  - DOMAIN-SUFFIX,asus.com.cn

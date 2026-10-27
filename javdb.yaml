@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/javdb
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 1 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,jav.app
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,jdbimgs.com
+  - DOMAIN-SUFFIX,jdbstatic.com

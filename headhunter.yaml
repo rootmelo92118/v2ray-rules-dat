@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/headhunter
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,hh.by
+  - DOMAIN-SUFFIX,hh.kz
+  - DOMAIN-SUFFIX,hh.ru
+  - DOMAIN-SUFFIX,hhcdn.ru
+  - DOMAIN-SUFFIX,rabota.by
+  - DOMAIN-SUFFIX,setka.ru
+  - DOMAIN-SUFFIX,talantix.ru
+  - DOMAIN-SUFFIX,zarplata.ru

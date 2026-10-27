@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cuhk
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,cuhk.hk
+  - DOMAIN-SUFFIX,xn--fiq80y.hk
+  - DOMAIN-SUFFIX,xn--fiq80y.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwr.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.hk
+  - DOMAIN-SUFFIX,xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
+  - DOMAIN-SUFFIX,cuhk.edu.hk

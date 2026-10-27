@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kuaidi100
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,ckd.im
+  - DOMAIN-SUFFIX,kd100.com
+  - DOMAIN-SUFFIX,kuaidi100.com
+  - DOMAIN-SUFFIX,kuaidilab.com

@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-olympiad-in-informatics
+# domain: 18
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,hihocoder.com
+  - DOMAIN-SUFFIX,kidsccshow.com
+  - DOMAIN-SUFFIX,lingkou.xyz
+  - DOMAIN-SUFFIX,lingkou.com
+  - DOMAIN-SUFFIX,lingkou.cn
+  - DOMAIN-SUFFIX,51nod.com
+  - DOMAIN-SUFFIX,acwing.com
+  - DOMAIN-SUFFIX,adacpp.com
+  - DOMAIN-SUFFIX,leetcode-cn.com
+  - DOMAIN-SUFFIX,leetcode.cn
+  - DOMAIN-SUFFIX,jisuanke.com
+  - DOMAIN-SUFFIX,xmoj.tech
+  - DOMAIN-SUFFIX,oi-wiki.com
+  - DOMAIN-SUFFIX,openjudge.cn
+  - DOMAIN-SUFFIX,rqnoj.cn
+  - DOMAIN-SUFFIX,uoj.ac
+  - DOMAIN-SUFFIX,vijos.org
+  - DOMAIN-SUFFIX,luogu.com.cn
