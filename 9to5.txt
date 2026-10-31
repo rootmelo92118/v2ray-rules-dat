@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/9to5
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||9to5google.com^
+||9to5mac.com^
+||9to5terminal.com^
+||9to5toys.com^
+||dronedj.com^
+||electrek.co^
+||spaceexplored.com^

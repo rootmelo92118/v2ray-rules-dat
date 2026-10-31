@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/asahi
+! domain: 6
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|asahishimbun.sc.omtrdc.net^
+||aiasahi.jp^
+||asagaku.com^
+||asahi.com^
+||asahicom.jp^
+||nikkansports.com^
+||asakonet.co.jp^

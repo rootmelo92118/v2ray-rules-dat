@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/thelinuxfoundation
+! domain: 15
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|amp.akamaized.net^
+||lfai.foundation^
+||linuxfoundation.org^
+||kernel.org^
+||linux.org^
+||openjsf.org^
+||nodejs.org^
+||amp.dev^
+||ampproject.com^
+||ampproject.net^
+||ampproject.org^
+||electronjs.org^
+||jquery.com^
+||jquerymobile.com^
+||jqueryui.com^
+||mochajs.org^
+|cdn.ampproject.org^

@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/tongcheng
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||40017.cn^
+||17u.cn^
+||17u.net^
+||17usoft.com^
+||17usoft.net^
+||elong.com^
+||elongstatic.com^
+||ly.com^

@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/dzen
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dzen.ru^
+||dzeninfra.ru^
+||log.dzen.ru^
+||ms.dzen.ru^

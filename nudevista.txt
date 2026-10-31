@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/nudevista
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||nudevista.com^
+||nudevista.es^
+||nudevista.net^
+||nudevista.vip^

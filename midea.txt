@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/midea
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||irsnp.com^
+||mdcdn.cn^
+||midea.cn^
+||midea.com^
+||mideaepayuat.com^
+||msmartlife.cn^
+||msmartlife.com^
+||smartmidea.net^
+||xiaomaigui.com^
+||midea.com.cn^

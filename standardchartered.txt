@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/standardchartered
+! domain: 2
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|standchartbank.sc.omtrdc.net^
+|standchartbank.tt.omtrdc.net^
+||sc.com^
+||standardchartered.com^

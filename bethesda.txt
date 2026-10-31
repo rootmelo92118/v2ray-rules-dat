@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bethesda
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||beth.games^
+||bethesda.net^
+||bethesdagamestudios.com^
+||bethsoft.com^
+||doom.com^
+||elderscrolls.com^
