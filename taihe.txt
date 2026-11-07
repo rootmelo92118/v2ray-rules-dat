@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/taihe
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||91q.com^
+||dmhmusic.com^
+||showstart.com^
+||taihe.com^
+||taihemusic.cn^
+||th-music.com^

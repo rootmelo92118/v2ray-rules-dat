@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-betting-ru
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||betboom.ru^
+||mobile-bb.com^
+||bk6bba-resources.com^
+||bk6bba-resources.ru^
+||fon.bet^
+||fon.promo^
+||ligadobra.ru^
+||ligastavok-csr.ru^
+||ligastavok.ru^
+||sozvezdie-dobra.ru^
+||win-line.ru^
+||winline.ru^
+||winlinebet.ru^

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/comssone
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||comss.club^
+||comss.info^
+||comss.me^
+||comss.net^
+||comss.news^
+||comss.one^
+||comss.online^
+||comss.org^
+||comss.ru^

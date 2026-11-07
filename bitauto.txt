@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bitauto
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||bitauto.com^
+||bitautoimg.com^
+||cheyisou.com^
+||yiche.com^
+||yccdn.com^

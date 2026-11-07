@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/springer
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||apress.com^
+||springer.com^
+||springerlink.com^
+||springernature.com^
+||wkap.nl^

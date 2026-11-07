@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/theguardian
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||dev-guardianapis.com^
+||dev-theguardian.com^
+||gu-web.net^
+||guardianapis.com^
+||theguardian.com^
+||theguardiandns.com^
+||guardianapps.co.uk^
+||guim.co.uk^
+||guimcode.co.uk^

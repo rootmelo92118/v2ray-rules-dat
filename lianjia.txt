@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/lianjia
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||lianjia.com^
+||ljcdn.com^
+||beckyroom.com^
+||bkzhibo.com^
+||ke.com^

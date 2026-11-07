@@ -1,0 +1,26 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kinopub
+! domain: 18
+! full: 0
+! keyword: 0
+! regexp: 1
+
+
+||teleos.club^
+||support-kp.com^
+||kinopub.online^
+||kpdl.link^
+||ahc.ovh^
+||gfw.ovh^
+||tsx.ovh^
+||mos-gorsud.co^
+||kino.watch^
+||smarttvcdn.online^
+||pushbr.com^
+||srvkp.com^
+||kino.pub^
+||cdn-service.space^
+||cdn2cdn.com^
+||cdn2site.com^
+||m.alador.space^
+||api.alador.space^
+/(\w+)-static-[0-9]+\.cdntogo\.net$/

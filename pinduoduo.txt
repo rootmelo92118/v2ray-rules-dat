@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/pinduoduo
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||pddcdn.com^
+||pddim.com^
+||pddpic.com^
+||pddugc.com^
+||pinduoduo.com^
+||pinduoduo.net^
+||yangkeduo.com^

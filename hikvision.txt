@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hikvision
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||hik-cloud.com^
+||hik-express.com^
+||hikiot.com^
+||hikmall.com^
+||hikvision.com^
+||eziot.com^
+||ezviz.com^
+||ys7.com^

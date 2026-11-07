@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cainiao
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||56xiniao.com^
+||cainiao-inc.com^
+||cainiao.com^
+||cainiaoyizhan.com^
+||danniao.com^
+||dianwoda.cn^
+||dianwoda.com^
+||guoguo-app.com^
+||cainiao.com.cn^
+||v6-adashx.ut.cainiao.com^

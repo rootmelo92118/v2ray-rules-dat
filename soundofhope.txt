@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/soundofhope
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||bayvoice.net^
+||ozvoice.org^
+||sohcradio.com^
+||sohfrance.org^
+||soundofhope.eu^
+||soundofhope.kr^
+||soundofhope.org^
+||wanokokorosoh.com^

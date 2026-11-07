@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/avito
+! domain: 4
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+||avito.com^
+||avito.ru^
+||avito.st^
+||avito.tech^
+|stats.avito.ru^
