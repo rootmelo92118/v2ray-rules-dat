@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/purikonejp
+# domain: 3
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,prd-priconne-redive.akamaized.net
+  - DOMAIN-SUFFIX,priconne-redive.jp
+  - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+  - DOMAIN-SUFFIX,omotenashi.cygames.jp

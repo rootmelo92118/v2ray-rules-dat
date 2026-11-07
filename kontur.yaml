@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kontur
+# domain: 5
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,kontur-inc.com
+  - DOMAIN-SUFFIX,kontur.host
+  - DOMAIN-SUFFIX,kontur.ru
+  - DOMAIN-SUFFIX,ktalk.host
+  - DOMAIN-SUFFIX,ktalk.ru
+  - DOMAIN,metrika.kontur.ru
+  - DOMAIN,sentry.kontur.host

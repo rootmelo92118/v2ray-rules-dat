@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sonemic
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,glitchwave.com
+  - DOMAIN-SUFFIX,rateyourmusic.com
+  - DOMAIN-SUFFIX,rym.fm
+  - DOMAIN-SUFFIX,snmc.io
+  - DOMAIN-SUFFIX,sonematic.net
+  - DOMAIN-SUFFIX,sonemic.com

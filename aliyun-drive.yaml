@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/aliyun-drive
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,alicloudccp.com
+  - DOMAIN-SUFFIX,alipan.com
+  - DOMAIN-SUFFIX,aliyundrive.cloud
+  - DOMAIN-SUFFIX,aliyundrive.com
+  - DOMAIN-SUFFIX,aliyundrive.net
+  - DOMAIN-SUFFIX,yunpan.aliyun.com

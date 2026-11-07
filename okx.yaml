@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/okx
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okx-dns.com
+  - DOMAIN-SUFFIX,okx-dns1.com
+  - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
+  - DOMAIN-SUFFIX,okx.cab
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,xlayer.tech
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,oklink.com

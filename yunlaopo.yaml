@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yunlaopo
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,doure.net
+  - DOMAIN-SUFFIX,kuaipa.net
+  - DOMAIN-SUFFIX,miaopa.net
+  - DOMAIN-SUFFIX,yunlaopo.cc
+  - DOMAIN-SUFFIX,yunlaopo.com
+  - DOMAIN-SUFFIX,yunlaopo.net

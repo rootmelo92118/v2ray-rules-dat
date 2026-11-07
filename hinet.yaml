@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hinet
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,emome.net
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,xuite.net
+  - DOMAIN-SUFFIX,cht.com.tw
+  - DOMAIN-SUFFIX,chtf.org.tw
+  - DOMAIN-SUFFIX,gtlsca.nat.gov.tw

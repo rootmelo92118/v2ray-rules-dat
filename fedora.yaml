@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/fedora
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,fedoraforum.org
+  - DOMAIN-SUFFIX,fedorainfracloud.org
+  - DOMAIN-SUFFIX,fedoramagazine.org
+  - DOMAIN-SUFFIX,fedorapeople.org
+  - DOMAIN-SUFFIX,fedoraproject.org
+  - DOMAIN-SUFFIX,getfedora.org
