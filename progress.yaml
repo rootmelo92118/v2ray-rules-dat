@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/progress
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,chef.io
+  - DOMAIN-SUFFIX,getfiddler.com
+  - DOMAIN-SUFFIX,kemptechnologies.com
+  - DOMAIN-SUFFIX,progress.com
+  - DOMAIN-SUFFIX,sharefile.com
+  - DOMAIN-SUFFIX,telerik.com

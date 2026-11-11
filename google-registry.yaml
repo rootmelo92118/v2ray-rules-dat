@@ -1,0 +1,21 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/google-registry
+# domain: 13
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,charlestonroadregistry.com
+  - DOMAIN-SUFFIX,crr.com
+  - DOMAIN-SUFFIX,registry.google
+  - DOMAIN-SUFFIX,get.app
+  - DOMAIN-SUFFIX,get.dev
+  - DOMAIN-SUFFIX,get.how
+  - DOMAIN-SUFFIX,get.new
+  - DOMAIN-SUFFIX,get.page
+  - DOMAIN-SUFFIX,get.rsvp
+  - DOMAIN-SUFFIX,hey.boo
+  - DOMAIN-SUFFIX,iam.soy
+  - DOMAIN-SUFFIX,new.day
+  - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c

@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/asahi
+# domain: 6
+# full: 1
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,asahishimbun.sc.omtrdc.net
+  - DOMAIN-SUFFIX,aiasahi.jp
+  - DOMAIN-SUFFIX,asagaku.com
+  - DOMAIN-SUFFIX,asahi.com
+  - DOMAIN-SUFFIX,asahicom.jp
+  - DOMAIN-SUFFIX,nikkansports.com
+  - DOMAIN-SUFFIX,asakonet.co.jp

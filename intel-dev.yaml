@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/intel-dev
+# domain: 17
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,01.org
+  - DOMAIN-SUFFIX,hyperscan.io
+  - DOMAIN-SUFFIX,intellinuxgraphics.com
+  - DOMAIN-SUFFIX,intellinuxgraphics.net
+  - DOMAIN-SUFFIX,oneapi.com
+  - DOMAIN-SUFFIX,oneapi.io
+  - DOMAIN-SUFFIX,opencas.io
+  - DOMAIN-SUFFIX,opendroneid.org
+  - DOMAIN-SUFFIX,openvino.ai
+  - DOMAIN-SUFFIX,openvinotoolkit.org
+  - DOMAIN-SUFFIX,renderingtoolkit.org
+  - DOMAIN-SUFFIX,snap-telemetry.io
+  - DOMAIN-SUFFIX,universalscalablefirmware.org
+  - DOMAIN-SUFFIX,acpica.com
+  - DOMAIN-SUFFIX,clearlinux.org
+  - DOMAIN-SUFFIX,ospray.net
+  - DOMAIN-SUFFIX,ospray.org

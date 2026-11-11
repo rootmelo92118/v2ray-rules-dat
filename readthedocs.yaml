@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/readthedocs
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,readthedocs-hosted.com
+  - DOMAIN-SUFFIX,readthedocs.com
+  - DOMAIN-SUFFIX,readthedocs.io
+  - DOMAIN-SUFFIX,readthedocs.org

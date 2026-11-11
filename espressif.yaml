@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/espressif
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,esp8266.cn
+  - DOMAIN-SUFFIX,espressif.cn
+  - DOMAIN-SUFFIX,esp8266.com.cn
+  - DOMAIN-SUFFIX,espressif.com.cn
+  - DOMAIN-SUFFIX,esp32.com
+  - DOMAIN-SUFFIX,esp8266.com
+  - DOMAIN-SUFFIX,espressif.com

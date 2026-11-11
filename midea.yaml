@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/midea
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,irsnp.com
+  - DOMAIN-SUFFIX,mdcdn.cn
+  - DOMAIN-SUFFIX,midea.cn
+  - DOMAIN-SUFFIX,midea.com
+  - DOMAIN-SUFFIX,mideaepayuat.com
+  - DOMAIN-SUFFIX,msmartlife.cn
+  - DOMAIN-SUFFIX,msmartlife.com
+  - DOMAIN-SUFFIX,smartmidea.net
+  - DOMAIN-SUFFIX,xiaomaigui.com
+  - DOMAIN-SUFFIX,midea.com.cn
