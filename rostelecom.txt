@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/rostelecom
+! domain: 8
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+||azbukainterneta.ru^
+||rostelecom.ru^
+||rt.ru^
+||restream-media.net^
+||restream.ru^
+||more.tv^
+||wink.am^
+||wink.ru^
+|sentry.iptv.rt.ru^

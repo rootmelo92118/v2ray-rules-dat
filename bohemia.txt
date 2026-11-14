@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bohemia
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||arma3.com^
+||armaplatform.com^
+||bistudio.com^
+||bohemia.net^
+||dayz.com^
+||makearmanotwar.com^
+||silicagame.com^
+||vigorgame.com^
+||ylands.com^

@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bilibili-game
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||bilibiligame.cn^
+||bilibiligame.co^
+||bilibiligame.net^
+||biligame.co^
+||biligame.com^
+||biligame.net^

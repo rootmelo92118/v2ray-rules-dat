@@ -1,0 +1,27 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kindle
+! domain: 20
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||kindle^
+||kindle.it^
+||kindleoasis.com^
+||kindle.com^
+||kindle.de^
+||kindle.es^
+||kindle.fr^
+||kindleproject.com^
+||kindle.in^
+||kindle.jp^
+||kindleoasisnews.com^
+||kindleoasis.info^
+||kindleoasis.jp^
+||kindleoasis.org^
+||kindleoasis.us^
+||kindle.co.jp^
+||kindle.co.uk^
+||kindle.cn^
+||kindleoasis.cn^
+||kindleoasis.com.cn^

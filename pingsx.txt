@@ -1,0 +1,9 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/pingsx
+! domain: 1
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|public-us-pingsx.api.clonoth.com^
+||ping.sx^

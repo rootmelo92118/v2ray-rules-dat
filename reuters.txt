@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/reuters
+! domain: 4
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||reut.rs^
+||reuters.com^
+||reuters.tv^
+||reutersmedia.net^

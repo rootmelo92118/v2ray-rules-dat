@@ -1,0 +1,10 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/secom
+! domain: 3
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||secomtrust.net^
+||secom.co.jp^
+||managedpki.ne.jp^

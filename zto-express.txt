@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/zto-express
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ztoapp.com^
+||izto.com^
+||tuxi.com^
+||zt-express.com^
+||zto.cn^
+||zto.com^
+||zto.net^
+||95311.com^
+||ztoglobal.com^
+||ztogroup.com^
+||ztoyh.com^
+||izto.com.cn^
+||mlzt.com.cn^

@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/atlassian
+! domain: 11
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||atl-paas.net^
+||atlassian-dev.net^
+||atlassian.com^
+||atlassian.net^
+||bitbucket.io^
+||bitbucket.org^
+||jira.com^
+||ss-inf.net^
+||statuspage.io^
+||trello.com^
+||trellocdn.com^
