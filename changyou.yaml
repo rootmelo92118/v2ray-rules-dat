@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/changyou
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,17173.com
+  - DOMAIN-SUFFIX,17173cdn.com
+  - DOMAIN-SUFFIX,changyou.com
+  - DOMAIN-SUFFIX,cy.com
+  - DOMAIN-SUFFIX,playcool.com
+  - DOMAIN-SUFFIX,yeyou.com
+  - DOMAIN-SUFFIX,yeyoucdn.com

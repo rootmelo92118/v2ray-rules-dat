@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bohemia
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,arma3.com
+  - DOMAIN-SUFFIX,armaplatform.com
+  - DOMAIN-SUFFIX,bistudio.com
+  - DOMAIN-SUFFIX,bohemia.net
+  - DOMAIN-SUFFIX,dayz.com
+  - DOMAIN-SUFFIX,makearmanotwar.com
+  - DOMAIN-SUFFIX,silicagame.com
+  - DOMAIN-SUFFIX,vigorgame.com
+  - DOMAIN-SUFFIX,ylands.com

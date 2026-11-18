@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/unext
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,nxtv.jp
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.jp
+  - DOMAIN-SUFFIX,unext.co.jp

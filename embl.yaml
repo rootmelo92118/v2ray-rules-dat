@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/embl
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,embl-hamburg.de
+  - DOMAIN-SUFFIX,embl.de
+  - DOMAIN-SUFFIX,embl.fr
+  - DOMAIN-SUFFIX,embl.it
+  - DOMAIN-SUFFIX,embl.org
+  - DOMAIN-SUFFIX,emblstatic.net
+  - DOMAIN-SUFFIX,ebi.ac.uk

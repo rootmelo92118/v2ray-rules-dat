@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinanews
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,chinanews.com
+  - DOMAIN-SUFFIX,chinaqw.com
+  - DOMAIN-SUFFIX,cnsimg.net
+  - DOMAIN-SUFFIX,ecns.cn
+  - DOMAIN-SUFFIX,inewsweek.cn
+  - DOMAIN-SUFFIX,jwview.com
+  - DOMAIN-SUFFIX,xinmeng.info
+  - DOMAIN-SUFFIX,chinanews.com.cn
+  - DOMAIN-SUFFIX,cns.com.cn

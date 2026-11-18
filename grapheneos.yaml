@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/grapheneos
+# domain: 16
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,attestation.app
+  - DOMAIN-SUFFIX,grapheneos.app
+  - DOMAIN-SUFFIX,grapheneos.ca
+  - DOMAIN-SUFFIX,grapheneos.com
+  - DOMAIN-SUFFIX,grapheneos.dev
+  - DOMAIN-SUFFIX,grapheneos.foundation
+  - DOMAIN-SUFFIX,grapheneos.info
+  - DOMAIN-SUFFIX,grapheneos.net
+  - DOMAIN-SUFFIX,grapheneos.network
+  - DOMAIN-SUFFIX,grapheneos.online
+  - DOMAIN-SUFFIX,grapheneos.org
+  - DOMAIN-SUFFIX,grapheneos.ovh
+  - DOMAIN-SUFFIX,grapheneos.page
+  - DOMAIN-SUFFIX,grapheneos.social
+  - DOMAIN-SUFFIX,seamlessupdate.app
+  - DOMAIN-SUFFIX,vanadium.app

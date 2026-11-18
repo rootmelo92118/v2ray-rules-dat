@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/cloudcone
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,clco.cc
+  - DOMAIN-SUFFIX,cloudc.one
+  - DOMAIN-SUFFIX,cloudcone.com
+  - DOMAIN-SUFFIX,cloudcone.net

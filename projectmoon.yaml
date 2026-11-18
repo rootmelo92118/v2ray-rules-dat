@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/projectmoon
+# domain: 4
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,projectmoon.studio
+  - DOMAIN-SUFFIX,limbuscompany.global
+  - DOMAIN-SUFFIX,limbuscompanyapi.com
+  - DOMAIN-SUFFIX,limbuscompanycdn.org

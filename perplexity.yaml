@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/perplexity
+# domain: 3
+# full: 2
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+  - DOMAIN,pplx-res.cloudinary.com
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,perplexity.com
+  - DOMAIN-SUFFIX,pplx.ai

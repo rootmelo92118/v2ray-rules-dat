@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mainichi
+# domain: 10
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,machigoto.jp
+  - DOMAIN-SUFFIX,mainichi-athletepartners.jp
+  - DOMAIN-SUFFIX,mainichi.jp
+  - DOMAIN-SUFFIX,mainichibooks.com
+  - DOMAIN-SUFFIX,meijinsen.jp
+  - DOMAIN-SUFFIX,mirailab.tech
+  - DOMAIN-SUFFIX,mottainai.info
+  - DOMAIN-SUFFIX,newsgawakaru.com
+  - DOMAIN-SUFFIX,weekly-economist.com
+  - DOMAIN-SUFFIX,sponichi.co.jp

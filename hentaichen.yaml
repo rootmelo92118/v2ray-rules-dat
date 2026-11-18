@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hentaichen
+# domain: 6
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,h-chan.me
+  - DOMAIN-SUFFIX,hentai-chan.com
+  - DOMAIN-SUFFIX,hentai-chan.live
+  - DOMAIN-SUFFIX,hentaichan.live
+  - DOMAIN-SUFFIX,hentaichan.me
+  - DOMAIN-SUFFIX,imgschan.xyz

@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/flickr
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,flickr
+  - DOMAIN-SUFFIX,flic.kr
+  - DOMAIN-SUFFIX,flickr.com
+  - DOMAIN-SUFFIX,flickr.net
+  - DOMAIN-SUFFIX,staticflickr.com
