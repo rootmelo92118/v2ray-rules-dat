@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kurogames
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||kurobbs.com^
+||kurogame.com^
+||kurogame.xyz^
+||kurogames.com^
+||aki-game.com^
+||aki-game2.com^
+||wutheringwaves.cn^
+||kurogame-service.com^
+||kurogame.net^
+||kurogames-ads.com^
+||kurogames.net^
+||aki-game.net^
+||aki-game2.net^

@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/forza
+! domain: 4
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|prodforza.blob.core.windows.net^
+||forza.net^
+||forzamotorsport.net^
+||forzaracingchampionship.com^
+||forzarc.com^

@@ -1,0 +1,25 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sberbank
+! domain: 17
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+||bps-sberbank.by^
+||sber-bank.by^
+||sber.ru^
+||sberbank.com^
+||sberbank.ru^
+||sbrf.ru^
+||yookassa.ru^
+||yoomoney.ru^
+||cplsb.ru^
+||sberspasibo.ru^
+||spasibo.digital^
+||spasibo.market^
+||spasibobonus.ru^
+||spasibosb.ru^
+||spasibosberbank.ru^
+||ads.sber.ru^
+||clickstream.sberbank.ru^
+|visor.sberbank.ru^

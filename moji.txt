@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/moji
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||airnut.com^
+||moji.com^
+||moji001.com^
+||moji002.com^
+||mojicdn.com^
+||mojichina.com^
+||ad.api.moji.com^

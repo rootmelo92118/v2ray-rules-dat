@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/sinopec
+! domain: 5
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||sinopec-usa.com^
+||sinopec.com^
+||sinopecgroup.com^
+||sinopecsales.com^
+||sinopecnews.com.cn^

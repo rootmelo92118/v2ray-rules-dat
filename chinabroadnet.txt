@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/chinabroadnet
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||cbn.cn^
+||ahitv.com^
+||cqccn.com^
+||sc96655.com^
+||isxtv.com^
+||sdgdwljt.com^
+||10099.com.cn^
+||gcable.com.cn^
+||mnc015.mcc460.pub.3gppnetwork.org^

@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/kontur
+! domain: 5
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+||kontur-inc.com^
+||kontur.host^
+||kontur.ru^
+||ktalk.host^
+||ktalk.ru^
+|metrika.kontur.ru^
+|sentry.kontur.host^

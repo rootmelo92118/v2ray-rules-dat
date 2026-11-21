@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/ficbook
+! domain: 6
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||fanfictionero.com^
+||fic.fan^
+||ficador.com^
+||ficbook.net^
+||ficmania.com^
+||teinon.net^

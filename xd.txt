@@ -1,0 +1,19 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/xd
+! domain: 12
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ro.com^
+||xd.cn^
+||xd.com^
+||xdcdn.net^
+||xindong.com^
+||tapapks.com^
+||tapimg.com^
+||tapimg.net^
+||taptap.cn^
+||taptap.com^
+||taptapdada.com^
+||taptap.io^

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/lysol
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||lysol.ca^
+||lysol.cl^
+||lysol.com^
+||lysol.net^
+||lizol.co.in^
+||lysol.co.cr^
+||lysol.com.mx^
+||lysol.cn^
+||lysol.com.cn^

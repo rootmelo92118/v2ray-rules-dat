@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/vixengroup
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||blacked.com^
+||blackedraw.com^
+||deeper.com^
+||milfy.com^
+||slayed.com^
+||tushy.com^
+||tushyraw.com^
+||vixen.com^
+||vixengroup.com^

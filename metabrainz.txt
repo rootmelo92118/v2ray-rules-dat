@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/metabrainz
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||acousticbrainz.org^
+||bookbrainz.org^
+||coverartarchive.org^
+||critiquebrainz.org^
+||listenbrainz.org^
+||messybrainz.org^
+||metabrainz.org^
+||musicbrainz.org^

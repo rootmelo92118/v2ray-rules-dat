@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/yundaex
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||ydsys.cn^
+||yundaex.cn^
+||yundaex.com^
+||yundasys.com^
+||yunda56.com^
+||yundalog.com^
+||yundaltl.com^
+||udalogistic.com^
+||udalogistic.cn^
