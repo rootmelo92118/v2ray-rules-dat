@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/taptap
+# domain: 7
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,tapapks.com
+  - DOMAIN-SUFFIX,tapimg.com
+  - DOMAIN-SUFFIX,tapimg.net
+  - DOMAIN-SUFFIX,taptap.cn
+  - DOMAIN-SUFFIX,taptap.com
+  - DOMAIN-SUFFIX,taptapdada.com
+  - DOMAIN-SUFFIX,taptap.io

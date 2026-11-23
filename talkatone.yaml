@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/talkatone
+# domain: 9
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,agkn.com
+  - DOMAIN-SUFFIX,cohere.com
+  - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,kochava.com
+  - DOMAIN-SUFFIX,mobilefuse.com
+  - DOMAIN-SUFFIX,talkatone.com
+  - DOMAIN-SUFFIX,tktn.at
+  - DOMAIN-SUFFIX,tktn.be

@@ -1,0 +1,13 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/hujiang
+# domain: 5
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,cctalk.com
+  - DOMAIN-SUFFIX,hjapi.com
+  - DOMAIN-SUFFIX,hjfile.cn
+  - DOMAIN-SUFFIX,hujiang.com
+  - DOMAIN-SUFFIX,yeshj.com

@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/mixi
+# domain: 3
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,mixi.jp
+  - DOMAIN-SUFFIX,mixi.net
+  - DOMAIN-SUFFIX,mixi.co.jp

@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/farfetch
+# domain: 8
+# full: 0
+# keyword: 0
+# regexp: 0 (not in rule-set)
+
+
+payload:
+  - DOMAIN-SUFFIX,farfetch-apps.com
+  - DOMAIN-SUFFIX,farfetch-contents.com
+  - DOMAIN-SUFFIX,farfetch.com
+  - DOMAIN-SUFFIX,farfetch.net
+  - DOMAIN-SUFFIX,fflnk.net
+  - DOMAIN-SUFFIX,farfetch.cn
+  - DOMAIN-SUFFIX,farfetch.com.cn
+  - DOMAIN-SUFFIX,farfetch.net.cn
