@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/transtelecom
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||baikal-ttk.ru^
+||kttk.ru^
+||myttk.ru^
+||sakhttk.ru^
+||ttc-net.ru^
+||ttk.ru^
+||ttkdv.ru^
+||zsttk.net^

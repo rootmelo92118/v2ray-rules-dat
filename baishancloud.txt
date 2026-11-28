@@ -1,0 +1,16 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/baishancloud
+! domain: 9
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||baishan.com^
+||baishancdnx.cn^
+||baishancloud.com^
+||bsclink.cn^
+||qingcdn.com^
+||trpcdn.com^
+||trpcdn.net^
+||yundun.com^
+||saxyit.com^

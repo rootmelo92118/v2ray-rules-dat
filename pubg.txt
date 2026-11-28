@@ -1,0 +1,11 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/pubg
+! domain: 3
+! full: 1
+! keyword: 0
+! regexp: 0
+
+
+|pubg1.battleye.com^
+||kraftonde.com^
+||playbattlegrounds.com^
+||pubg.com^

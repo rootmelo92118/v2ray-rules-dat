@@ -1,0 +1,15 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/stripe
+! domain: 8
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||link.com^
+||stripe-terminal-local-reader.net^
+||stripe.com^
+||stripe.dev^
+||stripe.events^
+||stripe.global^
+||stripe.network^
+||stripecdn.com^

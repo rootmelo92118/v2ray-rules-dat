@@ -1,0 +1,18 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/espn
+! domain: 8
+! full: 3
+! keyword: 0
+! regexp: 0
+
+
+|espn.api.edge.bamgrid.com^
+|espn.hb.omtrdc.net^
+|espndotcom.tt.omtrdc.net^
+||dtci.co^
+||dtci.technology^
+||espn.com^
+||espn.net^
+||espncdn.com^
+||espnqa.com^
+||watchespn.com^
+||espn.co.uk^

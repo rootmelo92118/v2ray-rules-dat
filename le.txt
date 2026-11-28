@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/le
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||le.com^
+||leautolink.com^
+||lecloud.com^
+||lecloudapi.com^
+||lemall.com^
+||leso.cn^
+||letv.com^
+||letvcdn.com^
+||letvimg.com^
+||apple.www.letv.com^
+||ark.letv.com^
+||dc.letv.com^
+||g3.letv.com^

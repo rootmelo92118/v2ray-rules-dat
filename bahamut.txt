@@ -1,0 +1,12 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/bahamut
+! domain: 3
+! full: 2
+! keyword: 0
+! regexp: 0
+
+
+|gamer2-cds.cdn.hinet.net^
+|gamer-cds.cdn.hinet.net^
+||bahamut.akamaized.net^
+||bahamut.com.tw^
+||gamer.com.tw^

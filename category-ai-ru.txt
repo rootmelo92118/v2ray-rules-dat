@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/category-ai-ru
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||polza.ai^
+||copymonkey.app^
+||devmachine.ai^
+||gerwin.io^
+||giga.chat^
+||gptunnel.ru^
+||aiesa.ru^
+||robotext.io^
+||rugpt.io^
+||tokenator.top^
+||alice.yandex.net^
+||alice.yandex.ru^
+||alicepro.yandex.ru^

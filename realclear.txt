@@ -1,0 +1,24 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/realclear
+! domain: 17
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||realclear.com^
+||realclearbooks.com^
+||realcleardefense.com^
+||realcleareducation.com^
+||realclearenergy.org^
+||realclearfoundation.org^
+||realclearhealth.com^
+||realclearhistory.com^
+||realclearinvestigations.com^
+||realclearlife.com^
+||realclearmarkets.com^
+||realclearpolicy.com^
+||realclearpolitics.com^
+||realclearpublicaffairs.com^
+||realclearreligion.org^
+||realclearscience.com^
+||realclearworld.com^

@@ -1,0 +1,20 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/logitech
+! domain: 13
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||logitech.fr^
+||logicoolg.com^
+||logitech.biz^
+||logitech.com^
+||logi.com^
+||logitech.io^
+||logitechg.com^
+||logitechg.fr^
+||worldsfastestgamer.net^
+||logicool.co.jp^
+||logitech.com.cn^
+||logitechg.com.cn^
+||logitechio.com.cn^

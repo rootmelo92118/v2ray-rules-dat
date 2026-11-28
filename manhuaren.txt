@@ -1,0 +1,17 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/manhuaren
+! domain: 10
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||1kkk.com^
+||cdndm5.com^
+||dm5.cn^
+||dm5.com^
+||dm9.com^
+||gmanhua.com^
+||hkmanga.com^
+||manben.com^
+||manbenapi.com^
+||manhuaren.com^

@@ -1,0 +1,14 @@
+# Source: https://github.com/v2fly/domain-list-community/blob/master/data/gismeteo
+! domain: 7
+! full: 0
+! keyword: 0
+! regexp: 0
+
+
+||gismeteo.by^
+||gismeteo.com^
+||gismeteo.net^
+||gismeteo.ru^
+||gismeteo.st^
+||meteofor.com^
+||meteofor.st^
